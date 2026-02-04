@@ -1,12 +1,9 @@
 package compose.icons.octicons
 
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.PathFillType.Companion.EvenOdd
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
-import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
-import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
@@ -38,24 +35,23 @@ public val Octicons.Stop24: ImageVector
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
-                    pathFillType = EvenOdd) {
+                    pathFillType = NonZero) {
                 moveTo(7.328f, 1.47f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.53f, -0.22f)
+                arcToRelative(0.749f, 0.749f, 0.0f, false, true, 0.53f, -0.22f)
                 horizontalLineToRelative(8.284f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.53f, 0.22f)
+                curveToRelative(0.199f, 0.0f, 0.389f, 0.079f, 0.53f, 0.22f)
                 lineToRelative(5.858f, 5.858f)
                 curveToRelative(0.141f, 0.14f, 0.22f, 0.33f, 0.22f, 0.53f)
                 verticalLineToRelative(8.284f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, -0.22f, 0.53f)
+                arcToRelative(0.749f, 0.749f, 0.0f, false, true, -0.22f, 0.53f)
                 lineToRelative(-5.858f, 5.858f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, -0.53f, 0.22f)
+                arcToRelative(0.749f, 0.749f, 0.0f, false, true, -0.53f, 0.22f)
                 lineTo(7.858f, 22.75f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, -0.53f, -0.22f)
+                arcToRelative(0.749f, 0.749f, 0.0f, false, true, -0.53f, -0.22f)
                 lineTo(1.47f, 16.672f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, -0.22f, -0.53f)
+                arcToRelative(0.749f, 0.749f, 0.0f, false, true, -0.22f, -0.53f)
                 lineTo(1.25f, 7.858f)
-                arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.22f, -0.53f)
-                lineTo(7.328f, 1.47f)
+                curveToRelative(0.0f, -0.199f, 0.079f, -0.389f, 0.22f, -0.53f)
                 close()
                 moveTo(8.168f, 2.75f)
                 lineTo(2.75f, 8.169f)
@@ -65,7 +61,6 @@ public val Octicons.Stop24: ImageVector
                 lineToRelative(5.419f, -5.418f)
                 lineTo(21.25f, 8.168f)
                 lineTo(15.832f, 2.75f)
-                lineTo(8.168f, 2.75f)
                 close()
             }
         }
