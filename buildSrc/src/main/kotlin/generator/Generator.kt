@@ -135,8 +135,8 @@ private fun Project.generate(
 
     // Documentation
 
-    fun replacePathName(path: String): String {
-        return mapResultConfig.relocatedNames[path]!!
+    fun replacePathName(path: String): String? {
+        return mapResultConfig.relocatedNames[path]
     }
 
     fun ParsingResult.asDocumentationGroup(
@@ -167,7 +167,12 @@ private fun Project.generate(
     }
 
     fun markdownSvg(doc: DocumentationIcon): String {
-        return "<img src=\"${rawGithubRepository + "/" + replacePathName(doc.svgFilePathRelativeToRepository) }\" width=64 height=64 /> "
+        val replacedPath = replacePathName(doc.svgFilePathRelativeToRepository)
+        return if (replacedPath != null) {
+            "<img src=\"${rawGithubRepository + "/" + replacedPath}\" width=64 height=64 /> "
+        } else {
+            ""  // Skip icons that were removed
+        }
     }
 
     fun markdownIconDocumentation(doc: DocumentationIcon): String {
@@ -225,5 +230,9 @@ fun MutableMap<String, String>.putRelocatedRelativeTo(relative: File, key: File,
     put(key.relativeTo(relative).path, value.relativeTo(relative).path)
 }
 
-data class Icon(var title: String, var slug: String?, var hex: String, var source: String)
-data class SimpleIcons(var icons: List<Icon>)
+data class Icon(
+    val title: String,
+    val slug: String? = null,
+    val hex: String,
+    val source: String
+)
