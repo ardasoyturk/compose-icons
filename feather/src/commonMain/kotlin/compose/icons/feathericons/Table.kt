@@ -11,36 +11,40 @@ import compose.icons.FeatherIcons
 import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
 import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
 
-public val FeatherIcons.Home: ImageVector
+public val FeatherIcons.Table: ImageVector
     get() {
-        if (_home != null) {
-            return _home!!
+        if (_table != null) {
+            return _table!!
         }
-        _home = Builder(name = "Home", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+        _table = Builder(name = "Table", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
                     strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 9.0f)
-                lineToRelative(9.0f, -7.0f)
-                lineToRelative(9.0f, 7.0f)
-                verticalLineToRelative(11.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
+                moveTo(9.0f, 3.0f)
+                horizontalLineTo(5.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, false, -2.0f, 2.0f)
+                verticalLineToRelative(4.0f)
+                moveToRelative(6.0f, -6.0f)
+                horizontalLineToRelative(10.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
+                verticalLineToRelative(4.0f)
+                moveTo(9.0f, 3.0f)
+                verticalLineToRelative(18.0f)
+                moveToRelative(0.0f, 0.0f)
+                horizontalLineToRelative(10.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, false, 2.0f, -2.0f)
+                verticalLineTo(9.0f)
+                moveTo(9.0f, 21.0f)
                 horizontalLineTo(5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                close()
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.0f, 22.0f)
-                lineToRelative(0.0f, -10.0f)
-                lineToRelative(6.0f, 0.0f)
-                lineToRelative(0.0f, 10.0f)
+                verticalLineTo(9.0f)
+                moveToRelative(0.0f, 0.0f)
+                horizontalLineToRelative(18.0f)
             }
         }
         .build()
-        return _home!!
+        return _table!!
     }
 
-private var _home: ImageVector? = null
+private var _table: ImageVector? = null
