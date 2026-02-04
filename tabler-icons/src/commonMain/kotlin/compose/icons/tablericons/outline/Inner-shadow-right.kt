@@ -1,0 +1,39 @@
+package compose.icons.tablericons.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import compose.icons.tablericons.OutlineGroup
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
+
+public val OutlineGroup.`Inner-shadow-right`: ImageVector
+    get() {
+        if (`_inner-shadow-right` != null) {
+            return `_inner-shadow-right`!!
+        }
+        `_inner-shadow-right` = Builder(name = "Inner-shadow-right", defaultWidth = 24.0.dp,
+                defaultHeight = 24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(18.364f, 18.364f)
+                arcToRelative(9.0f, 9.0f, 0.0f, true, true, -12.728f, -12.728f)
+                arcToRelative(9.0f, 9.0f, 0.0f, false, true, 12.728f, 12.728f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(16.243f, 7.757f)
+                arcToRelative(6.0f, 6.0f, 0.0f, false, true, 0.0f, 8.486f)
+            }
+        }
+        .build()
+        return `_inner-shadow-right`!!
+    }
+
+private var `_inner-shadow-right`: ImageVector? = null

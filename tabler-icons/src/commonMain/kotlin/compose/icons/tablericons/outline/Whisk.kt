@@ -1,0 +1,42 @@
+package compose.icons.tablericons.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import compose.icons.tablericons.OutlineGroup
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
+
+public val OutlineGroup.Whisk: ImageVector
+    get() {
+        if (_whisk != null) {
+            return _whisk!!
+        }
+        _whisk = Builder(name = "Whisk", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(21.015f, 3.035f)
+                lineToRelative(-16.515f, 16.465f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(3.173f, 17.619f)
+                arcToRelative(4.63f, 4.63f, 0.0f, false, false, 3.284f, 3.26f)
+                arcToRelative(4.67f, 4.67f, 0.0f, false, false, 4.487f, -1.194f)
+                curveToRelative(1.85f, -1.836f, 4.07f, -10.65f, 4.07f, -10.65f)
+                reflectiveCurveToRelative(-8.88f, 2.296f, -10.639f, 4.132f)
+                arcToRelative(4.59f, 4.59f, 0.0f, false, false, -1.202f, 4.452f)
+            }
+        }
+        .build()
+        return _whisk!!
+    }
+
+private var _whisk: ImageVector? = null

@@ -1,0 +1,45 @@
+package compose.icons.tablericons.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import compose.icons.tablericons.OutlineGroup
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
+
+public val OutlineGroup.`Brand-sentry`: ImageVector
+    get() {
+        if (`_brand-sentry` != null) {
+            return `_brand-sentry`!!
+        }
+        `_brand-sentry` = Builder(name = "Brand-sentry", defaultWidth = 24.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(3.0f, 18.0f)
+                arcToRelative(1.93f, 1.93f, 0.0f, false, false, 0.306f, 1.076f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, false, 1.584f, 0.924f)
+                curveToRelative(0.646f, 0.033f, -0.537f, 0.0f, 0.11f, 0.0f)
+                horizontalLineToRelative(3.0f)
+                arcToRelative(4.992f, 4.992f, 0.0f, false, false, -3.66f, -4.81f)
+                curveToRelative(0.558f, -0.973f, 1.24f, -2.149f, 2.04f, -3.531f)
+                arcToRelative(9.0f, 9.0f, 0.0f, false, true, 5.62f, 8.341f)
+                horizontalLineToRelative(4.0f)
+                curveToRelative(0.663f, 0.0f, 2.337f, 0.0f, 3.0f, 0.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, false, 1.84f, -2.75f)
+                lineToRelative(-7.1f, -12.25f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, false, -3.5f, 0.0f)
+                lineToRelative(-1.84f, 3.176f)
+                curveToRelative(4.482f, 2.05f, 7.6f, 6.571f, 7.6f, 11.824f)
+            }
+        }
+        .build()
+        return `_brand-sentry`!!
+    }
+
+private var `_brand-sentry`: ImageVector? = null

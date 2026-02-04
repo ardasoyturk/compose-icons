@@ -1,0 +1,63 @@
+package compose.icons.tablericons.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import compose.icons.tablericons.OutlineGroup
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
+
+public val OutlineGroup.`Mood-heart`: ImageVector
+    get() {
+        if (`_mood-heart` != null) {
+            return `_mood-heart`!!
+        }
+        `_mood-heart` = Builder(name = "Mood-heart", defaultWidth = 24.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(21.0f, 12.0f)
+                arcToRelative(9.0f, 9.0f, 0.0f, true, false, -8.012f, 8.946f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(9.0f, 10.0f)
+                horizontalLineToRelative(0.01f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(15.0f, 10.0f)
+                horizontalLineToRelative(0.01f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(9.5f, 15.0f)
+                arcToRelative(3.59f, 3.59f, 0.0f, false, false, 2.774f, 0.99f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(18.994f, 21.5f)
+                lineToRelative(2.518f, -2.58f)
+                arcToRelative(1.74f, 1.74f, 0.0f, false, false, 0.004f, -2.413f)
+                arcToRelative(1.627f, 1.627f, 0.0f, false, false, -2.346f, -0.005f)
+                lineToRelative(-0.168f, 0.172f)
+                lineToRelative(-0.168f, -0.172f)
+                arcToRelative(1.627f, 1.627f, 0.0f, false, false, -2.346f, -0.004f)
+                arcToRelative(1.74f, 1.74f, 0.0f, false, false, -0.004f, 2.412f)
+                lineToRelative(2.51f, 2.59f)
+            }
+        }
+        .build()
+        return `_mood-heart`!!
+    }
+
+private var `_mood-heart`: ImageVector? = null

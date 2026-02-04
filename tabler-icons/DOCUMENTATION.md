@@ -2,14 +2,14 @@
 
 <br />
 
-## [License](https://github.com/tabler/tabler-icons/blob/v1.39.1/LICENSE)
+## [License](https://github.com/tabler/tabler-icons/blob/v3.36.1/LICENSE)
 
 <br />
 
 ```
 MIT License
 
-Copyright (c) 2020 Paweł Kuna
+Copyright (c) 2020-2025 Paweł Kuna
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,428 +33,2008 @@ SOFTWARE.
 <br /><br />
 
 
-## TablerIcons
+## Filled
 
 | Icon | In Code | Icon | In Code | Icon | In Code |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/a-b.svg" width=64 height=64 />  | TablerIcons.AB | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/access-point.svg" width=64 height=64 />  | TablerIcons.AccessPoint | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/access-point-off.svg" width=64 height=64 />  | TablerIcons.AccessPointOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/accessible.svg" width=64 height=64 />  | TablerIcons.Accessible | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/activity.svg" width=64 height=64 />  | TablerIcons.Activity | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ad.svg" width=64 height=64 />  | TablerIcons.Ad |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/adjustments.svg" width=64 height=64 />  | TablerIcons.Adjustments | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/adjustments-alt.svg" width=64 height=64 />  | TablerIcons.AdjustmentsAlt | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/adjustments-horizontal.svg" width=64 height=64 />  | TablerIcons.AdjustmentsHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/aerial-lift.svg" width=64 height=64 />  | TablerIcons.AerialLift | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/affiliate.svg" width=64 height=64 />  | TablerIcons.Affiliate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/alarm.svg" width=64 height=64 />  | TablerIcons.Alarm |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/alert-circle.svg" width=64 height=64 />  | TablerIcons.AlertCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/alert-octagon.svg" width=64 height=64 />  | TablerIcons.AlertOctagon | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/alert-triangle.svg" width=64 height=64 />  | TablerIcons.AlertTriangle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/alien.svg" width=64 height=64 />  | TablerIcons.Alien | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/align-center.svg" width=64 height=64 />  | TablerIcons.AlignCenter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/align-justified.svg" width=64 height=64 />  | TablerIcons.AlignJustified |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/align-left.svg" width=64 height=64 />  | TablerIcons.AlignLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/align-right.svg" width=64 height=64 />  | TablerIcons.AlignRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ambulance.svg" width=64 height=64 />  | TablerIcons.Ambulance |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/anchor.svg" width=64 height=64 />  | TablerIcons.Anchor | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/antenna-bars-1.svg" width=64 height=64 />  | TablerIcons.AntennaBars1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/antenna-bars-2.svg" width=64 height=64 />  | TablerIcons.AntennaBars2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/antenna-bars-3.svg" width=64 height=64 />  | TablerIcons.AntennaBars3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/antenna-bars-4.svg" width=64 height=64 />  | TablerIcons.AntennaBars4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/antenna-bars-5.svg" width=64 height=64 />  | TablerIcons.AntennaBars5 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/aperture.svg" width=64 height=64 />  | TablerIcons.Aperture | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/apps.svg" width=64 height=64 />  | TablerIcons.Apps | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/archive.svg" width=64 height=64 />  | TablerIcons.Archive |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-back.svg" width=64 height=64 />  | TablerIcons.ArrowBack | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-back-up.svg" width=64 height=64 />  | TablerIcons.ArrowBackUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-down.svg" width=64 height=64 />  | TablerIcons.ArrowBarDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-left.svg" width=64 height=64 />  | TablerIcons.ArrowBarLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-right.svg" width=64 height=64 />  | TablerIcons.ArrowBarRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-to-down.svg" width=64 height=64 />  | TablerIcons.ArrowBarToDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-to-left.svg" width=64 height=64 />  | TablerIcons.ArrowBarToLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-to-right.svg" width=64 height=64 />  | TablerIcons.ArrowBarToRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-to-up.svg" width=64 height=64 />  | TablerIcons.ArrowBarToUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bar-up.svg" width=64 height=64 />  | TablerIcons.ArrowBarUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-big-down.svg" width=64 height=64 />  | TablerIcons.ArrowBigDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-big-left.svg" width=64 height=64 />  | TablerIcons.ArrowBigLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-big-right.svg" width=64 height=64 />  | TablerIcons.ArrowBigRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-big-top.svg" width=64 height=64 />  | TablerIcons.ArrowBigTop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bottom-bar.svg" width=64 height=64 />  | TablerIcons.ArrowBottomBar |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bottom-circle.svg" width=64 height=64 />  | TablerIcons.ArrowBottomCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bottom-square.svg" width=64 height=64 />  | TablerIcons.ArrowBottomSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-bottom-tail.svg" width=64 height=64 />  | TablerIcons.ArrowBottomTail |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down.svg" width=64 height=64 />  | TablerIcons.ArrowDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down-circle.svg" width=64 height=64 />  | TablerIcons.ArrowDownCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down-left.svg" width=64 height=64 />  | TablerIcons.ArrowDownLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down-left-circle.svg" width=64 height=64 />  | TablerIcons.ArrowDownLeftCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down-right.svg" width=64 height=64 />  | TablerIcons.ArrowDownRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-down-right-circle.svg" width=64 height=64 />  | TablerIcons.ArrowDownRightCircle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-forward.svg" width=64 height=64 />  | TablerIcons.ArrowForward | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-forward-up.svg" width=64 height=64 />  | TablerIcons.ArrowForwardUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-left.svg" width=64 height=64 />  | TablerIcons.ArrowLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-left-bar.svg" width=64 height=64 />  | TablerIcons.ArrowLeftBar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-left-circle.svg" width=64 height=64 />  | TablerIcons.ArrowLeftCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-left-square.svg" width=64 height=64 />  | TablerIcons.ArrowLeftSquare |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-left-tail.svg" width=64 height=64 />  | TablerIcons.ArrowLeftTail | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-loop-left.svg" width=64 height=64 />  | TablerIcons.ArrowLoopLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-loop-right.svg" width=64 height=64 />  | TablerIcons.ArrowLoopRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-narrow-down.svg" width=64 height=64 />  | TablerIcons.ArrowNarrowDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-narrow-left.svg" width=64 height=64 />  | TablerIcons.ArrowNarrowLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-narrow-right.svg" width=64 height=64 />  | TablerIcons.ArrowNarrowRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-narrow-up.svg" width=64 height=64 />  | TablerIcons.ArrowNarrowUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-ramp-left.svg" width=64 height=64 />  | TablerIcons.ArrowRampLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-ramp-right.svg" width=64 height=64 />  | TablerIcons.ArrowRampRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-right.svg" width=64 height=64 />  | TablerIcons.ArrowRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-right-bar.svg" width=64 height=64 />  | TablerIcons.ArrowRightBar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-right-circle.svg" width=64 height=64 />  | TablerIcons.ArrowRightCircle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-right-square.svg" width=64 height=64 />  | TablerIcons.ArrowRightSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-right-tail.svg" width=64 height=64 />  | TablerIcons.ArrowRightTail | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-top-bar.svg" width=64 height=64 />  | TablerIcons.ArrowTopBar |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-top-circle.svg" width=64 height=64 />  | TablerIcons.ArrowTopCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-top-square.svg" width=64 height=64 />  | TablerIcons.ArrowTopSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-top-tail.svg" width=64 height=64 />  | TablerIcons.ArrowTopTail |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up.svg" width=64 height=64 />  | TablerIcons.ArrowUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up-circle.svg" width=64 height=64 />  | TablerIcons.ArrowUpCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up-left.svg" width=64 height=64 />  | TablerIcons.ArrowUpLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up-left-circle.svg" width=64 height=64 />  | TablerIcons.ArrowUpLeftCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up-right.svg" width=64 height=64 />  | TablerIcons.ArrowUpRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-up-right-circle.svg" width=64 height=64 />  | TablerIcons.ArrowUpRightCircle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-wave-left-down.svg" width=64 height=64 />  | TablerIcons.ArrowWaveLeftDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-wave-left-up.svg" width=64 height=64 />  | TablerIcons.ArrowWaveLeftUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-wave-right-down.svg" width=64 height=64 />  | TablerIcons.ArrowWaveRightDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrow-wave-right-up.svg" width=64 height=64 />  | TablerIcons.ArrowWaveRightUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-diagonal.svg" width=64 height=64 />  | TablerIcons.ArrowsDiagonal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-diagonal-2.svg" width=64 height=64 />  | TablerIcons.ArrowsDiagonal2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-double-ne-sw.svg" width=64 height=64 />  | TablerIcons.ArrowsDoubleNeSw | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-double-nw-se.svg" width=64 height=64 />  | TablerIcons.ArrowsDoubleNwSe | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-double-se-nw.svg" width=64 height=64 />  | TablerIcons.ArrowsDoubleSeNw |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-double-sw-ne.svg" width=64 height=64 />  | TablerIcons.ArrowsDoubleSwNe | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-down.svg" width=64 height=64 />  | TablerIcons.ArrowsDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-down-up.svg" width=64 height=64 />  | TablerIcons.ArrowsDownUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-horizontal.svg" width=64 height=64 />  | TablerIcons.ArrowsHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-join.svg" width=64 height=64 />  | TablerIcons.ArrowsJoin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-join-2.svg" width=64 height=64 />  | TablerIcons.ArrowsJoin2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-left.svg" width=64 height=64 />  | TablerIcons.ArrowsLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-left-down.svg" width=64 height=64 />  | TablerIcons.ArrowsLeftDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-left-right.svg" width=64 height=64 />  | TablerIcons.ArrowsLeftRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-maximize.svg" width=64 height=64 />  | TablerIcons.ArrowsMaximize | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-minimize.svg" width=64 height=64 />  | TablerIcons.ArrowsMinimize | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-right.svg" width=64 height=64 />  | TablerIcons.ArrowsRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-right-down.svg" width=64 height=64 />  | TablerIcons.ArrowsRightDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-right-left.svg" width=64 height=64 />  | TablerIcons.ArrowsRightLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-sort.svg" width=64 height=64 />  | TablerIcons.ArrowsSort |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-split.svg" width=64 height=64 />  | TablerIcons.ArrowsSplit | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-split-2.svg" width=64 height=64 />  | TablerIcons.ArrowsSplit2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-up.svg" width=64 height=64 />  | TablerIcons.ArrowsUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-up-down.svg" width=64 height=64 />  | TablerIcons.ArrowsUpDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-up-left.svg" width=64 height=64 />  | TablerIcons.ArrowsUpLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-up-right.svg" width=64 height=64 />  | TablerIcons.ArrowsUpRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/arrows-vertical.svg" width=64 height=64 />  | TablerIcons.ArrowsVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/artboard.svg" width=64 height=64 />  | TablerIcons.Artboard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/aspect-ratio.svg" width=64 height=64 />  | TablerIcons.AspectRatio |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/at.svg" width=64 height=64 />  | TablerIcons.At | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/atom.svg" width=64 height=64 />  | TablerIcons.Atom | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/atom-2.svg" width=64 height=64 />  | TablerIcons.Atom2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/award.svg" width=64 height=64 />  | TablerIcons.Award | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/backhoe.svg" width=64 height=64 />  | TablerIcons.Backhoe | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/backspace.svg" width=64 height=64 />  | TablerIcons.Backspace |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-american-football.svg" width=64 height=64 />  | TablerIcons.BallAmericanFootball | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-basketball.svg" width=64 height=64 />  | TablerIcons.BallBasketball | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-bowling.svg" width=64 height=64 />  | TablerIcons.BallBowling |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-football.svg" width=64 height=64 />  | TablerIcons.BallFootball | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-football-off.svg" width=64 height=64 />  | TablerIcons.BallFootballOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-tennis.svg" width=64 height=64 />  | TablerIcons.BallTennis |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ball-volleyball.svg" width=64 height=64 />  | TablerIcons.BallVolleyball | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ban.svg" width=64 height=64 />  | TablerIcons.Ban | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bandage.svg" width=64 height=64 />  | TablerIcons.Bandage |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/barcode.svg" width=64 height=64 />  | TablerIcons.Barcode | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/basket.svg" width=64 height=64 />  | TablerIcons.Basket | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery.svg" width=64 height=64 />  | TablerIcons.Battery |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-1.svg" width=64 height=64 />  | TablerIcons.Battery1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-2.svg" width=64 height=64 />  | TablerIcons.Battery2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-3.svg" width=64 height=64 />  | TablerIcons.Battery3 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-4.svg" width=64 height=64 />  | TablerIcons.Battery4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-automotive.svg" width=64 height=64 />  | TablerIcons.BatteryAutomotive | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-charging.svg" width=64 height=64 />  | TablerIcons.BatteryCharging |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/battery-off.svg" width=64 height=64 />  | TablerIcons.BatteryOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bed.svg" width=64 height=64 />  | TablerIcons.Bed | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell.svg" width=64 height=64 />  | TablerIcons.Bell |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-minus.svg" width=64 height=64 />  | TablerIcons.BellMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-off.svg" width=64 height=64 />  | TablerIcons.BellOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-plus.svg" width=64 height=64 />  | TablerIcons.BellPlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-ringing.svg" width=64 height=64 />  | TablerIcons.BellRinging | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-ringing-2.svg" width=64 height=64 />  | TablerIcons.BellRinging2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bell-x.svg" width=64 height=64 />  | TablerIcons.BellX |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bike.svg" width=64 height=64 />  | TablerIcons.Bike | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/binary.svg" width=64 height=64 />  | TablerIcons.Binary | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/biohazard.svg" width=64 height=64 />  | TablerIcons.Biohazard |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/blockquote.svg" width=64 height=64 />  | TablerIcons.Blockquote | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bluetooth.svg" width=64 height=64 />  | TablerIcons.Bluetooth | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bluetooth-connected.svg" width=64 height=64 />  | TablerIcons.BluetoothConnected |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bluetooth-off.svg" width=64 height=64 />  | TablerIcons.BluetoothOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bold.svg" width=64 height=64 />  | TablerIcons.Bold | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bolt.svg" width=64 height=64 />  | TablerIcons.Bolt |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bolt-off.svg" width=64 height=64 />  | TablerIcons.BoltOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bone.svg" width=64 height=64 />  | TablerIcons.Bone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/book.svg" width=64 height=64 />  | TablerIcons.Book |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bookmark.svg" width=64 height=64 />  | TablerIcons.Bookmark | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bookmark-off.svg" width=64 height=64 />  | TablerIcons.BookmarkOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bookmarks.svg" width=64 height=64 />  | TablerIcons.Bookmarks |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-all.svg" width=64 height=64 />  | TablerIcons.BorderAll | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-bottom.svg" width=64 height=64 />  | TablerIcons.BorderBottom | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-horizontal.svg" width=64 height=64 />  | TablerIcons.BorderHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-inner.svg" width=64 height=64 />  | TablerIcons.BorderInner | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-left.svg" width=64 height=64 />  | TablerIcons.BorderLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-none.svg" width=64 height=64 />  | TablerIcons.BorderNone |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-outer.svg" width=64 height=64 />  | TablerIcons.BorderOuter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-radius.svg" width=64 height=64 />  | TablerIcons.BorderRadius | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-right.svg" width=64 height=64 />  | TablerIcons.BorderRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-style.svg" width=64 height=64 />  | TablerIcons.BorderStyle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-top.svg" width=64 height=64 />  | TablerIcons.BorderTop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/border-vertical.svg" width=64 height=64 />  | TablerIcons.BorderVertical |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box.svg" width=64 height=64 />  | TablerIcons.Box | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-margin.svg" width=64 height=64 />  | TablerIcons.BoxMargin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-model.svg" width=64 height=64 />  | TablerIcons.BoxModel |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple.svg" width=64 height=64 />  | TablerIcons.BoxMultiple | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-0.svg" width=64 height=64 />  | TablerIcons.BoxMultiple0 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-1.svg" width=64 height=64 />  | TablerIcons.BoxMultiple1 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-2.svg" width=64 height=64 />  | TablerIcons.BoxMultiple2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-3.svg" width=64 height=64 />  | TablerIcons.BoxMultiple3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-4.svg" width=64 height=64 />  | TablerIcons.BoxMultiple4 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-5.svg" width=64 height=64 />  | TablerIcons.BoxMultiple5 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-6.svg" width=64 height=64 />  | TablerIcons.BoxMultiple6 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-7.svg" width=64 height=64 />  | TablerIcons.BoxMultiple7 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-8.svg" width=64 height=64 />  | TablerIcons.BoxMultiple8 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-multiple-9.svg" width=64 height=64 />  | TablerIcons.BoxMultiple9 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/box-padding.svg" width=64 height=64 />  | TablerIcons.BoxPadding |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/braces.svg" width=64 height=64 />  | TablerIcons.Braces | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brackets.svg" width=64 height=64 />  | TablerIcons.Brackets | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-airbnb.svg" width=64 height=64 />  | TablerIcons.BrandAirbnb |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-android.svg" width=64 height=64 />  | TablerIcons.BrandAndroid | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-apple.svg" width=64 height=64 />  | TablerIcons.BrandApple | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-apple-arcade.svg" width=64 height=64 />  | TablerIcons.BrandAppleArcade |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-appstore.svg" width=64 height=64 />  | TablerIcons.BrandAppstore | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-asana.svg" width=64 height=64 />  | TablerIcons.BrandAsana | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-behance.svg" width=64 height=64 />  | TablerIcons.BrandBehance |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-bing.svg" width=64 height=64 />  | TablerIcons.BrandBing | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-bitbucket.svg" width=64 height=64 />  | TablerIcons.BrandBitbucket | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-booking.svg" width=64 height=64 />  | TablerIcons.BrandBooking |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-chrome.svg" width=64 height=64 />  | TablerIcons.BrandChrome | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-codepen.svg" width=64 height=64 />  | TablerIcons.BrandCodepen | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-codesandbox.svg" width=64 height=64 />  | TablerIcons.BrandCodesandbox |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-css3.svg" width=64 height=64 />  | TablerIcons.BrandCss3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-deviantart.svg" width=64 height=64 />  | TablerIcons.BrandDeviantart | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-discord.svg" width=64 height=64 />  | TablerIcons.BrandDiscord |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-disqus.svg" width=64 height=64 />  | TablerIcons.BrandDisqus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-docker.svg" width=64 height=64 />  | TablerIcons.BrandDocker | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-dribbble.svg" width=64 height=64 />  | TablerIcons.BrandDribbble |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-edge.svg" width=64 height=64 />  | TablerIcons.BrandEdge | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-facebook.svg" width=64 height=64 />  | TablerIcons.BrandFacebook | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-figma.svg" width=64 height=64 />  | TablerIcons.BrandFigma |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-firefox.svg" width=64 height=64 />  | TablerIcons.BrandFirefox | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-flickr.svg" width=64 height=64 />  | TablerIcons.BrandFlickr | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-foursquare.svg" width=64 height=64 />  | TablerIcons.BrandFoursquare |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-framer.svg" width=64 height=64 />  | TablerIcons.BrandFramer | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-github.svg" width=64 height=64 />  | TablerIcons.BrandGithub | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-gitlab.svg" width=64 height=64 />  | TablerIcons.BrandGitlab |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-google.svg" width=64 height=64 />  | TablerIcons.BrandGoogle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-google-analytics.svg" width=64 height=64 />  | TablerIcons.BrandGoogleAnalytics | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-google-drive.svg" width=64 height=64 />  | TablerIcons.BrandGoogleDrive |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-google-play.svg" width=64 height=64 />  | TablerIcons.BrandGooglePlay | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-gravatar.svg" width=64 height=64 />  | TablerIcons.BrandGravatar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-hipchat.svg" width=64 height=64 />  | TablerIcons.BrandHipchat |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-html5.svg" width=64 height=64 />  | TablerIcons.BrandHtml5 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-instagram.svg" width=64 height=64 />  | TablerIcons.BrandInstagram | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-kickstarter.svg" width=64 height=64 />  | TablerIcons.BrandKickstarter |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-kotlin.svg" width=64 height=64 />  | TablerIcons.BrandKotlin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-linkedin.svg" width=64 height=64 />  | TablerIcons.BrandLinkedin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-medium.svg" width=64 height=64 />  | TablerIcons.BrandMedium |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-messenger.svg" width=64 height=64 />  | TablerIcons.BrandMessenger | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-netflix.svg" width=64 height=64 />  | TablerIcons.BrandNetflix | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-open-source.svg" width=64 height=64 />  | TablerIcons.BrandOpenSource |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-opera.svg" width=64 height=64 />  | TablerIcons.BrandOpera | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-pagekit.svg" width=64 height=64 />  | TablerIcons.BrandPagekit | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-patreon.svg" width=64 height=64 />  | TablerIcons.BrandPatreon |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-paypal.svg" width=64 height=64 />  | TablerIcons.BrandPaypal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-pinterest.svg" width=64 height=64 />  | TablerIcons.BrandPinterest | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-pocket.svg" width=64 height=64 />  | TablerIcons.BrandPocket |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-producthunt.svg" width=64 height=64 />  | TablerIcons.BrandProducthunt | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-python.svg" width=64 height=64 />  | TablerIcons.BrandPython | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-reddit.svg" width=64 height=64 />  | TablerIcons.BrandReddit |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-safari.svg" width=64 height=64 />  | TablerIcons.BrandSafari | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-sass.svg" width=64 height=64 />  | TablerIcons.BrandSass | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-sentry.svg" width=64 height=64 />  | TablerIcons.BrandSentry |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-shazam.svg" width=64 height=64 />  | TablerIcons.BrandShazam | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-sketch.svg" width=64 height=64 />  | TablerIcons.BrandSketch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-skype.svg" width=64 height=64 />  | TablerIcons.BrandSkype |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-slack.svg" width=64 height=64 />  | TablerIcons.BrandSlack | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-snapchat.svg" width=64 height=64 />  | TablerIcons.BrandSnapchat | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-soundcloud.svg" width=64 height=64 />  | TablerIcons.BrandSoundcloud |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-spotify.svg" width=64 height=64 />  | TablerIcons.BrandSpotify | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-steam.svg" width=64 height=64 />  | TablerIcons.BrandSteam | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-stripe.svg" width=64 height=64 />  | TablerIcons.BrandStripe |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tabler.svg" width=64 height=64 />  | TablerIcons.BrandTabler | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tailwind.svg" width=64 height=64 />  | TablerIcons.BrandTailwind | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-telegram.svg" width=64 height=64 />  | TablerIcons.BrandTelegram |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tidal.svg" width=64 height=64 />  | TablerIcons.BrandTidal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tiktok.svg" width=64 height=64 />  | TablerIcons.BrandTiktok | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tinder.svg" width=64 height=64 />  | TablerIcons.BrandTinder |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-tumblr.svg" width=64 height=64 />  | TablerIcons.BrandTumblr | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-twitch.svg" width=64 height=64 />  | TablerIcons.BrandTwitch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-twitter.svg" width=64 height=64 />  | TablerIcons.BrandTwitter |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-unsplash.svg" width=64 height=64 />  | TablerIcons.BrandUnsplash | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-vimeo.svg" width=64 height=64 />  | TablerIcons.BrandVimeo | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-vk.svg" width=64 height=64 />  | TablerIcons.BrandVk |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-whatsapp.svg" width=64 height=64 />  | TablerIcons.BrandWhatsapp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-windows.svg" width=64 height=64 />  | TablerIcons.BrandWindows | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-yahoo.svg" width=64 height=64 />  | TablerIcons.BrandYahoo |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-ycombinator.svg" width=64 height=64 />  | TablerIcons.BrandYcombinator | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brand-youtube.svg" width=64 height=64 />  | TablerIcons.BrandYoutube | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/briefcase.svg" width=64 height=64 />  | TablerIcons.Briefcase |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brightness.svg" width=64 height=64 />  | TablerIcons.Brightness | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brightness-2.svg" width=64 height=64 />  | TablerIcons.Brightness2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brightness-down.svg" width=64 height=64 />  | TablerIcons.BrightnessDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brightness-half.svg" width=64 height=64 />  | TablerIcons.BrightnessHalf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brightness-up.svg" width=64 height=64 />  | TablerIcons.BrightnessUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/browser.svg" width=64 height=64 />  | TablerIcons.Browser |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/brush.svg" width=64 height=64 />  | TablerIcons.Brush | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bucket.svg" width=64 height=64 />  | TablerIcons.Bucket | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bug.svg" width=64 height=64 />  | TablerIcons.Bug |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building.svg" width=64 height=64 />  | TablerIcons.Building | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-arch.svg" width=64 height=64 />  | TablerIcons.BuildingArch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-bank.svg" width=64 height=64 />  | TablerIcons.BuildingBank |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-bridge.svg" width=64 height=64 />  | TablerIcons.BuildingBridge | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-bridge-2.svg" width=64 height=64 />  | TablerIcons.BuildingBridge2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-carousel.svg" width=64 height=64 />  | TablerIcons.BuildingCarousel |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-castle.svg" width=64 height=64 />  | TablerIcons.BuildingCastle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-church.svg" width=64 height=64 />  | TablerIcons.BuildingChurch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-community.svg" width=64 height=64 />  | TablerIcons.BuildingCommunity |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-cottage.svg" width=64 height=64 />  | TablerIcons.BuildingCottage | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-factory.svg" width=64 height=64 />  | TablerIcons.BuildingFactory | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-fortress.svg" width=64 height=64 />  | TablerIcons.BuildingFortress |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-hospital.svg" width=64 height=64 />  | TablerIcons.BuildingHospital | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-lighthouse.svg" width=64 height=64 />  | TablerIcons.BuildingLighthouse | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-monument.svg" width=64 height=64 />  | TablerIcons.BuildingMonument |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-pavilon.svg" width=64 height=64 />  | TablerIcons.BuildingPavilon | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-skyscraper.svg" width=64 height=64 />  | TablerIcons.BuildingSkyscraper | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-store.svg" width=64 height=64 />  | TablerIcons.BuildingStore |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/building-warehouse.svg" width=64 height=64 />  | TablerIcons.BuildingWarehouse | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bulb.svg" width=64 height=64 />  | TablerIcons.Bulb | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bulb-off.svg" width=64 height=64 />  | TablerIcons.BulbOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bulldozer.svg" width=64 height=64 />  | TablerIcons.Bulldozer | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/bus.svg" width=64 height=64 />  | TablerIcons.Bus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/businessplan.svg" width=64 height=64 />  | TablerIcons.Businessplan |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calculator.svg" width=64 height=64 />  | TablerIcons.Calculator | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar.svg" width=64 height=64 />  | TablerIcons.Calendar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-event.svg" width=64 height=64 />  | TablerIcons.CalendarEvent |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-minus.svg" width=64 height=64 />  | TablerIcons.CalendarMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-off.svg" width=64 height=64 />  | TablerIcons.CalendarOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-plus.svg" width=64 height=64 />  | TablerIcons.CalendarPlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-stats.svg" width=64 height=64 />  | TablerIcons.CalendarStats | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/calendar-time.svg" width=64 height=64 />  | TablerIcons.CalendarTime | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera.svg" width=64 height=64 />  | TablerIcons.Camera |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera-minus.svg" width=64 height=64 />  | TablerIcons.CameraMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera-off.svg" width=64 height=64 />  | TablerIcons.CameraOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera-plus.svg" width=64 height=64 />  | TablerIcons.CameraPlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera-rotate.svg" width=64 height=64 />  | TablerIcons.CameraRotate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/camera-selfie.svg" width=64 height=64 />  | TablerIcons.CameraSelfie | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/capture.svg" width=64 height=64 />  | TablerIcons.Capture |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/car.svg" width=64 height=64 />  | TablerIcons.Car | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/caravan.svg" width=64 height=64 />  | TablerIcons.Caravan | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cardboards.svg" width=64 height=64 />  | TablerIcons.Cardboards |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/caret-down.svg" width=64 height=64 />  | TablerIcons.CaretDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/caret-left.svg" width=64 height=64 />  | TablerIcons.CaretLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/caret-right.svg" width=64 height=64 />  | TablerIcons.CaretRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/caret-up.svg" width=64 height=64 />  | TablerIcons.CaretUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cash.svg" width=64 height=64 />  | TablerIcons.Cash | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cash-banknote.svg" width=64 height=64 />  | TablerIcons.CashBanknote |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cash-banknote-off.svg" width=64 height=64 />  | TablerIcons.CashBanknoteOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cast.svg" width=64 height=64 />  | TablerIcons.Cast | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ce.svg" width=64 height=64 />  | TablerIcons.Ce |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/certificate.svg" width=64 height=64 />  | TablerIcons.Certificate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/charging-pile.svg" width=64 height=64 />  | TablerIcons.ChargingPile | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-arcs.svg" width=64 height=64 />  | TablerIcons.ChartArcs |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-arcs-3.svg" width=64 height=64 />  | TablerIcons.ChartArcs3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-area.svg" width=64 height=64 />  | TablerIcons.ChartArea | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-area-line.svg" width=64 height=64 />  | TablerIcons.ChartAreaLine |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-arrows.svg" width=64 height=64 />  | TablerIcons.ChartArrows | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-arrows-vertical.svg" width=64 height=64 />  | TablerIcons.ChartArrowsVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-bar.svg" width=64 height=64 />  | TablerIcons.ChartBar |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-bubble.svg" width=64 height=64 />  | TablerIcons.ChartBubble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-candle.svg" width=64 height=64 />  | TablerIcons.ChartCandle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-circles.svg" width=64 height=64 />  | TablerIcons.ChartCircles |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-donut.svg" width=64 height=64 />  | TablerIcons.ChartDonut | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-donut-2.svg" width=64 height=64 />  | TablerIcons.ChartDonut2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-donut-3.svg" width=64 height=64 />  | TablerIcons.ChartDonut3 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-donut-4.svg" width=64 height=64 />  | TablerIcons.ChartDonut4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-dots.svg" width=64 height=64 />  | TablerIcons.ChartDots | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-infographic.svg" width=64 height=64 />  | TablerIcons.ChartInfographic |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-line.svg" width=64 height=64 />  | TablerIcons.ChartLine | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-pie.svg" width=64 height=64 />  | TablerIcons.ChartPie | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-pie-2.svg" width=64 height=64 />  | TablerIcons.ChartPie2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-pie-3.svg" width=64 height=64 />  | TablerIcons.ChartPie3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-pie-4.svg" width=64 height=64 />  | TablerIcons.ChartPie4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chart-radar.svg" width=64 height=64 />  | TablerIcons.ChartRadar |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/check.svg" width=64 height=64 />  | TablerIcons.Check | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/checkbox.svg" width=64 height=64 />  | TablerIcons.Checkbox | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/checks.svg" width=64 height=64 />  | TablerIcons.Checks |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-down.svg" width=64 height=64 />  | TablerIcons.ChevronDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-down-left.svg" width=64 height=64 />  | TablerIcons.ChevronDownLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-down-right.svg" width=64 height=64 />  | TablerIcons.ChevronDownRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-left.svg" width=64 height=64 />  | TablerIcons.ChevronLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-right.svg" width=64 height=64 />  | TablerIcons.ChevronRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-up.svg" width=64 height=64 />  | TablerIcons.ChevronUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-up-left.svg" width=64 height=64 />  | TablerIcons.ChevronUpLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevron-up-right.svg" width=64 height=64 />  | TablerIcons.ChevronUpRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-down.svg" width=64 height=64 />  | TablerIcons.ChevronsDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-down-left.svg" width=64 height=64 />  | TablerIcons.ChevronsDownLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-down-right.svg" width=64 height=64 />  | TablerIcons.ChevronsDownRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-left.svg" width=64 height=64 />  | TablerIcons.ChevronsLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-right.svg" width=64 height=64 />  | TablerIcons.ChevronsRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-up.svg" width=64 height=64 />  | TablerIcons.ChevronsUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-up-left.svg" width=64 height=64 />  | TablerIcons.ChevronsUpLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/chevrons-up-right.svg" width=64 height=64 />  | TablerIcons.ChevronsUpRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/christmas-tree.svg" width=64 height=64 />  | TablerIcons.ChristmasTree | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle.svg" width=64 height=64 />  | TablerIcons.Circle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-0.svg" width=64 height=64 />  | TablerIcons.Circle0 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-1.svg" width=64 height=64 />  | TablerIcons.Circle1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-2.svg" width=64 height=64 />  | TablerIcons.Circle2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-3.svg" width=64 height=64 />  | TablerIcons.Circle3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-4.svg" width=64 height=64 />  | TablerIcons.Circle4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-5.svg" width=64 height=64 />  | TablerIcons.Circle5 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-6.svg" width=64 height=64 />  | TablerIcons.Circle6 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-7.svg" width=64 height=64 />  | TablerIcons.Circle7 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-8.svg" width=64 height=64 />  | TablerIcons.Circle8 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-9.svg" width=64 height=64 />  | TablerIcons.Circle9 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-check.svg" width=64 height=64 />  | TablerIcons.CircleCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-dashed.svg" width=64 height=64 />  | TablerIcons.CircleDashed |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-dotted.svg" width=64 height=64 />  | TablerIcons.CircleDotted | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-half.svg" width=64 height=64 />  | TablerIcons.CircleHalf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-half-vertical.svg" width=64 height=64 />  | TablerIcons.CircleHalfVertical |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-minus.svg" width=64 height=64 />  | TablerIcons.CircleMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-off.svg" width=64 height=64 />  | TablerIcons.CircleOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-plus.svg" width=64 height=64 />  | TablerIcons.CirclePlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-square.svg" width=64 height=64 />  | TablerIcons.CircleSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circle-x.svg" width=64 height=64 />  | TablerIcons.CircleX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/circles.svg" width=64 height=64 />  | TablerIcons.Circles |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clear-all.svg" width=64 height=64 />  | TablerIcons.ClearAll | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clear-formatting.svg" width=64 height=64 />  | TablerIcons.ClearFormatting | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/click.svg" width=64 height=64 />  | TablerIcons.Click |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clipboard.svg" width=64 height=64 />  | TablerIcons.Clipboard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clipboard-check.svg" width=64 height=64 />  | TablerIcons.ClipboardCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clipboard-list.svg" width=64 height=64 />  | TablerIcons.ClipboardList |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clipboard-x.svg" width=64 height=64 />  | TablerIcons.ClipboardX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/clock.svg" width=64 height=64 />  | TablerIcons.Clock | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud.svg" width=64 height=64 />  | TablerIcons.Cloud |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-download.svg" width=64 height=64 />  | TablerIcons.CloudDownload | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-fog.svg" width=64 height=64 />  | TablerIcons.CloudFog | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-off.svg" width=64 height=64 />  | TablerIcons.CloudOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-rain.svg" width=64 height=64 />  | TablerIcons.CloudRain | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-snow.svg" width=64 height=64 />  | TablerIcons.CloudSnow | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-storm.svg" width=64 height=64 />  | TablerIcons.CloudStorm |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cloud-upload.svg" width=64 height=64 />  | TablerIcons.CloudUpload | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/code.svg" width=64 height=64 />  | TablerIcons.Code | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/code-minus.svg" width=64 height=64 />  | TablerIcons.CodeMinus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/code-plus.svg" width=64 height=64 />  | TablerIcons.CodePlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/coin.svg" width=64 height=64 />  | TablerIcons.Coin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/color-picker.svg" width=64 height=64 />  | TablerIcons.ColorPicker |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/color-swatch.svg" width=64 height=64 />  | TablerIcons.ColorSwatch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/column-insert-left.svg" width=64 height=64 />  | TablerIcons.ColumnInsertLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/column-insert-right.svg" width=64 height=64 />  | TablerIcons.ColumnInsertRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/columns.svg" width=64 height=64 />  | TablerIcons.Columns | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/comet.svg" width=64 height=64 />  | TablerIcons.Comet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/command.svg" width=64 height=64 />  | TablerIcons.Command |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/compass.svg" width=64 height=64 />  | TablerIcons.Compass | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/confetti.svg" width=64 height=64 />  | TablerIcons.Confetti | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/container.svg" width=64 height=64 />  | TablerIcons.Container |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/contrast.svg" width=64 height=64 />  | TablerIcons.Contrast | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/copy.svg" width=64 height=64 />  | TablerIcons.Copy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/copyleft.svg" width=64 height=64 />  | TablerIcons.Copyleft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/copyright.svg" width=64 height=64 />  | TablerIcons.Copyright | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-down-left.svg" width=64 height=64 />  | TablerIcons.CornerDownLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-down-left-double.svg" width=64 height=64 />  | TablerIcons.CornerDownLeftDouble |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-down-right.svg" width=64 height=64 />  | TablerIcons.CornerDownRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-down-right-double.svg" width=64 height=64 />  | TablerIcons.CornerDownRightDouble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-left-down.svg" width=64 height=64 />  | TablerIcons.CornerLeftDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-left-down-double.svg" width=64 height=64 />  | TablerIcons.CornerLeftDownDouble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-left-up.svg" width=64 height=64 />  | TablerIcons.CornerLeftUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-left-up-double.svg" width=64 height=64 />  | TablerIcons.CornerLeftUpDouble |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-right-down.svg" width=64 height=64 />  | TablerIcons.CornerRightDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-right-down-double.svg" width=64 height=64 />  | TablerIcons.CornerRightDownDouble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-right-up.svg" width=64 height=64 />  | TablerIcons.CornerRightUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-right-up-double.svg" width=64 height=64 />  | TablerIcons.CornerRightUpDouble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-up-left.svg" width=64 height=64 />  | TablerIcons.CornerUpLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-up-left-double.svg" width=64 height=64 />  | TablerIcons.CornerUpLeftDouble |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-up-right.svg" width=64 height=64 />  | TablerIcons.CornerUpRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/corner-up-right-double.svg" width=64 height=64 />  | TablerIcons.CornerUpRightDouble | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/credit-card.svg" width=64 height=64 />  | TablerIcons.CreditCard |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/credit-card-off.svg" width=64 height=64 />  | TablerIcons.CreditCardOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/crop.svg" width=64 height=64 />  | TablerIcons.Crop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/crosshair.svg" width=64 height=64 />  | TablerIcons.Crosshair |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/crown.svg" width=64 height=64 />  | TablerIcons.Crown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/crown-off.svg" width=64 height=64 />  | TablerIcons.CrownOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/curly-loop.svg" width=64 height=64 />  | TablerIcons.CurlyLoop |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-bahraini.svg" width=64 height=64 />  | TablerIcons.CurrencyBahraini | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-bath.svg" width=64 height=64 />  | TablerIcons.CurrencyBath | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-bitcoin.svg" width=64 height=64 />  | TablerIcons.CurrencyBitcoin |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-cent.svg" width=64 height=64 />  | TablerIcons.CurrencyCent | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dinar.svg" width=64 height=64 />  | TablerIcons.CurrencyDinar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dirham.svg" width=64 height=64 />  | TablerIcons.CurrencyDirham |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dollar.svg" width=64 height=64 />  | TablerIcons.CurrencyDollar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dollar-australian.svg" width=64 height=64 />  | TablerIcons.CurrencyDollarAustralian | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dollar-canadian.svg" width=64 height=64 />  | TablerIcons.CurrencyDollarCanadian |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-dollar-singapore.svg" width=64 height=64 />  | TablerIcons.CurrencyDollarSingapore | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-ethereum.svg" width=64 height=64 />  | TablerIcons.CurrencyEthereum | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-euro.svg" width=64 height=64 />  | TablerIcons.CurrencyEuro |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-forint.svg" width=64 height=64 />  | TablerIcons.CurrencyForint | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-frank.svg" width=64 height=64 />  | TablerIcons.CurrencyFrank | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-krone-czech.svg" width=64 height=64 />  | TablerIcons.CurrencyKroneCzech |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-krone-danish.svg" width=64 height=64 />  | TablerIcons.CurrencyKroneDanish | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-krone-swedish.svg" width=64 height=64 />  | TablerIcons.CurrencyKroneSwedish | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-leu.svg" width=64 height=64 />  | TablerIcons.CurrencyLeu |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-lira.svg" width=64 height=64 />  | TablerIcons.CurrencyLira | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-litecoin.svg" width=64 height=64 />  | TablerIcons.CurrencyLitecoin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-naira.svg" width=64 height=64 />  | TablerIcons.CurrencyNaira |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-pound.svg" width=64 height=64 />  | TablerIcons.CurrencyPound | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-real.svg" width=64 height=64 />  | TablerIcons.CurrencyReal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-renminbi.svg" width=64 height=64 />  | TablerIcons.CurrencyRenminbi |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-ripple.svg" width=64 height=64 />  | TablerIcons.CurrencyRipple | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-riyal.svg" width=64 height=64 />  | TablerIcons.CurrencyRiyal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-rubel.svg" width=64 height=64 />  | TablerIcons.CurrencyRubel |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-rupee.svg" width=64 height=64 />  | TablerIcons.CurrencyRupee | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-shekel.svg" width=64 height=64 />  | TablerIcons.CurrencyShekel | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-taka.svg" width=64 height=64 />  | TablerIcons.CurrencyTaka |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-tugrik.svg" width=64 height=64 />  | TablerIcons.CurrencyTugrik | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-won.svg" width=64 height=64 />  | TablerIcons.CurrencyWon | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-yen.svg" width=64 height=64 />  | TablerIcons.CurrencyYen |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/currency-zloty.svg" width=64 height=64 />  | TablerIcons.CurrencyZloty | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/current-location.svg" width=64 height=64 />  | TablerIcons.CurrentLocation | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cursor-text.svg" width=64 height=64 />  | TablerIcons.CursorText |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/cut.svg" width=64 height=64 />  | TablerIcons.Cut | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dashboard.svg" width=64 height=64 />  | TablerIcons.Dashboard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/database.svg" width=64 height=64 />  | TablerIcons.Database |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/database-export.svg" width=64 height=64 />  | TablerIcons.DatabaseExport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/database-import.svg" width=64 height=64 />  | TablerIcons.DatabaseImport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/database-off.svg" width=64 height=64 />  | TablerIcons.DatabaseOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/details.svg" width=64 height=64 />  | TablerIcons.Details | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-analytics.svg" width=64 height=64 />  | TablerIcons.DeviceAnalytics | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-audio-tape.svg" width=64 height=64 />  | TablerIcons.DeviceAudioTape |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-cctv.svg" width=64 height=64 />  | TablerIcons.DeviceCctv | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-computer-camera.svg" width=64 height=64 />  | TablerIcons.DeviceComputerCamera | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-computer-camera-off.svg" width=64 height=64 />  | TablerIcons.DeviceComputerCameraOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-desktop.svg" width=64 height=64 />  | TablerIcons.DeviceDesktop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-desktop-analytics.svg" width=64 height=64 />  | TablerIcons.DeviceDesktopAnalytics | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-desktop-off.svg" width=64 height=64 />  | TablerIcons.DeviceDesktopOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-floppy.svg" width=64 height=64 />  | TablerIcons.DeviceFloppy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-gamepad.svg" width=64 height=64 />  | TablerIcons.DeviceGamepad | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-laptop.svg" width=64 height=64 />  | TablerIcons.DeviceLaptop |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-mobile.svg" width=64 height=64 />  | TablerIcons.DeviceMobile | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-mobile-message.svg" width=64 height=64 />  | TablerIcons.DeviceMobileMessage | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-mobile-rotated.svg" width=64 height=64 />  | TablerIcons.DeviceMobileRotated |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-mobile-vibration.svg" width=64 height=64 />  | TablerIcons.DeviceMobileVibration | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-speaker.svg" width=64 height=64 />  | TablerIcons.DeviceSpeaker | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-tablet.svg" width=64 height=64 />  | TablerIcons.DeviceTablet |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-tv.svg" width=64 height=64 />  | TablerIcons.DeviceTv | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/device-watch.svg" width=64 height=64 />  | TablerIcons.DeviceWatch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/devices.svg" width=64 height=64 />  | TablerIcons.Devices |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/devices-2.svg" width=64 height=64 />  | TablerIcons.Devices2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/devices-pc.svg" width=64 height=64 />  | TablerIcons.DevicesPc | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/diamond.svg" width=64 height=64 />  | TablerIcons.Diamond |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dice.svg" width=64 height=64 />  | TablerIcons.Dice | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dimensions.svg" width=64 height=64 />  | TablerIcons.Dimensions | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/direction.svg" width=64 height=64 />  | TablerIcons.Direction |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/direction-horizontal.svg" width=64 height=64 />  | TablerIcons.DirectionHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/directions.svg" width=64 height=64 />  | TablerIcons.Directions | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/disabled.svg" width=64 height=64 />  | TablerIcons.Disabled |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/disabled-2.svg" width=64 height=64 />  | TablerIcons.Disabled2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/disc.svg" width=64 height=64 />  | TablerIcons.Disc | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/discount.svg" width=64 height=64 />  | TablerIcons.Discount |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/discount-2.svg" width=64 height=64 />  | TablerIcons.Discount2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/divide.svg" width=64 height=64 />  | TablerIcons.Divide | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dna.svg" width=64 height=64 />  | TablerIcons.Dna |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dots.svg" width=64 height=64 />  | TablerIcons.Dots | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dots-circle-horizontal.svg" width=64 height=64 />  | TablerIcons.DotsCircleHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dots-diagonal.svg" width=64 height=64 />  | TablerIcons.DotsDiagonal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dots-diagonal-2.svg" width=64 height=64 />  | TablerIcons.DotsDiagonal2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/dots-vertical.svg" width=64 height=64 />  | TablerIcons.DotsVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/download.svg" width=64 height=64 />  | TablerIcons.Download |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/drag-drop.svg" width=64 height=64 />  | TablerIcons.DragDrop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/drag-drop-2.svg" width=64 height=64 />  | TablerIcons.DragDrop2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/drone.svg" width=64 height=64 />  | TablerIcons.Drone |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/drone-off.svg" width=64 height=64 />  | TablerIcons.DroneOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet.svg" width=64 height=64 />  | TablerIcons.Droplet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet-filled.svg" width=64 height=64 />  | TablerIcons.DropletFilled |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet-filled-2.svg" width=64 height=64 />  | TablerIcons.DropletFilled2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet-half.svg" width=64 height=64 />  | TablerIcons.DropletHalf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet-half-2.svg" width=64 height=64 />  | TablerIcons.DropletHalf2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/droplet-off.svg" width=64 height=64 />  | TablerIcons.DropletOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ear.svg" width=64 height=64 />  | TablerIcons.Ear | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ear-off.svg" width=64 height=64 />  | TablerIcons.EarOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/edit.svg" width=64 height=64 />  | TablerIcons.Edit | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/edit-circle.svg" width=64 height=64 />  | TablerIcons.EditCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/egg.svg" width=64 height=64 />  | TablerIcons.Egg |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/emphasis.svg" width=64 height=64 />  | TablerIcons.Emphasis | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/equal.svg" width=64 height=64 />  | TablerIcons.Equal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/equal-not.svg" width=64 height=64 />  | TablerIcons.EqualNot |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eraser.svg" width=64 height=64 />  | TablerIcons.Eraser | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/exchange.svg" width=64 height=64 />  | TablerIcons.Exchange | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/exposure.svg" width=64 height=64 />  | TablerIcons.Exposure |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/external-link.svg" width=64 height=64 />  | TablerIcons.ExternalLink | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eye.svg" width=64 height=64 />  | TablerIcons.Eye | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eye-check.svg" width=64 height=64 />  | TablerIcons.EyeCheck |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eye-off.svg" width=64 height=64 />  | TablerIcons.EyeOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eyeglass.svg" width=64 height=64 />  | TablerIcons.Eyeglass | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/eyeglass-2.svg" width=64 height=64 />  | TablerIcons.Eyeglass2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/face-id.svg" width=64 height=64 />  | TablerIcons.FaceId | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/fall.svg" width=64 height=64 />  | TablerIcons.Fall | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/feather.svg" width=64 height=64 />  | TablerIcons.Feather |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file.svg" width=64 height=64 />  | TablerIcons.File | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-alert.svg" width=64 height=64 />  | TablerIcons.FileAlert | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-analytics.svg" width=64 height=64 />  | TablerIcons.FileAnalytics |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-certificate.svg" width=64 height=64 />  | TablerIcons.FileCertificate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-check.svg" width=64 height=64 />  | TablerIcons.FileCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-code.svg" width=64 height=64 />  | TablerIcons.FileCode |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-code-2.svg" width=64 height=64 />  | TablerIcons.FileCode2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-diff.svg" width=64 height=64 />  | TablerIcons.FileDiff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-dislike.svg" width=64 height=64 />  | TablerIcons.FileDislike |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-download.svg" width=64 height=64 />  | TablerIcons.FileDownload | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-export.svg" width=64 height=64 />  | TablerIcons.FileExport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-horizontal.svg" width=64 height=64 />  | TablerIcons.FileHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-import.svg" width=64 height=64 />  | TablerIcons.FileImport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-info.svg" width=64 height=64 />  | TablerIcons.FileInfo | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-invoice.svg" width=64 height=64 />  | TablerIcons.FileInvoice |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-like.svg" width=64 height=64 />  | TablerIcons.FileLike | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-minus.svg" width=64 height=64 />  | TablerIcons.FileMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-music.svg" width=64 height=64 />  | TablerIcons.FileMusic |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-off.svg" width=64 height=64 />  | TablerIcons.FileOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-phone.svg" width=64 height=64 />  | TablerIcons.FilePhone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-plus.svg" width=64 height=64 />  | TablerIcons.FilePlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-report.svg" width=64 height=64 />  | TablerIcons.FileReport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-search.svg" width=64 height=64 />  | TablerIcons.FileSearch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-shredder.svg" width=64 height=64 />  | TablerIcons.FileShredder |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-symlink.svg" width=64 height=64 />  | TablerIcons.FileSymlink | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-text.svg" width=64 height=64 />  | TablerIcons.FileText | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-upload.svg" width=64 height=64 />  | TablerIcons.FileUpload |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-x.svg" width=64 height=64 />  | TablerIcons.FileX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/file-zip.svg" width=64 height=64 />  | TablerIcons.FileZip | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/files.svg" width=64 height=64 />  | TablerIcons.Files |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/files-off.svg" width=64 height=64 />  | TablerIcons.FilesOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/filter.svg" width=64 height=64 />  | TablerIcons.Filter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/filter-off.svg" width=64 height=64 />  | TablerIcons.FilterOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/fingerprint.svg" width=64 height=64 />  | TablerIcons.Fingerprint | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/firetruck.svg" width=64 height=64 />  | TablerIcons.Firetruck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flag.svg" width=64 height=64 />  | TablerIcons.Flag |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flag-2.svg" width=64 height=64 />  | TablerIcons.Flag2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flag-3.svg" width=64 height=64 />  | TablerIcons.Flag3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flame.svg" width=64 height=64 />  | TablerIcons.Flame |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flare.svg" width=64 height=64 />  | TablerIcons.Flare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flask.svg" width=64 height=64 />  | TablerIcons.Flask | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flip-horizontal.svg" width=64 height=64 />  | TablerIcons.FlipHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/flip-vertical.svg" width=64 height=64 />  | TablerIcons.FlipVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/float-center.svg" width=64 height=64 />  | TablerIcons.FloatCenter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/float-left.svg" width=64 height=64 />  | TablerIcons.FloatLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/float-none.svg" width=64 height=64 />  | TablerIcons.FloatNone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/float-right.svg" width=64 height=64 />  | TablerIcons.FloatRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/focus.svg" width=64 height=64 />  | TablerIcons.Focus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/focus-2.svg" width=64 height=64 />  | TablerIcons.Focus2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/fold.svg" width=64 height=64 />  | TablerIcons.Fold | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/fold-down.svg" width=64 height=64 />  | TablerIcons.FoldDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/fold-up.svg" width=64 height=64 />  | TablerIcons.FoldUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folder.svg" width=64 height=64 />  | TablerIcons.Folder | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folder-minus.svg" width=64 height=64 />  | TablerIcons.FolderMinus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folder-off.svg" width=64 height=64 />  | TablerIcons.FolderOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folder-plus.svg" width=64 height=64 />  | TablerIcons.FolderPlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folder-x.svg" width=64 height=64 />  | TablerIcons.FolderX |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/folders.svg" width=64 height=64 />  | TablerIcons.Folders | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/forbid.svg" width=64 height=64 />  | TablerIcons.Forbid | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/forbid-2.svg" width=64 height=64 />  | TablerIcons.Forbid2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/forklift.svg" width=64 height=64 />  | TablerIcons.Forklift | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/forms.svg" width=64 height=64 />  | TablerIcons.Forms | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/frame.svg" width=64 height=64 />  | TablerIcons.Frame |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/friends.svg" width=64 height=64 />  | TablerIcons.Friends | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/gas-station.svg" width=64 height=64 />  | TablerIcons.GasStation | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/gauge.svg" width=64 height=64 />  | TablerIcons.Gauge |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/geometry.svg" width=64 height=64 />  | TablerIcons.Geometry | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ghost.svg" width=64 height=64 />  | TablerIcons.Ghost | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/gift.svg" width=64 height=64 />  | TablerIcons.Gift |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-branch.svg" width=64 height=64 />  | TablerIcons.GitBranch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-commit.svg" width=64 height=64 />  | TablerIcons.GitCommit | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-compare.svg" width=64 height=64 />  | TablerIcons.GitCompare |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-fork.svg" width=64 height=64 />  | TablerIcons.GitFork | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-merge.svg" width=64 height=64 />  | TablerIcons.GitMerge | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/git-pull-request.svg" width=64 height=64 />  | TablerIcons.GitPullRequest |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/glass.svg" width=64 height=64 />  | TablerIcons.Glass | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/glass-full.svg" width=64 height=64 />  | TablerIcons.GlassFull | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/glass-off.svg" width=64 height=64 />  | TablerIcons.GlassOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/globe.svg" width=64 height=64 />  | TablerIcons.Globe | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/golf.svg" width=64 height=64 />  | TablerIcons.Golf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/gps.svg" width=64 height=64 />  | TablerIcons.Gps |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/grain.svg" width=64 height=64 />  | TablerIcons.Grain | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/grid-dots.svg" width=64 height=64 />  | TablerIcons.GridDots | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/grip-horizontal.svg" width=64 height=64 />  | TablerIcons.GripHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/grip-vertical.svg" width=64 height=64 />  | TablerIcons.GripVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/growth.svg" width=64 height=64 />  | TablerIcons.Growth | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-1.svg" width=64 height=64 />  | TablerIcons.H1 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-2.svg" width=64 height=64 />  | TablerIcons.H2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-3.svg" width=64 height=64 />  | TablerIcons.H3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-4.svg" width=64 height=64 />  | TablerIcons.H4 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-5.svg" width=64 height=64 />  | TablerIcons.H5 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/h-6.svg" width=64 height=64 />  | TablerIcons.H6 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-finger.svg" width=64 height=64 />  | TablerIcons.HandFinger |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-little-finger.svg" width=64 height=64 />  | TablerIcons.HandLittleFinger | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-middle-finger.svg" width=64 height=64 />  | TablerIcons.HandMiddleFinger | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-off.svg" width=64 height=64 />  | TablerIcons.HandOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-ring-finger.svg" width=64 height=64 />  | TablerIcons.HandRingFinger | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-rock.svg" width=64 height=64 />  | TablerIcons.HandRock | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-stop.svg" width=64 height=64 />  | TablerIcons.HandStop |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-three-fingers.svg" width=64 height=64 />  | TablerIcons.HandThreeFingers | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hand-two-fingers.svg" width=64 height=64 />  | TablerIcons.HandTwoFingers | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hanger.svg" width=64 height=64 />  | TablerIcons.Hanger |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hash.svg" width=64 height=64 />  | TablerIcons.Hash | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/heading.svg" width=64 height=64 />  | TablerIcons.Heading | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/headphones.svg" width=64 height=64 />  | TablerIcons.Headphones |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/headphones-off.svg" width=64 height=64 />  | TablerIcons.HeadphonesOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/headset.svg" width=64 height=64 />  | TablerIcons.Headset | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/heart.svg" width=64 height=64 />  | TablerIcons.Heart |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/heart-broken.svg" width=64 height=64 />  | TablerIcons.HeartBroken | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/helicopter.svg" width=64 height=64 />  | TablerIcons.Helicopter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/helicopter-landing.svg" width=64 height=64 />  | TablerIcons.HelicopterLanding |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/help.svg" width=64 height=64 />  | TablerIcons.Help | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hexagon.svg" width=64 height=64 />  | TablerIcons.Hexagon | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hexagon-off.svg" width=64 height=64 />  | TablerIcons.HexagonOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hierarchy.svg" width=64 height=64 />  | TablerIcons.Hierarchy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/hierarchy-2.svg" width=64 height=64 />  | TablerIcons.Hierarchy2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/history.svg" width=64 height=64 />  | TablerIcons.History |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/home.svg" width=64 height=64 />  | TablerIcons.Home | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/home-2.svg" width=64 height=64 />  | TablerIcons.Home2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ice-cream.svg" width=64 height=64 />  | TablerIcons.IceCream |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ice-cream-2.svg" width=64 height=64 />  | TablerIcons.IceCream2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/id.svg" width=64 height=64 />  | TablerIcons.Id | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/inbox.svg" width=64 height=64 />  | TablerIcons.Inbox |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/indent-decrease.svg" width=64 height=64 />  | TablerIcons.IndentDecrease | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/indent-increase.svg" width=64 height=64 />  | TablerIcons.IndentIncrease | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/infinity.svg" width=64 height=64 />  | TablerIcons.Infinity |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/info-circle.svg" width=64 height=64 />  | TablerIcons.InfoCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/info-square.svg" width=64 height=64 />  | TablerIcons.InfoSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/italic.svg" width=64 height=64 />  | TablerIcons.Italic |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/jump-rope.svg" width=64 height=64 />  | TablerIcons.JumpRope | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/karate.svg" width=64 height=64 />  | TablerIcons.Karate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/key.svg" width=64 height=64 />  | TablerIcons.Key |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/keyboard.svg" width=64 height=64 />  | TablerIcons.Keyboard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/keyboard-hide.svg" width=64 height=64 />  | TablerIcons.KeyboardHide | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/keyboard-off.svg" width=64 height=64 />  | TablerIcons.KeyboardOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/keyboard-show.svg" width=64 height=64 />  | TablerIcons.KeyboardShow | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/language.svg" width=64 height=64 />  | TablerIcons.Language | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layers-difference.svg" width=64 height=64 />  | TablerIcons.LayersDifference |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layers-intersect.svg" width=64 height=64 />  | TablerIcons.LayersIntersect | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layers-linked.svg" width=64 height=64 />  | TablerIcons.LayersLinked | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layers-subtract.svg" width=64 height=64 />  | TablerIcons.LayersSubtract |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layers-union.svg" width=64 height=64 />  | TablerIcons.LayersUnion | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout.svg" width=64 height=64 />  | TablerIcons.Layout | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-2.svg" width=64 height=64 />  | TablerIcons.Layout2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-bottom.svg" width=64 height=64 />  | TablerIcons.LayoutAlignBottom | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-center.svg" width=64 height=64 />  | TablerIcons.LayoutAlignCenter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-left.svg" width=64 height=64 />  | TablerIcons.LayoutAlignLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-middle.svg" width=64 height=64 />  | TablerIcons.LayoutAlignMiddle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-right.svg" width=64 height=64 />  | TablerIcons.LayoutAlignRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-align-top.svg" width=64 height=64 />  | TablerIcons.LayoutAlignTop |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-bottombar.svg" width=64 height=64 />  | TablerIcons.LayoutBottombar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-cards.svg" width=64 height=64 />  | TablerIcons.LayoutCards | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-columns.svg" width=64 height=64 />  | TablerIcons.LayoutColumns |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-distribute-horizontal.svg" width=64 height=64 />  | TablerIcons.LayoutDistributeHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-distribute-vertical.svg" width=64 height=64 />  | TablerIcons.LayoutDistributeVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-grid.svg" width=64 height=64 />  | TablerIcons.LayoutGrid |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-grid-add.svg" width=64 height=64 />  | TablerIcons.LayoutGridAdd | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-kanban.svg" width=64 height=64 />  | TablerIcons.LayoutKanban | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-list.svg" width=64 height=64 />  | TablerIcons.LayoutList |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-navbar.svg" width=64 height=64 />  | TablerIcons.LayoutNavbar | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-rows.svg" width=64 height=64 />  | TablerIcons.LayoutRows | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-sidebar.svg" width=64 height=64 />  | TablerIcons.LayoutSidebar |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/layout-sidebar-right.svg" width=64 height=64 />  | TablerIcons.LayoutSidebarRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/leaf.svg" width=64 height=64 />  | TablerIcons.Leaf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lego.svg" width=64 height=64 />  | TablerIcons.Lego |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-a.svg" width=64 height=64 />  | TablerIcons.LetterA | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-b.svg" width=64 height=64 />  | TablerIcons.LetterB | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-c.svg" width=64 height=64 />  | TablerIcons.LetterC |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-case.svg" width=64 height=64 />  | TablerIcons.LetterCase | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-case-lower.svg" width=64 height=64 />  | TablerIcons.LetterCaseLower | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-case-toggle.svg" width=64 height=64 />  | TablerIcons.LetterCaseToggle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-case-upper.svg" width=64 height=64 />  | TablerIcons.LetterCaseUpper | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-d.svg" width=64 height=64 />  | TablerIcons.LetterD | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-e.svg" width=64 height=64 />  | TablerIcons.LetterE |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-f.svg" width=64 height=64 />  | TablerIcons.LetterF | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-g.svg" width=64 height=64 />  | TablerIcons.LetterG | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-h.svg" width=64 height=64 />  | TablerIcons.LetterH |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-i.svg" width=64 height=64 />  | TablerIcons.LetterI | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-j.svg" width=64 height=64 />  | TablerIcons.LetterJ | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-k.svg" width=64 height=64 />  | TablerIcons.LetterK |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-l.svg" width=64 height=64 />  | TablerIcons.LetterL | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-m.svg" width=64 height=64 />  | TablerIcons.LetterM | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-n.svg" width=64 height=64 />  | TablerIcons.LetterN |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-o.svg" width=64 height=64 />  | TablerIcons.LetterO | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-p.svg" width=64 height=64 />  | TablerIcons.LetterP | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-q.svg" width=64 height=64 />  | TablerIcons.LetterQ |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-r.svg" width=64 height=64 />  | TablerIcons.LetterR | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-s.svg" width=64 height=64 />  | TablerIcons.LetterS | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-spacing.svg" width=64 height=64 />  | TablerIcons.LetterSpacing |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-t.svg" width=64 height=64 />  | TablerIcons.LetterT | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-u.svg" width=64 height=64 />  | TablerIcons.LetterU | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-v.svg" width=64 height=64 />  | TablerIcons.LetterV |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-w.svg" width=64 height=64 />  | TablerIcons.LetterW | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-x.svg" width=64 height=64 />  | TablerIcons.LetterX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-y.svg" width=64 height=64 />  | TablerIcons.LetterY |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letter-z.svg" width=64 height=64 />  | TablerIcons.LetterZ | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/letters-case.svg" width=64 height=64 />  | TablerIcons.LettersCase | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/license.svg" width=64 height=64 />  | TablerIcons.License |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lifebuoy.svg" width=64 height=64 />  | TablerIcons.Lifebuoy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/line.svg" width=64 height=64 />  | TablerIcons.Line | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/line-dashed.svg" width=64 height=64 />  | TablerIcons.LineDashed |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/line-dotted.svg" width=64 height=64 />  | TablerIcons.LineDotted | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/line-height.svg" width=64 height=64 />  | TablerIcons.LineHeight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/link.svg" width=64 height=64 />  | TablerIcons.Link |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/list.svg" width=64 height=64 />  | TablerIcons.List | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/list-check.svg" width=64 height=64 />  | TablerIcons.ListCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/list-search.svg" width=64 height=64 />  | TablerIcons.ListSearch |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/live-photo.svg" width=64 height=64 />  | TablerIcons.LivePhoto | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/live-view.svg" width=64 height=64 />  | TablerIcons.LiveView | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/loader.svg" width=64 height=64 />  | TablerIcons.Loader |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/loader-quarter.svg" width=64 height=64 />  | TablerIcons.LoaderQuarter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/location.svg" width=64 height=64 />  | TablerIcons.Location | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lock.svg" width=64 height=64 />  | TablerIcons.Lock |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lock-access.svg" width=64 height=64 />  | TablerIcons.LockAccess | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lock-off.svg" width=64 height=64 />  | TablerIcons.LockOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/lock-open.svg" width=64 height=64 />  | TablerIcons.LockOpen |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/login.svg" width=64 height=64 />  | TablerIcons.Login | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/logout.svg" width=64 height=64 />  | TablerIcons.Logout | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/macro.svg" width=64 height=64 />  | TablerIcons.Macro |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/magnet.svg" width=64 height=64 />  | TablerIcons.Magnet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mail.svg" width=64 height=64 />  | TablerIcons.Mail | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mail-forward.svg" width=64 height=64 />  | TablerIcons.MailForward |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mail-opened.svg" width=64 height=64 />  | TablerIcons.MailOpened | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mailbox.svg" width=64 height=64 />  | TablerIcons.Mailbox | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/man.svg" width=64 height=64 />  | TablerIcons.Man |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/manual-gearbox.svg" width=64 height=64 />  | TablerIcons.ManualGearbox | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/map.svg" width=64 height=64 />  | TablerIcons.Map | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/map-2.svg" width=64 height=64 />  | TablerIcons.Map2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/map-pin.svg" width=64 height=64 />  | TablerIcons.MapPin | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/map-pin-off.svg" width=64 height=64 />  | TablerIcons.MapPinOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/map-pins.svg" width=64 height=64 />  | TablerIcons.MapPins |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/markdown.svg" width=64 height=64 />  | TablerIcons.Markdown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/marquee.svg" width=64 height=64 />  | TablerIcons.Marquee | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/marquee-2.svg" width=64 height=64 />  | TablerIcons.Marquee2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mars.svg" width=64 height=64 />  | TablerIcons.Mars | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mask.svg" width=64 height=64 />  | TablerIcons.Mask | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mask-off.svg" width=64 height=64 />  | TablerIcons.MaskOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/massage.svg" width=64 height=64 />  | TablerIcons.Massage | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/math.svg" width=64 height=64 />  | TablerIcons.Math | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/math-function.svg" width=64 height=64 />  | TablerIcons.MathFunction |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/math-symbols.svg" width=64 height=64 />  | TablerIcons.MathSymbols | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/maximize.svg" width=64 height=64 />  | TablerIcons.Maximize | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/medal.svg" width=64 height=64 />  | TablerIcons.Medal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/medical-cross.svg" width=64 height=64 />  | TablerIcons.MedicalCross | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/menu.svg" width=64 height=64 />  | TablerIcons.Menu | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/menu-2.svg" width=64 height=64 />  | TablerIcons.Menu2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message.svg" width=64 height=64 />  | TablerIcons.Message | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-2.svg" width=64 height=64 />  | TablerIcons.Message2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-circle.svg" width=64 height=64 />  | TablerIcons.MessageCircle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-circle-2.svg" width=64 height=64 />  | TablerIcons.MessageCircle2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-circle-off.svg" width=64 height=64 />  | TablerIcons.MessageCircleOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-dots.svg" width=64 height=64 />  | TablerIcons.MessageDots |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-off.svg" width=64 height=64 />  | TablerIcons.MessageOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-plus.svg" width=64 height=64 />  | TablerIcons.MessagePlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/message-report.svg" width=64 height=64 />  | TablerIcons.MessageReport |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/messages.svg" width=64 height=64 />  | TablerIcons.Messages | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/messages-off.svg" width=64 height=64 />  | TablerIcons.MessagesOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/microphone.svg" width=64 height=64 />  | TablerIcons.Microphone |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/microphone-off.svg" width=64 height=64 />  | TablerIcons.MicrophoneOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/minimize.svg" width=64 height=64 />  | TablerIcons.Minimize | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/minus.svg" width=64 height=64 />  | TablerIcons.Minus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/minus-vertical.svg" width=64 height=64 />  | TablerIcons.MinusVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mist.svg" width=64 height=64 />  | TablerIcons.Mist | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-boy.svg" width=64 height=64 />  | TablerIcons.MoodBoy |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-confuzed.svg" width=64 height=64 />  | TablerIcons.MoodConfuzed | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-crazy-happy.svg" width=64 height=64 />  | TablerIcons.MoodCrazyHappy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-cry.svg" width=64 height=64 />  | TablerIcons.MoodCry |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-empty.svg" width=64 height=64 />  | TablerIcons.MoodEmpty | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-happy.svg" width=64 height=64 />  | TablerIcons.MoodHappy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-kid.svg" width=64 height=64 />  | TablerIcons.MoodKid |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-neutral.svg" width=64 height=64 />  | TablerIcons.MoodNeutral | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-sad.svg" width=64 height=64 />  | TablerIcons.MoodSad | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-smile.svg" width=64 height=64 />  | TablerIcons.MoodSmile |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-suprised.svg" width=64 height=64 />  | TablerIcons.MoodSuprised | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mood-tongue.svg" width=64 height=64 />  | TablerIcons.MoodTongue | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/moon.svg" width=64 height=64 />  | TablerIcons.Moon |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/moon-2.svg" width=64 height=64 />  | TablerIcons.Moon2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/moon-stars.svg" width=64 height=64 />  | TablerIcons.MoonStars | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/moped.svg" width=64 height=64 />  | TablerIcons.Moped |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/motorbike.svg" width=64 height=64 />  | TablerIcons.Motorbike | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mouse.svg" width=64 height=64 />  | TablerIcons.Mouse | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/movie.svg" width=64 height=64 />  | TablerIcons.Movie |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/mug.svg" width=64 height=64 />  | TablerIcons.Mug | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/music.svg" width=64 height=64 />  | TablerIcons.Music | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/new-section.svg" width=64 height=64 />  | TablerIcons.NewSection |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/news.svg" width=64 height=64 />  | TablerIcons.News | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/nfc.svg" width=64 height=64 />  | TablerIcons.Nfc | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/note.svg" width=64 height=64 />  | TablerIcons.Note |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/notebook.svg" width=64 height=64 />  | TablerIcons.Notebook | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/notes.svg" width=64 height=64 />  | TablerIcons.Notes | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/notification.svg" width=64 height=64 />  | TablerIcons.Notification |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-0.svg" width=64 height=64 />  | TablerIcons.Number0 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-1.svg" width=64 height=64 />  | TablerIcons.Number1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-2.svg" width=64 height=64 />  | TablerIcons.Number2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-3.svg" width=64 height=64 />  | TablerIcons.Number3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-4.svg" width=64 height=64 />  | TablerIcons.Number4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-5.svg" width=64 height=64 />  | TablerIcons.Number5 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-6.svg" width=64 height=64 />  | TablerIcons.Number6 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-7.svg" width=64 height=64 />  | TablerIcons.Number7 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-8.svg" width=64 height=64 />  | TablerIcons.Number8 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/number-9.svg" width=64 height=64 />  | TablerIcons.Number9 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/octagon.svg" width=64 height=64 />  | TablerIcons.Octagon | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/octagon-off.svg" width=64 height=64 />  | TablerIcons.OctagonOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/old.svg" width=64 height=64 />  | TablerIcons.Old | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/olympics.svg" width=64 height=64 />  | TablerIcons.Olympics | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/omega.svg" width=64 height=64 />  | TablerIcons.Omega |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/outlet.svg" width=64 height=64 />  | TablerIcons.Outlet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/overline.svg" width=64 height=64 />  | TablerIcons.Overline | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/package.svg" width=64 height=64 />  | TablerIcons.Package |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pacman.svg" width=64 height=64 />  | TablerIcons.Pacman | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/page-break.svg" width=64 height=64 />  | TablerIcons.PageBreak | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/paint.svg" width=64 height=64 />  | TablerIcons.Paint |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/palette.svg" width=64 height=64 />  | TablerIcons.Palette | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/panorama-horizontal.svg" width=64 height=64 />  | TablerIcons.PanoramaHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/panorama-vertical.svg" width=64 height=64 />  | TablerIcons.PanoramaVertical |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/paperclip.svg" width=64 height=64 />  | TablerIcons.Paperclip | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/parachute.svg" width=64 height=64 />  | TablerIcons.Parachute | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/parentheses.svg" width=64 height=64 />  | TablerIcons.Parentheses |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/parking.svg" width=64 height=64 />  | TablerIcons.Parking | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/peace.svg" width=64 height=64 />  | TablerIcons.Peace | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pencil.svg" width=64 height=64 />  | TablerIcons.Pencil |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pennant.svg" width=64 height=64 />  | TablerIcons.Pennant | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/percentage.svg" width=64 height=64 />  | TablerIcons.Percentage | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/perspective.svg" width=64 height=64 />  | TablerIcons.Perspective |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone.svg" width=64 height=64 />  | TablerIcons.Phone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-call.svg" width=64 height=64 />  | TablerIcons.PhoneCall | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-calling.svg" width=64 height=64 />  | TablerIcons.PhoneCalling |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-check.svg" width=64 height=64 />  | TablerIcons.PhoneCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-incoming.svg" width=64 height=64 />  | TablerIcons.PhoneIncoming | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-off.svg" width=64 height=64 />  | TablerIcons.PhoneOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-outgoing.svg" width=64 height=64 />  | TablerIcons.PhoneOutgoing | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-pause.svg" width=64 height=64 />  | TablerIcons.PhonePause | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-plus.svg" width=64 height=64 />  | TablerIcons.PhonePlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/phone-x.svg" width=64 height=64 />  | TablerIcons.PhoneX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/photo.svg" width=64 height=64 />  | TablerIcons.Photo | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/photo-off.svg" width=64 height=64 />  | TablerIcons.PhotoOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/physotherapist.svg" width=64 height=64 />  | TablerIcons.Physotherapist | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/picture-in-picture.svg" width=64 height=64 />  | TablerIcons.PictureInPicture | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/picture-in-picture-off.svg" width=64 height=64 />  | TablerIcons.PictureInPictureOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/picture-in-picture-on.svg" width=64 height=64 />  | TablerIcons.PictureInPictureOn | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pill.svg" width=64 height=64 />  | TablerIcons.Pill | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pin.svg" width=64 height=64 />  | TablerIcons.Pin |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pinned.svg" width=64 height=64 />  | TablerIcons.Pinned | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pinned-off.svg" width=64 height=64 />  | TablerIcons.PinnedOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pizza.svg" width=64 height=64 />  | TablerIcons.Pizza |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plane.svg" width=64 height=64 />  | TablerIcons.Plane | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plane-arrival.svg" width=64 height=64 />  | TablerIcons.PlaneArrival | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plane-departure.svg" width=64 height=64 />  | TablerIcons.PlaneDeparture |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/planet.svg" width=64 height=64 />  | TablerIcons.Planet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plant.svg" width=64 height=64 />  | TablerIcons.Plant | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plant-2.svg" width=64 height=64 />  | TablerIcons.Plant2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/play-card.svg" width=64 height=64 />  | TablerIcons.PlayCard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-pause.svg" width=64 height=64 />  | TablerIcons.PlayerPause | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-play.svg" width=64 height=64 />  | TablerIcons.PlayerPlay |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-record.svg" width=64 height=64 />  | TablerIcons.PlayerRecord | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-skip-back.svg" width=64 height=64 />  | TablerIcons.PlayerSkipBack | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-skip-forward.svg" width=64 height=64 />  | TablerIcons.PlayerSkipForward |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-stop.svg" width=64 height=64 />  | TablerIcons.PlayerStop | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-track-next.svg" width=64 height=64 />  | TablerIcons.PlayerTrackNext | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/player-track-prev.svg" width=64 height=64 />  | TablerIcons.PlayerTrackPrev |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/playlist.svg" width=64 height=64 />  | TablerIcons.Playlist | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plug.svg" width=64 height=64 />  | TablerIcons.Plug | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/plus.svg" width=64 height=64 />  | TablerIcons.Plus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/point.svg" width=64 height=64 />  | TablerIcons.Point | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pokeball.svg" width=64 height=64 />  | TablerIcons.Pokeball | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/polaroid.svg" width=64 height=64 />  | TablerIcons.Polaroid |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pool.svg" width=64 height=64 />  | TablerIcons.Pool | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/power.svg" width=64 height=64 />  | TablerIcons.Power | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pray.svg" width=64 height=64 />  | TablerIcons.Pray |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/presentation.svg" width=64 height=64 />  | TablerIcons.Presentation | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/presentation-analytics.svg" width=64 height=64 />  | TablerIcons.PresentationAnalytics | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/printer.svg" width=64 height=64 />  | TablerIcons.Printer |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/prompt.svg" width=64 height=64 />  | TablerIcons.Prompt | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/propeller.svg" width=64 height=64 />  | TablerIcons.Propeller | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/puzzle.svg" width=64 height=64 />  | TablerIcons.Puzzle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/pyramid.svg" width=64 height=64 />  | TablerIcons.Pyramid | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/qrcode.svg" width=64 height=64 />  | TablerIcons.Qrcode | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/question-mark.svg" width=64 height=64 />  | TablerIcons.QuestionMark |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/radioactive.svg" width=64 height=64 />  | TablerIcons.Radioactive | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/radius-bottom-left.svg" width=64 height=64 />  | TablerIcons.RadiusBottomLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/radius-bottom-right.svg" width=64 height=64 />  | TablerIcons.RadiusBottomRight |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/radius-top-left.svg" width=64 height=64 />  | TablerIcons.RadiusTopLeft | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/radius-top-right.svg" width=64 height=64 />  | TablerIcons.RadiusTopRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rainbow.svg" width=64 height=64 />  | TablerIcons.Rainbow |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/receipt.svg" width=64 height=64 />  | TablerIcons.Receipt | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/receipt-2.svg" width=64 height=64 />  | TablerIcons.Receipt2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/receipt-off.svg" width=64 height=64 />  | TablerIcons.ReceiptOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/receipt-refund.svg" width=64 height=64 />  | TablerIcons.ReceiptRefund | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/receipt-tax.svg" width=64 height=64 />  | TablerIcons.ReceiptTax | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/recharging.svg" width=64 height=64 />  | TablerIcons.Recharging |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/record-mail.svg" width=64 height=64 />  | TablerIcons.RecordMail | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rectangle.svg" width=64 height=64 />  | TablerIcons.Rectangle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rectangle-vertical.svg" width=64 height=64 />  | TablerIcons.RectangleVertical |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/recycle.svg" width=64 height=64 />  | TablerIcons.Recycle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/refresh.svg" width=64 height=64 />  | TablerIcons.Refresh | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/refresh-alert.svg" width=64 height=64 />  | TablerIcons.RefreshAlert |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/registered.svg" width=64 height=64 />  | TablerIcons.Registered | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/relation-many-to-many.svg" width=64 height=64 />  | TablerIcons.RelationManyToMany | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/relation-one-to-many.svg" width=64 height=64 />  | TablerIcons.RelationOneToMany |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/relation-one-to-one.svg" width=64 height=64 />  | TablerIcons.RelationOneToOne | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/repeat.svg" width=64 height=64 />  | TablerIcons.Repeat | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/repeat-once.svg" width=64 height=64 />  | TablerIcons.RepeatOnce |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/replace.svg" width=64 height=64 />  | TablerIcons.Replace | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/report.svg" width=64 height=64 />  | TablerIcons.Report | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/report-analytics.svg" width=64 height=64 />  | TablerIcons.ReportAnalytics |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/report-medical.svg" width=64 height=64 />  | TablerIcons.ReportMedical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/report-money.svg" width=64 height=64 />  | TablerIcons.ReportMoney | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/resize.svg" width=64 height=64 />  | TablerIcons.Resize |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ripple.svg" width=64 height=64 />  | TablerIcons.Ripple | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/road-sign.svg" width=64 height=64 />  | TablerIcons.RoadSign | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rocket.svg" width=64 height=64 />  | TablerIcons.Rocket |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rotate.svg" width=64 height=64 />  | TablerIcons.Rotate | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rotate-2.svg" width=64 height=64 />  | TablerIcons.Rotate2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rotate-clockwise.svg" width=64 height=64 />  | TablerIcons.RotateClockwise |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rotate-clockwise-2.svg" width=64 height=64 />  | TablerIcons.RotateClockwise2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rotate-rectangle.svg" width=64 height=64 />  | TablerIcons.RotateRectangle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/route.svg" width=64 height=64 />  | TablerIcons.Route |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/router.svg" width=64 height=64 />  | TablerIcons.Router | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/row-insert-bottom.svg" width=64 height=64 />  | TablerIcons.RowInsertBottom | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/row-insert-top.svg" width=64 height=64 />  | TablerIcons.RowInsertTop |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/rss.svg" width=64 height=64 />  | TablerIcons.Rss | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ruler.svg" width=64 height=64 />  | TablerIcons.Ruler | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ruler-2.svg" width=64 height=64 />  | TablerIcons.Ruler2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/run.svg" width=64 height=64 />  | TablerIcons.Run | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sailboat.svg" width=64 height=64 />  | TablerIcons.Sailboat | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/satellite.svg" width=64 height=64 />  | TablerIcons.Satellite |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scale.svg" width=64 height=64 />  | TablerIcons.Scale | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scan.svg" width=64 height=64 />  | TablerIcons.Scan | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/school.svg" width=64 height=64 />  | TablerIcons.School |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scissors.svg" width=64 height=64 />  | TablerIcons.Scissors | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scooter.svg" width=64 height=64 />  | TablerIcons.Scooter | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scooter-electric.svg" width=64 height=64 />  | TablerIcons.ScooterElectric |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/screen-share.svg" width=64 height=64 />  | TablerIcons.ScreenShare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/screen-share-off.svg" width=64 height=64 />  | TablerIcons.ScreenShareOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/scuba-mask.svg" width=64 height=64 />  | TablerIcons.ScubaMask |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/search.svg" width=64 height=64 />  | TablerIcons.Search | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/section.svg" width=64 height=64 />  | TablerIcons.Section | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/seeding.svg" width=64 height=64 />  | TablerIcons.Seeding |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/select.svg" width=64 height=64 />  | TablerIcons.Select | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/selector.svg" width=64 height=64 />  | TablerIcons.Selector | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/send.svg" width=64 height=64 />  | TablerIcons.Send |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/separator.svg" width=64 height=64 />  | TablerIcons.Separator | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/separator-horizontal.svg" width=64 height=64 />  | TablerIcons.SeparatorHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/separator-vertical.svg" width=64 height=64 />  | TablerIcons.SeparatorVertical |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/server.svg" width=64 height=64 />  | TablerIcons.Server | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/servicemark.svg" width=64 height=64 />  | TablerIcons.Servicemark | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/settings.svg" width=64 height=64 />  | TablerIcons.Settings |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/settings-automation.svg" width=64 height=64 />  | TablerIcons.SettingsAutomation | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shadow.svg" width=64 height=64 />  | TablerIcons.Shadow | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shadow-off.svg" width=64 height=64 />  | TablerIcons.ShadowOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shape.svg" width=64 height=64 />  | TablerIcons.Shape | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shape-2.svg" width=64 height=64 />  | TablerIcons.Shape2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shape-3.svg" width=64 height=64 />  | TablerIcons.Shape3 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/share.svg" width=64 height=64 />  | TablerIcons.Share | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shield.svg" width=64 height=64 />  | TablerIcons.Shield | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shield-check.svg" width=64 height=64 />  | TablerIcons.ShieldCheck |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shield-lock.svg" width=64 height=64 />  | TablerIcons.ShieldLock | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shield-off.svg" width=64 height=64 />  | TablerIcons.ShieldOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shield-x.svg" width=64 height=64 />  | TablerIcons.ShieldX |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ship.svg" width=64 height=64 />  | TablerIcons.Ship | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shirt.svg" width=64 height=64 />  | TablerIcons.Shirt | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shopping-cart.svg" width=64 height=64 />  | TablerIcons.ShoppingCart |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shopping-cart-discount.svg" width=64 height=64 />  | TablerIcons.ShoppingCartDiscount | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shopping-cart-off.svg" width=64 height=64 />  | TablerIcons.ShoppingCartOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shopping-cart-plus.svg" width=64 height=64 />  | TablerIcons.ShoppingCartPlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shopping-cart-x.svg" width=64 height=64 />  | TablerIcons.ShoppingCartX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/shredder.svg" width=64 height=64 />  | TablerIcons.Shredder | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/signature.svg" width=64 height=64 />  | TablerIcons.Signature |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sitemap.svg" width=64 height=64 />  | TablerIcons.Sitemap | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/skateboard.svg" width=64 height=64 />  | TablerIcons.Skateboard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/slice.svg" width=64 height=64 />  | TablerIcons.Slice |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/slideshow.svg" width=64 height=64 />  | TablerIcons.Slideshow | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/smart-home.svg" width=64 height=64 />  | TablerIcons.SmartHome | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/smoking.svg" width=64 height=64 />  | TablerIcons.Smoking |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/smoking-no.svg" width=64 height=64 />  | TablerIcons.SmokingNo | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/snowflake.svg" width=64 height=64 />  | TablerIcons.Snowflake | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/soccer-field.svg" width=64 height=64 />  | TablerIcons.SoccerField |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/social.svg" width=64 height=64 />  | TablerIcons.Social | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sock.svg" width=64 height=64 />  | TablerIcons.Sock | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sort-ascending.svg" width=64 height=64 />  | TablerIcons.SortAscending |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sort-ascending-2.svg" width=64 height=64 />  | TablerIcons.SortAscending2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sort-descending.svg" width=64 height=64 />  | TablerIcons.SortDescending | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sort-descending-2.svg" width=64 height=64 />  | TablerIcons.SortDescending2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/space.svg" width=64 height=64 />  | TablerIcons.Space | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/speakerphone.svg" width=64 height=64 />  | TablerIcons.Speakerphone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/speedboat.svg" width=64 height=64 />  | TablerIcons.Speedboat |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sport-billard.svg" width=64 height=64 />  | TablerIcons.SportBillard | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square.svg" width=64 height=64 />  | TablerIcons.Square | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-0.svg" width=64 height=64 />  | TablerIcons.Square0 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-1.svg" width=64 height=64 />  | TablerIcons.Square1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-2.svg" width=64 height=64 />  | TablerIcons.Square2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-3.svg" width=64 height=64 />  | TablerIcons.Square3 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-4.svg" width=64 height=64 />  | TablerIcons.Square4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-5.svg" width=64 height=64 />  | TablerIcons.Square5 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-6.svg" width=64 height=64 />  | TablerIcons.Square6 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-7.svg" width=64 height=64 />  | TablerIcons.Square7 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-8.svg" width=64 height=64 />  | TablerIcons.Square8 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-9.svg" width=64 height=64 />  | TablerIcons.Square9 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-check.svg" width=64 height=64 />  | TablerIcons.SquareCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-dot.svg" width=64 height=64 />  | TablerIcons.SquareDot | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-forbid.svg" width=64 height=64 />  | TablerIcons.SquareForbid |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-forbid-2.svg" width=64 height=64 />  | TablerIcons.SquareForbid2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-minus.svg" width=64 height=64 />  | TablerIcons.SquareMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-off.svg" width=64 height=64 />  | TablerIcons.SquareOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-plus.svg" width=64 height=64 />  | TablerIcons.SquarePlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-root.svg" width=64 height=64 />  | TablerIcons.SquareRoot | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-root-2.svg" width=64 height=64 />  | TablerIcons.SquareRoot2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-rotated.svg" width=64 height=64 />  | TablerIcons.SquareRotated | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-rotated-off.svg" width=64 height=64 />  | TablerIcons.SquareRotatedOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-toggle.svg" width=64 height=64 />  | TablerIcons.SquareToggle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-toggle-horizontal.svg" width=64 height=64 />  | TablerIcons.SquareToggleHorizontal | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/square-x.svg" width=64 height=64 />  | TablerIcons.SquareX | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/squares-diagonal.svg" width=64 height=64 />  | TablerIcons.SquaresDiagonal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/squares-filled.svg" width=64 height=64 />  | TablerIcons.SquaresFilled | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stack.svg" width=64 height=64 />  | TablerIcons.Stack | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stack-2.svg" width=64 height=64 />  | TablerIcons.Stack2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stairs.svg" width=64 height=64 />  | TablerIcons.Stairs | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stairs-down.svg" width=64 height=64 />  | TablerIcons.StairsDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stairs-up.svg" width=64 height=64 />  | TablerIcons.StairsUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/star.svg" width=64 height=64 />  | TablerIcons.Star | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/star-half.svg" width=64 height=64 />  | TablerIcons.StarHalf | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/star-off.svg" width=64 height=64 />  | TablerIcons.StarOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stars.svg" width=64 height=64 />  | TablerIcons.Stars | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/steering-wheel.svg" width=64 height=64 />  | TablerIcons.SteeringWheel | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/step-into.svg" width=64 height=64 />  | TablerIcons.StepInto |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/step-out.svg" width=64 height=64 />  | TablerIcons.StepOut | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/stethoscope.svg" width=64 height=64 />  | TablerIcons.Stethoscope | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sticker.svg" width=64 height=64 />  | TablerIcons.Sticker |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/strikethrough.svg" width=64 height=64 />  | TablerIcons.Strikethrough | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/submarine.svg" width=64 height=64 />  | TablerIcons.Submarine | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/subscript.svg" width=64 height=64 />  | TablerIcons.Subscript |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/subtask.svg" width=64 height=64 />  | TablerIcons.Subtask | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sum.svg" width=64 height=64 />  | TablerIcons.Sum | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sun.svg" width=64 height=64 />  | TablerIcons.Sun |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sun-off.svg" width=64 height=64 />  | TablerIcons.SunOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sunset.svg" width=64 height=64 />  | TablerIcons.Sunset | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/sunshine.svg" width=64 height=64 />  | TablerIcons.Sunshine |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/superscript.svg" width=64 height=64 />  | TablerIcons.Superscript | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/swimming.svg" width=64 height=64 />  | TablerIcons.Swimming | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/switch.svg" width=64 height=64 />  | TablerIcons.Switch |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/switch-2.svg" width=64 height=64 />  | TablerIcons.Switch2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/switch-3.svg" width=64 height=64 />  | TablerIcons.Switch3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/switch-horizontal.svg" width=64 height=64 />  | TablerIcons.SwitchHorizontal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/switch-vertical.svg" width=64 height=64 />  | TablerIcons.SwitchVertical | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/table.svg" width=64 height=64 />  | TablerIcons.Table | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/table-export.svg" width=64 height=64 />  | TablerIcons.TableExport |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/table-import.svg" width=64 height=64 />  | TablerIcons.TableImport | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/table-off.svg" width=64 height=64 />  | TablerIcons.TableOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tag.svg" width=64 height=64 />  | TablerIcons.Tag |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tallymark-1.svg" width=64 height=64 />  | TablerIcons.Tallymark1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tallymark-2.svg" width=64 height=64 />  | TablerIcons.Tallymark2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tallymark-3.svg" width=64 height=64 />  | TablerIcons.Tallymark3 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tallymark-4.svg" width=64 height=64 />  | TablerIcons.Tallymark4 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tallymarks.svg" width=64 height=64 />  | TablerIcons.Tallymarks | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tank.svg" width=64 height=64 />  | TablerIcons.Tank |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/target.svg" width=64 height=64 />  | TablerIcons.Target | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/temperature.svg" width=64 height=64 />  | TablerIcons.Temperature | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/temperature-celsius.svg" width=64 height=64 />  | TablerIcons.TemperatureCelsius |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/temperature-fahrenheit.svg" width=64 height=64 />  | TablerIcons.TemperatureFahrenheit | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/temperature-minus.svg" width=64 height=64 />  | TablerIcons.TemperatureMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/temperature-plus.svg" width=64 height=64 />  | TablerIcons.TemperaturePlus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/template.svg" width=64 height=64 />  | TablerIcons.Template | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tent.svg" width=64 height=64 />  | TablerIcons.Tent | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/terminal.svg" width=64 height=64 />  | TablerIcons.Terminal |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/terminal-2.svg" width=64 height=64 />  | TablerIcons.Terminal2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/test-pipe.svg" width=64 height=64 />  | TablerIcons.TestPipe | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/text-direction-ltr.svg" width=64 height=64 />  | TablerIcons.TextDirectionLtr |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/text-direction-rtl.svg" width=64 height=64 />  | TablerIcons.TextDirectionRtl | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/text-wrap.svg" width=64 height=64 />  | TablerIcons.TextWrap | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/text-wrap-disabled.svg" width=64 height=64 />  | TablerIcons.TextWrapDisabled |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/thumb-down.svg" width=64 height=64 />  | TablerIcons.ThumbDown | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/thumb-up.svg" width=64 height=64 />  | TablerIcons.ThumbUp | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/ticket.svg" width=64 height=64 />  | TablerIcons.Ticket |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tilt-shift.svg" width=64 height=64 />  | TablerIcons.TiltShift | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tir.svg" width=64 height=64 />  | TablerIcons.Tir | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/toggle-left.svg" width=64 height=64 />  | TablerIcons.ToggleLeft |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/toggle-right.svg" width=64 height=64 />  | TablerIcons.ToggleRight | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tool.svg" width=64 height=64 />  | TablerIcons.Tool | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tools.svg" width=64 height=64 />  | TablerIcons.Tools |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tools-kitchen.svg" width=64 height=64 />  | TablerIcons.ToolsKitchen | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tools-kitchen-2.svg" width=64 height=64 />  | TablerIcons.ToolsKitchen2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tornado.svg" width=64 height=64 />  | TablerIcons.Tornado |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tournament.svg" width=64 height=64 />  | TablerIcons.Tournament | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/track.svg" width=64 height=64 />  | TablerIcons.Track | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tractor.svg" width=64 height=64 />  | TablerIcons.Tractor |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trademark.svg" width=64 height=64 />  | TablerIcons.Trademark | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/traffic-cone.svg" width=64 height=64 />  | TablerIcons.TrafficCone | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/traffic-lights.svg" width=64 height=64 />  | TablerIcons.TrafficLights |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/train.svg" width=64 height=64 />  | TablerIcons.Train | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trash.svg" width=64 height=64 />  | TablerIcons.Trash | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trash-off.svg" width=64 height=64 />  | TablerIcons.TrashOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/tree.svg" width=64 height=64 />  | TablerIcons.Tree | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trees.svg" width=64 height=64 />  | TablerIcons.Trees | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-down.svg" width=64 height=64 />  | TablerIcons.TrendingDown |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-down-2.svg" width=64 height=64 />  | TablerIcons.TrendingDown2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-down-3.svg" width=64 height=64 />  | TablerIcons.TrendingDown3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-up.svg" width=64 height=64 />  | TablerIcons.TrendingUp |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-up-2.svg" width=64 height=64 />  | TablerIcons.TrendingUp2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trending-up-3.svg" width=64 height=64 />  | TablerIcons.TrendingUp3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/triangle.svg" width=64 height=64 />  | TablerIcons.Triangle |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/triangle-off.svg" width=64 height=64 />  | TablerIcons.TriangleOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/triangle-square-circle.svg" width=64 height=64 />  | TablerIcons.TriangleSquareCircle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trident.svg" width=64 height=64 />  | TablerIcons.Trident |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/trophy.svg" width=64 height=64 />  | TablerIcons.Trophy | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/truck.svg" width=64 height=64 />  | TablerIcons.Truck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/truck-delivery.svg" width=64 height=64 />  | TablerIcons.TruckDelivery |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/truck-off.svg" width=64 height=64 />  | TablerIcons.TruckOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/truck-return.svg" width=64 height=64 />  | TablerIcons.TruckReturn | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/typography.svg" width=64 height=64 />  | TablerIcons.Typography |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/umbrella.svg" width=64 height=64 />  | TablerIcons.Umbrella | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/underline.svg" width=64 height=64 />  | TablerIcons.Underline | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/unlink.svg" width=64 height=64 />  | TablerIcons.Unlink |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/upload.svg" width=64 height=64 />  | TablerIcons.Upload | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/urgent.svg" width=64 height=64 />  | TablerIcons.Urgent | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user.svg" width=64 height=64 />  | TablerIcons.User |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-check.svg" width=64 height=64 />  | TablerIcons.UserCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-exclamation.svg" width=64 height=64 />  | TablerIcons.UserExclamation | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-minus.svg" width=64 height=64 />  | TablerIcons.UserMinus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-off.svg" width=64 height=64 />  | TablerIcons.UserOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-plus.svg" width=64 height=64 />  | TablerIcons.UserPlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/user-x.svg" width=64 height=64 />  | TablerIcons.UserX |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/users.svg" width=64 height=64 />  | TablerIcons.Users | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/vaccine.svg" width=64 height=64 />  | TablerIcons.Vaccine | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/variable.svg" width=64 height=64 />  | TablerIcons.Variable |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/vector.svg" width=64 height=64 />  | TablerIcons.Vector | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/vector-beizer.svg" width=64 height=64 />  | TablerIcons.VectorBeizer | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/vector-beizer-2.svg" width=64 height=64 />  | TablerIcons.VectorBeizer2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/vector-triangle.svg" width=64 height=64 />  | TablerIcons.VectorTriangle | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/venus.svg" width=64 height=64 />  | TablerIcons.Venus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/versions.svg" width=64 height=64 />  | TablerIcons.Versions |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/video.svg" width=64 height=64 />  | TablerIcons.Video | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/video-minus.svg" width=64 height=64 />  | TablerIcons.VideoMinus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/video-off.svg" width=64 height=64 />  | TablerIcons.VideoOff |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/video-plus.svg" width=64 height=64 />  | TablerIcons.VideoPlus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/view-360.svg" width=64 height=64 />  | TablerIcons.View360 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/viewfinder.svg" width=64 height=64 />  | TablerIcons.Viewfinder |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/viewport-narrow.svg" width=64 height=64 />  | TablerIcons.ViewportNarrow | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/viewport-wide.svg" width=64 height=64 />  | TablerIcons.ViewportWide | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/virus.svg" width=64 height=64 />  | TablerIcons.Virus |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/virus-off.svg" width=64 height=64 />  | TablerIcons.VirusOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/virus-search.svg" width=64 height=64 />  | TablerIcons.VirusSearch | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/volume.svg" width=64 height=64 />  | TablerIcons.Volume |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/volume-2.svg" width=64 height=64 />  | TablerIcons.Volume2 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/volume-3.svg" width=64 height=64 />  | TablerIcons.Volume3 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/walk.svg" width=64 height=64 />  | TablerIcons.Walk |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wallet.svg" width=64 height=64 />  | TablerIcons.Wallet | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wand.svg" width=64 height=64 />  | TablerIcons.Wand | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wave-saw-tool.svg" width=64 height=64 />  | TablerIcons.WaveSawTool |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wave-sine.svg" width=64 height=64 />  | TablerIcons.WaveSine | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wave-square.svg" width=64 height=64 />  | TablerIcons.WaveSquare | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wifi.svg" width=64 height=64 />  | TablerIcons.Wifi |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wifi-0.svg" width=64 height=64 />  | TablerIcons.Wifi0 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wifi-1.svg" width=64 height=64 />  | TablerIcons.Wifi1 | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wifi-2.svg" width=64 height=64 />  | TablerIcons.Wifi2 |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wifi-off.svg" width=64 height=64 />  | TablerIcons.WifiOff | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wind.svg" width=64 height=64 />  | TablerIcons.Wind | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/windmill.svg" width=64 height=64 />  | TablerIcons.Windmill |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/window.svg" width=64 height=64 />  | TablerIcons.Window | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wiper.svg" width=64 height=64 />  | TablerIcons.Wiper | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wiper-wash.svg" width=64 height=64 />  | TablerIcons.WiperWash |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/woman.svg" width=64 height=64 />  | TablerIcons.Woman | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/world.svg" width=64 height=64 />  | TablerIcons.World | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/world-latitude.svg" width=64 height=64 />  | TablerIcons.WorldLatitude |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/world-longitude.svg" width=64 height=64 />  | TablerIcons.WorldLongitude | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/wrecking-ball.svg" width=64 height=64 />  | TablerIcons.WreckingBall | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/writing.svg" width=64 height=64 />  | TablerIcons.Writing |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/writing-sign.svg" width=64 height=64 />  | TablerIcons.WritingSign | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/x.svg" width=64 height=64 />  | TablerIcons.X | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/yin-yang.svg" width=64 height=64 />  | TablerIcons.YinYang |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-aquarius.svg" width=64 height=64 />  | TablerIcons.ZodiacAquarius | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-aries.svg" width=64 height=64 />  | TablerIcons.ZodiacAries | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-cancer.svg" width=64 height=64 />  | TablerIcons.ZodiacCancer |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-capricorn.svg" width=64 height=64 />  | TablerIcons.ZodiacCapricorn | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-gemini.svg" width=64 height=64 />  | TablerIcons.ZodiacGemini | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-leo.svg" width=64 height=64 />  | TablerIcons.ZodiacLeo |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-libra.svg" width=64 height=64 />  | TablerIcons.ZodiacLibra | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-pisces.svg" width=64 height=64 />  | TablerIcons.ZodiacPisces | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-sagittarius.svg" width=64 height=64 />  | TablerIcons.ZodiacSagittarius |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-scorpio.svg" width=64 height=64 />  | TablerIcons.ZodiacScorpio | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-taurus.svg" width=64 height=64 />  | TablerIcons.ZodiacTaurus | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zodiac-virgo.svg" width=64 height=64 />  | TablerIcons.ZodiacVirgo |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-cancel.svg" width=64 height=64 />  | TablerIcons.ZoomCancel | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-check.svg" width=64 height=64 />  | TablerIcons.ZoomCheck | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-in.svg" width=64 height=64 />  | TablerIcons.ZoomIn |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-money.svg" width=64 height=64 />  | TablerIcons.ZoomMoney | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-out.svg" width=64 height=64 />  | TablerIcons.ZoomOut | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/zoom-question.svg" width=64 height=64 />  | TablerIcons.ZoomQuestion |
-| <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/2fa.svg" width=64 height=64 />  | TablerIcons._2fa | <img src="https://raw.githubusercontent.com/tabler/tabler-icons/v1.39.1/icons/3d-cube-sphere.svg" width=64 height=64 />  | TablerIcons._3dCubeSphere |
+|  | TablerIcons.Filled.Accessible |  | TablerIcons.Filled.Ad |  | TablerIcons.Filled.Ad-circle |
+|  | TablerIcons.Filled.Adjustments |  | TablerIcons.Filled.Aerial-lift |  | TablerIcons.Filled.Affiliate |
+|  | TablerIcons.Filled.Air-balloon |  | TablerIcons.Filled.Alarm |  | TablerIcons.Filled.Alarm-minus |
+|  | TablerIcons.Filled.Alarm-plus |  | TablerIcons.Filled.Alarm-snooze |  | TablerIcons.Filled.Alert-circle |
+|  | TablerIcons.Filled.Alert-hexagon |  | TablerIcons.Filled.Alert-octagon |  | TablerIcons.Filled.Alert-square |
+|  | TablerIcons.Filled.Alert-square-rounded |  | TablerIcons.Filled.Alert-triangle |  | TablerIcons.Filled.Alien |
+|  | TablerIcons.Filled.Align-box-bottom-center |  | TablerIcons.Filled.Align-box-bottom-left |  | TablerIcons.Filled.Align-box-bottom-right |
+|  | TablerIcons.Filled.Align-box-center-middle |  | TablerIcons.Filled.Align-box-left-bottom |  | TablerIcons.Filled.Align-box-left-middle |
+|  | TablerIcons.Filled.Align-box-left-top |  | TablerIcons.Filled.Align-box-right-bottom |  | TablerIcons.Filled.Align-box-right-middle |
+|  | TablerIcons.Filled.Align-box-right-top |  | TablerIcons.Filled.Align-box-top-center |  | TablerIcons.Filled.Align-box-top-left |
+|  | TablerIcons.Filled.Align-box-top-right |  | TablerIcons.Filled.Analyze |  | TablerIcons.Filled.App-window |
+|  | TablerIcons.Filled.Apple |  | TablerIcons.Filled.Apps |  | TablerIcons.Filled.Archive |
+|  | TablerIcons.Filled.Arrow-autofit-content |  | TablerIcons.Filled.Arrow-autofit-down |  | TablerIcons.Filled.Arrow-autofit-height |
+|  | TablerIcons.Filled.Arrow-autofit-left |  | TablerIcons.Filled.Arrow-autofit-right |  | TablerIcons.Filled.Arrow-autofit-up |
+|  | TablerIcons.Filled.Arrow-autofit-width |  | TablerIcons.Filled.Arrow-badge-down |  | TablerIcons.Filled.Arrow-badge-left |
+|  | TablerIcons.Filled.Arrow-badge-right |  | TablerIcons.Filled.Arrow-badge-up |  | TablerIcons.Filled.Arrow-big-down |
+|  | TablerIcons.Filled.Arrow-big-down-line |  | TablerIcons.Filled.Arrow-big-down-lines |  | TablerIcons.Filled.Arrow-big-left |
+|  | TablerIcons.Filled.Arrow-big-left-line |  | TablerIcons.Filled.Arrow-big-left-lines |  | TablerIcons.Filled.Arrow-big-right |
+|  | TablerIcons.Filled.Arrow-big-right-line |  | TablerIcons.Filled.Arrow-big-right-lines |  | TablerIcons.Filled.Arrow-big-up |
+|  | TablerIcons.Filled.Arrow-big-up-line |  | TablerIcons.Filled.Arrow-big-up-lines |  | TablerIcons.Filled.Arrow-down-circle |
+|  | TablerIcons.Filled.Arrow-down-rhombus |  | TablerIcons.Filled.Arrow-down-square |  | TablerIcons.Filled.Arrow-guide |
+|  | TablerIcons.Filled.Arrow-left-circle |  | TablerIcons.Filled.Arrow-left-rhombus |  | TablerIcons.Filled.Arrow-left-square |
+|  | TablerIcons.Filled.Arrow-move-down |  | TablerIcons.Filled.Arrow-move-left |  | TablerIcons.Filled.Arrow-move-right |
+|  | TablerIcons.Filled.Arrow-move-up |  | TablerIcons.Filled.Arrow-right-circle |  | TablerIcons.Filled.Arrow-right-rhombus |
+|  | TablerIcons.Filled.Arrow-right-square |  | TablerIcons.Filled.Arrow-up-circle |  | TablerIcons.Filled.Arrow-up-rhombus |
+|  | TablerIcons.Filled.Arrow-up-square |  | TablerIcons.Filled.Artboard |  | TablerIcons.Filled.Article |
+|  | TablerIcons.Filled.Aspect-ratio |  | TablerIcons.Filled.Assembly |  | TablerIcons.Filled.Asset |
+|  | TablerIcons.Filled.Atom-2 |  | TablerIcons.Filled.Automatic-gearbox |  | TablerIcons.Filled.Award |
+|  | TablerIcons.Filled.Baby-carriage |  | TablerIcons.Filled.Backspace |  | TablerIcons.Filled.Badge |
+|  | TablerIcons.Filled.Badge-3d |  | TablerIcons.Filled.Badge-4k |  | TablerIcons.Filled.Badge-8k |
+|  | TablerIcons.Filled.Badge-ad |  | TablerIcons.Filled.Badge-ar |  | TablerIcons.Filled.Badge-cc |
+|  | TablerIcons.Filled.Badge-hd |  | TablerIcons.Filled.Badge-sd |  | TablerIcons.Filled.Badge-tm |
+|  | TablerIcons.Filled.Badge-vo |  | TablerIcons.Filled.Badge-vr |  | TablerIcons.Filled.Badge-wc |
+|  | TablerIcons.Filled.Badges |  | TablerIcons.Filled.Balloon |  | TablerIcons.Filled.Ballpen |
+|  | TablerIcons.Filled.Bandage |  | TablerIcons.Filled.Barbell |  | TablerIcons.Filled.Barrier-block |
+|  | TablerIcons.Filled.Basket |  | TablerIcons.Filled.Bath |  | TablerIcons.Filled.Battery |
+|  | TablerIcons.Filled.Battery-1 |  | TablerIcons.Filled.Battery-2 |  | TablerIcons.Filled.Battery-3 |
+|  | TablerIcons.Filled.Battery-4 |  | TablerIcons.Filled.Battery-automotive |  | TablerIcons.Filled.Battery-vertical |
+|  | TablerIcons.Filled.Battery-vertical-1 |  | TablerIcons.Filled.Battery-vertical-2 |  | TablerIcons.Filled.Battery-vertical-3 |
+|  | TablerIcons.Filled.Battery-vertical-4 |  | TablerIcons.Filled.Bed |  | TablerIcons.Filled.Bed-flat |
+|  | TablerIcons.Filled.Beer |  | TablerIcons.Filled.Bell |  | TablerIcons.Filled.Bell-minus |
+|  | TablerIcons.Filled.Bell-plus |  | TablerIcons.Filled.Bell-ringing |  | TablerIcons.Filled.Bell-ringing-2 |
+|  | TablerIcons.Filled.Bell-x |  | TablerIcons.Filled.Bell-z |  | TablerIcons.Filled.Bike |
+|  | TablerIcons.Filled.Binary-tree |  | TablerIcons.Filled.Binary-tree-2 |  | TablerIcons.Filled.Binoculars |
+|  | TablerIcons.Filled.Biohazard |  | TablerIcons.Filled.Blade |  | TablerIcons.Filled.Blender |
+|  | TablerIcons.Filled.Blob |  | TablerIcons.Filled.Bolt |  | TablerIcons.Filled.Bomb |
+|  | TablerIcons.Filled.Bone |  | TablerIcons.Filled.Bong |  | TablerIcons.Filled.Book |
+|  | TablerIcons.Filled.Bookmark |  | TablerIcons.Filled.Bookmarks |  | TablerIcons.Filled.Boom |
+|  | TablerIcons.Filled.Bottle |  | TablerIcons.Filled.Bounce-left |  | TablerIcons.Filled.Bounce-right |
+|  | TablerIcons.Filled.Bow |  | TablerIcons.Filled.Bowl |  | TablerIcons.Filled.Bowl-chopsticks |
+|  | TablerIcons.Filled.Bowl-spoon |  | TablerIcons.Filled.Box-align-bottom |  | TablerIcons.Filled.Box-align-bottom-left |
+|  | TablerIcons.Filled.Box-align-bottom-right |  | TablerIcons.Filled.Box-align-left |  | TablerIcons.Filled.Box-align-right |
+|  | TablerIcons.Filled.Box-align-top |  | TablerIcons.Filled.Box-align-top-left |  | TablerIcons.Filled.Box-align-top-right |
+|  | TablerIcons.Filled.Box-multiple |  | TablerIcons.Filled.Brand-angular |  | TablerIcons.Filled.Brand-apple |
+|  | TablerIcons.Filled.Brand-bitbucket |  | TablerIcons.Filled.Brand-discord |  | TablerIcons.Filled.Brand-dribbble |
+|  | TablerIcons.Filled.Brand-facebook |  | TablerIcons.Filled.Brand-github |  | TablerIcons.Filled.Brand-google |
+|  | TablerIcons.Filled.Brand-instagram |  | TablerIcons.Filled.Brand-kick |  | TablerIcons.Filled.Brand-linkedin |
+|  | TablerIcons.Filled.Brand-messenger |  | TablerIcons.Filled.Brand-open-source |  | TablerIcons.Filled.Brand-opera |
+|  | TablerIcons.Filled.Brand-patreon |  | TablerIcons.Filled.Brand-paypal |  | TablerIcons.Filled.Brand-pinterest |
+|  | TablerIcons.Filled.Brand-sketch |  | TablerIcons.Filled.Brand-snapchat |  | TablerIcons.Filled.Brand-spotify |
+|  | TablerIcons.Filled.Brand-steam |  | TablerIcons.Filled.Brand-stripe |  | TablerIcons.Filled.Brand-tabler |
+|  | TablerIcons.Filled.Brand-tiktok |  | TablerIcons.Filled.Brand-tinder |  | TablerIcons.Filled.Brand-tumblr |
+|  | TablerIcons.Filled.Brand-twitter |  | TablerIcons.Filled.Brand-vercel |  | TablerIcons.Filled.Brand-vimeo |
+|  | TablerIcons.Filled.Brand-weibo |  | TablerIcons.Filled.Brand-whatsapp |  | TablerIcons.Filled.Brand-windows |
+|  | TablerIcons.Filled.Brand-x |  | TablerIcons.Filled.Brand-youtube |  | TablerIcons.Filled.Bread |
+|  | TablerIcons.Filled.Briefcase |  | TablerIcons.Filled.Briefcase-2 |  | TablerIcons.Filled.Brightness |
+|  | TablerIcons.Filled.Brightness-auto |  | TablerIcons.Filled.Brightness-down |  | TablerIcons.Filled.Brightness-up |
+|  | TablerIcons.Filled.Bubble |  | TablerIcons.Filled.Bubble-text |  | TablerIcons.Filled.Bug |
+|  | TablerIcons.Filled.Building-bridge-2 |  | TablerIcons.Filled.Building-broadcast-tower |  | TablerIcons.Filled.Bulb |
+|  | TablerIcons.Filled.Bus |  | TablerIcons.Filled.Butterfly |  | TablerIcons.Filled.Cactus |
+|  | TablerIcons.Filled.Calculator |  | TablerIcons.Filled.Calendar |  | TablerIcons.Filled.Calendar-event |
+|  | TablerIcons.Filled.Calendar-month |  | TablerIcons.Filled.Calendar-week |  | TablerIcons.Filled.Camera |
+|  | TablerIcons.Filled.Campfire |  | TablerIcons.Filled.Candle |  | TablerIcons.Filled.Cannabis |
+|  | TablerIcons.Filled.Capsule |  | TablerIcons.Filled.Capsule-horizontal |  | TablerIcons.Filled.Capture |
+|  | TablerIcons.Filled.Car |  | TablerIcons.Filled.Car-4wd |  | TablerIcons.Filled.Car-crane |
+|  | TablerIcons.Filled.Car-fan |  | TablerIcons.Filled.Car-suv |  | TablerIcons.Filled.Carambola |
+|  | TablerIcons.Filled.Caravan |  | TablerIcons.Filled.Cardboards |  | TablerIcons.Filled.Cards |
+|  | TablerIcons.Filled.Caret-down |  | TablerIcons.Filled.Caret-left |  | TablerIcons.Filled.Caret-left-right |
+|  | TablerIcons.Filled.Caret-right |  | TablerIcons.Filled.Caret-up |  | TablerIcons.Filled.Caret-up-down |
+|  | TablerIcons.Filled.Carousel-horizontal |  | TablerIcons.Filled.Carousel-vertical |  | TablerIcons.Filled.Cash-banknote |
+|  | TablerIcons.Filled.Category |  | TablerIcons.Filled.Charging-pile |  | TablerIcons.Filled.Chart-area |
+|  | TablerIcons.Filled.Chart-area-line |  | TablerIcons.Filled.Chart-bubble |  | TablerIcons.Filled.Chart-candle |
+|  | TablerIcons.Filled.Chart-donut |  | TablerIcons.Filled.Chart-dots |  | TablerIcons.Filled.Chart-dots-2 |
+|  | TablerIcons.Filled.Chart-dots-3 |  | TablerIcons.Filled.Chart-funnel |  | TablerIcons.Filled.Chart-grid-dots |
+|  | TablerIcons.Filled.Chart-pie |  | TablerIcons.Filled.Chart-pie-2 |  | TablerIcons.Filled.Chart-pie-3 |
+|  | TablerIcons.Filled.Chart-pie-4 |  | TablerIcons.Filled.Chef-hat |  | TablerIcons.Filled.Cherry |
+|  | TablerIcons.Filled.Chess |  | TablerIcons.Filled.Chess-bishop |  | TablerIcons.Filled.Chess-king |
+|  | TablerIcons.Filled.Chess-knight |  | TablerIcons.Filled.Chess-queen |  | TablerIcons.Filled.Chess-rook |
+|  | TablerIcons.Filled.Christmas-tree |  | TablerIcons.Filled.Circle |  | TablerIcons.Filled.Circle-arrow-down |
+|  | TablerIcons.Filled.Circle-arrow-down-left |  | TablerIcons.Filled.Circle-arrow-down-right |  | TablerIcons.Filled.Circle-arrow-left |
+|  | TablerIcons.Filled.Circle-arrow-right |  | TablerIcons.Filled.Circle-arrow-up |  | TablerIcons.Filled.Circle-arrow-up-left |
+|  | TablerIcons.Filled.Circle-arrow-up-right |  | TablerIcons.Filled.Circle-caret-down |  | TablerIcons.Filled.Circle-caret-left |
+|  | TablerIcons.Filled.Circle-caret-right |  | TablerIcons.Filled.Circle-caret-up |  | TablerIcons.Filled.Circle-check |
+|  | TablerIcons.Filled.Circle-chevron-down |  | TablerIcons.Filled.Circle-chevron-left |  | TablerIcons.Filled.Circle-chevron-right |
+|  | TablerIcons.Filled.Circle-chevron-up |  | TablerIcons.Filled.Circle-chevrons-down |  | TablerIcons.Filled.Circle-chevrons-left |
+|  | TablerIcons.Filled.Circle-chevrons-right |  | TablerIcons.Filled.Circle-chevrons-up |  | TablerIcons.Filled.Circle-dot |
+|  | TablerIcons.Filled.Circle-key |  | TablerIcons.Filled.Circle-letter-a |  | TablerIcons.Filled.Circle-letter-b |
+|  | TablerIcons.Filled.Circle-letter-c |  | TablerIcons.Filled.Circle-letter-d |  | TablerIcons.Filled.Circle-letter-e |
+|  | TablerIcons.Filled.Circle-letter-f |  | TablerIcons.Filled.Circle-letter-g |  | TablerIcons.Filled.Circle-letter-h |
+|  | TablerIcons.Filled.Circle-letter-i |  | TablerIcons.Filled.Circle-letter-j |  | TablerIcons.Filled.Circle-letter-k |
+|  | TablerIcons.Filled.Circle-letter-l |  | TablerIcons.Filled.Circle-letter-m |  | TablerIcons.Filled.Circle-letter-n |
+|  | TablerIcons.Filled.Circle-letter-o |  | TablerIcons.Filled.Circle-letter-p |  | TablerIcons.Filled.Circle-letter-q |
+|  | TablerIcons.Filled.Circle-letter-r |  | TablerIcons.Filled.Circle-letter-s |  | TablerIcons.Filled.Circle-letter-t |
+|  | TablerIcons.Filled.Circle-letter-u |  | TablerIcons.Filled.Circle-letter-v |  | TablerIcons.Filled.Circle-letter-w |
+|  | TablerIcons.Filled.Circle-letter-x |  | TablerIcons.Filled.Circle-letter-y |  | TablerIcons.Filled.Circle-letter-z |
+|  | TablerIcons.Filled.Circle-number-0 |  | TablerIcons.Filled.Circle-number-1 |  | TablerIcons.Filled.Circle-number-2 |
+|  | TablerIcons.Filled.Circle-number-3 |  | TablerIcons.Filled.Circle-number-4 |  | TablerIcons.Filled.Circle-number-5 |
+|  | TablerIcons.Filled.Circle-number-6 |  | TablerIcons.Filled.Circle-number-7 |  | TablerIcons.Filled.Circle-number-8 |
+|  | TablerIcons.Filled.Circle-number-9 |  | TablerIcons.Filled.Circle-percentage |  | TablerIcons.Filled.Circle-plus |
+|  | TablerIcons.Filled.Circle-rectangle |  | TablerIcons.Filled.Circle-x |  | TablerIcons.Filled.Circles |
+|  | TablerIcons.Filled.Clipboard |  | TablerIcons.Filled.Clipboard-check |  | TablerIcons.Filled.Clipboard-data |
+|  | TablerIcons.Filled.Clipboard-list |  | TablerIcons.Filled.Clipboard-plus |  | TablerIcons.Filled.Clipboard-smile |
+|  | TablerIcons.Filled.Clipboard-text |  | TablerIcons.Filled.Clipboard-typography |  | TablerIcons.Filled.Clipboard-x |
+|  | TablerIcons.Filled.Clock |  | TablerIcons.Filled.Clock-hour-1 |  | TablerIcons.Filled.Clock-hour-10 |
+|  | TablerIcons.Filled.Clock-hour-11 |  | TablerIcons.Filled.Clock-hour-12 |  | TablerIcons.Filled.Clock-hour-2 |
+|  | TablerIcons.Filled.Clock-hour-3 |  | TablerIcons.Filled.Clock-hour-4 |  | TablerIcons.Filled.Clock-hour-5 |
+|  | TablerIcons.Filled.Clock-hour-6 |  | TablerIcons.Filled.Clock-hour-7 |  | TablerIcons.Filled.Clock-hour-8 |
+|  | TablerIcons.Filled.Clock-hour-9 |  | TablerIcons.Filled.Cloud |  | TablerIcons.Filled.Cloud-computing |
+|  | TablerIcons.Filled.Cloud-data-connection |  | TablerIcons.Filled.Clover |  | TablerIcons.Filled.Clubs |
+|  | TablerIcons.Filled.Code-circle |  | TablerIcons.Filled.Code-circle-2 |  | TablerIcons.Filled.Coin |
+|  | TablerIcons.Filled.Coin-bitcoin |  | TablerIcons.Filled.Coin-euro |  | TablerIcons.Filled.Coin-monero |
+|  | TablerIcons.Filled.Coin-pound |  | TablerIcons.Filled.Coin-rupee |  | TablerIcons.Filled.Coin-taka |
+|  | TablerIcons.Filled.Coin-yen |  | TablerIcons.Filled.Coin-yuan |  | TablerIcons.Filled.Columns-1 |
+|  | TablerIcons.Filled.Columns-2 |  | TablerIcons.Filled.Columns-3 |  | TablerIcons.Filled.Compass |
+|  | TablerIcons.Filled.Cone |  | TablerIcons.Filled.Cone-2 |  | TablerIcons.Filled.Confetti |
+|  | TablerIcons.Filled.Container |  | TablerIcons.Filled.Contrast |  | TablerIcons.Filled.Contrast-2 |
+|  | TablerIcons.Filled.Cookie |  | TablerIcons.Filled.Cookie-man |  | TablerIcons.Filled.Copy-check |
+|  | TablerIcons.Filled.Copy-minus |  | TablerIcons.Filled.Copy-plus |  | TablerIcons.Filled.Copy-x |
+|  | TablerIcons.Filled.Copyleft |  | TablerIcons.Filled.Copyright |  | TablerIcons.Filled.Credit-card |
+|  | TablerIcons.Filled.Crop-1-1 |  | TablerIcons.Filled.Crop-16-9 |  | TablerIcons.Filled.Crop-3-2 |
+|  | TablerIcons.Filled.Crop-5-4 |  | TablerIcons.Filled.Crop-7-5 |  | TablerIcons.Filled.Crop-landscape |
+|  | TablerIcons.Filled.Crop-portrait |  | TablerIcons.Filled.Cross |  | TablerIcons.Filled.Crown |
+|  | TablerIcons.Filled.Current-location |  | TablerIcons.Filled.Dashboard |  | TablerIcons.Filled.Device-cctv |
+|  | TablerIcons.Filled.Device-desktop |  | TablerIcons.Filled.Device-gamepad |  | TablerIcons.Filled.Device-gamepad-3 |
+|  | TablerIcons.Filled.Device-heart-monitor |  | TablerIcons.Filled.Device-imac |  | TablerIcons.Filled.Device-ipad |
+|  | TablerIcons.Filled.Device-mobile |  | TablerIcons.Filled.Device-remote |  | TablerIcons.Filled.Device-speaker |
+|  | TablerIcons.Filled.Device-tablet |  | TablerIcons.Filled.Device-tv |  | TablerIcons.Filled.Device-tv-old |
+|  | TablerIcons.Filled.Device-unknown |  | TablerIcons.Filled.Device-usb |  | TablerIcons.Filled.Device-vision-pro |
+|  | TablerIcons.Filled.Device-watch |  | TablerIcons.Filled.Dialpad |  | TablerIcons.Filled.Diamond |
+|  | TablerIcons.Filled.Diamonds |  | TablerIcons.Filled.Dice |  | TablerIcons.Filled.Dice-1 |
+|  | TablerIcons.Filled.Dice-2 |  | TablerIcons.Filled.Dice-3 |  | TablerIcons.Filled.Dice-4 |
+|  | TablerIcons.Filled.Dice-5 |  | TablerIcons.Filled.Dice-6 |  | TablerIcons.Filled.Direction-arrows |
+|  | TablerIcons.Filled.Direction-sign |  | TablerIcons.Filled.Directions |  | TablerIcons.Filled.Disc |
+|  | TablerIcons.Filled.Discount |  | TablerIcons.Filled.Drop-circle |  | TablerIcons.Filled.Droplet |
+|  | TablerIcons.Filled.Droplet-half |  | TablerIcons.Filled.Droplet-half-2 |  | TablerIcons.Filled.Droplets |
+|  | TablerIcons.Filled.Dual-screen |  | TablerIcons.Filled.Dumpling |  | TablerIcons.Filled.Ease-in-control-point |
+|  | TablerIcons.Filled.Ease-in-out-control-points |  | TablerIcons.Filled.Ease-out-control-point |  | TablerIcons.Filled.Egg |
+|  | TablerIcons.Filled.Egg-cracked |  | TablerIcons.Filled.Egg-fried |  | TablerIcons.Filled.Elevator |
+|  | TablerIcons.Filled.Engine |  | TablerIcons.Filled.Escalator |  | TablerIcons.Filled.Escalator-down |
+|  | TablerIcons.Filled.Escalator-up |  | TablerIcons.Filled.Exchange |  | TablerIcons.Filled.Exclamation-circle |
+|  | TablerIcons.Filled.Explicit |  | TablerIcons.Filled.Exposure |  | TablerIcons.Filled.Eye |
+|  | TablerIcons.Filled.Eye-table |  | TablerIcons.Filled.Eyeglass |  | TablerIcons.Filled.Eyeglass-2 |
+|  | TablerIcons.Filled.Face-mask |  | TablerIcons.Filled.Favicon |  | TablerIcons.Filled.Feather |
+|  | TablerIcons.Filled.Fence |  | TablerIcons.Filled.Ferry |  | TablerIcons.Filled.Fidget-spinner |
+|  | TablerIcons.Filled.File |  | TablerIcons.Filled.File-analytics |  | TablerIcons.Filled.File-check |
+|  | TablerIcons.Filled.File-code |  | TablerIcons.Filled.File-code-2 |  | TablerIcons.Filled.File-cv |
+|  | TablerIcons.Filled.File-delta |  | TablerIcons.Filled.File-description |  | TablerIcons.Filled.File-diff |
+|  | TablerIcons.Filled.File-digit |  | TablerIcons.Filled.File-dollar |  | TablerIcons.Filled.File-dots |
+|  | TablerIcons.Filled.File-download |  | TablerIcons.Filled.File-euro |  | TablerIcons.Filled.File-function |
+|  | TablerIcons.Filled.File-horizontal |  | TablerIcons.Filled.File-info |  | TablerIcons.Filled.File-invoice |
+|  | TablerIcons.Filled.File-lambda |  | TablerIcons.Filled.File-minus |  | TablerIcons.Filled.File-music |
+|  | TablerIcons.Filled.File-neutral |  | TablerIcons.Filled.File-pencil |  | TablerIcons.Filled.File-percent |
+|  | TablerIcons.Filled.File-phone |  | TablerIcons.Filled.File-power |  | TablerIcons.Filled.File-rss |
+|  | TablerIcons.Filled.File-sad |  | TablerIcons.Filled.File-scissors |  | TablerIcons.Filled.File-settings |
+|  | TablerIcons.Filled.File-signal |  | TablerIcons.Filled.File-smile |  | TablerIcons.Filled.File-star |
+|  | TablerIcons.Filled.File-text |  | TablerIcons.Filled.File-time |  | TablerIcons.Filled.File-typography |
+|  | TablerIcons.Filled.File-unknown |  | TablerIcons.Filled.File-upload |  | TablerIcons.Filled.File-vector |
+|  | TablerIcons.Filled.File-x |  | TablerIcons.Filled.Files |  | TablerIcons.Filled.Filter |
+|  | TablerIcons.Filled.Filters |  | TablerIcons.Filled.Fish-bone |  | TablerIcons.Filled.Flag |
+|  | TablerIcons.Filled.Flag-2 |  | TablerIcons.Filled.Flag-3 |  | TablerIcons.Filled.Flame |
+|  | TablerIcons.Filled.Flare |  | TablerIcons.Filled.Flask |  | TablerIcons.Filled.Flask-2 |
+|  | TablerIcons.Filled.Flower |  | TablerIcons.Filled.Folder |  | TablerIcons.Filled.Folder-open |
+|  | TablerIcons.Filled.Folders |  | TablerIcons.Filled.Forbid |  | TablerIcons.Filled.Forbid-2 |
+|  | TablerIcons.Filled.Fountain |  | TablerIcons.Filled.Function |  | TablerIcons.Filled.Garden-cart |
+|  | TablerIcons.Filled.Gas-station |  | TablerIcons.Filled.Gauge |  | TablerIcons.Filled.Ghost |
+|  | TablerIcons.Filled.Ghost-2 |  | TablerIcons.Filled.Ghost-3 |  | TablerIcons.Filled.Gift |
+|  | TablerIcons.Filled.Gift-card |  | TablerIcons.Filled.Glass |  | TablerIcons.Filled.Glass-full |
+|  | TablerIcons.Filled.Globe |  | TablerIcons.Filled.Golf |  | TablerIcons.Filled.Gps |
+|  | TablerIcons.Filled.Graph |  | TablerIcons.Filled.Grid-pattern |  | TablerIcons.Filled.Guitar-pick |
+|  | TablerIcons.Filled.Hanger-2 |  | TablerIcons.Filled.Headphones |  | TablerIcons.Filled.Heart |
+|  | TablerIcons.Filled.Heart-broken |  | TablerIcons.Filled.Helicopter |  | TablerIcons.Filled.Helicopter-landing |
+|  | TablerIcons.Filled.Help-circle |  | TablerIcons.Filled.Help-hexagon |  | TablerIcons.Filled.Help-octagon |
+|  | TablerIcons.Filled.Help-square |  | TablerIcons.Filled.Help-square-rounded |  | TablerIcons.Filled.Help-triangle |
+|  | TablerIcons.Filled.Hexagon |  | TablerIcons.Filled.Hexagon-letter-a |  | TablerIcons.Filled.Hexagon-letter-b |
+|  | TablerIcons.Filled.Hexagon-letter-c |  | TablerIcons.Filled.Hexagon-letter-d |  | TablerIcons.Filled.Hexagon-letter-e |
+|  | TablerIcons.Filled.Hexagon-letter-f |  | TablerIcons.Filled.Hexagon-letter-g |  | TablerIcons.Filled.Hexagon-letter-h |
+|  | TablerIcons.Filled.Hexagon-letter-i |  | TablerIcons.Filled.Hexagon-letter-j |  | TablerIcons.Filled.Hexagon-letter-k |
+|  | TablerIcons.Filled.Hexagon-letter-l |  | TablerIcons.Filled.Hexagon-letter-m |  | TablerIcons.Filled.Hexagon-letter-n |
+|  | TablerIcons.Filled.Hexagon-letter-o |  | TablerIcons.Filled.Hexagon-letter-p |  | TablerIcons.Filled.Hexagon-letter-q |
+|  | TablerIcons.Filled.Hexagon-letter-r |  | TablerIcons.Filled.Hexagon-letter-s |  | TablerIcons.Filled.Hexagon-letter-t |
+|  | TablerIcons.Filled.Hexagon-letter-u |  | TablerIcons.Filled.Hexagon-letter-v |  | TablerIcons.Filled.Hexagon-letter-w |
+|  | TablerIcons.Filled.Hexagon-letter-x |  | TablerIcons.Filled.Hexagon-letter-y |  | TablerIcons.Filled.Hexagon-letter-z |
+|  | TablerIcons.Filled.Hexagon-minus |  | TablerIcons.Filled.Hexagon-number-0 |  | TablerIcons.Filled.Hexagon-number-1 |
+|  | TablerIcons.Filled.Hexagon-number-2 |  | TablerIcons.Filled.Hexagon-number-3 |  | TablerIcons.Filled.Hexagon-number-4 |
+|  | TablerIcons.Filled.Hexagon-number-5 |  | TablerIcons.Filled.Hexagon-number-6 |  | TablerIcons.Filled.Hexagon-number-7 |
+|  | TablerIcons.Filled.Hexagon-number-8 |  | TablerIcons.Filled.Hexagon-number-9 |  | TablerIcons.Filled.Hexagon-plus |
+|  | TablerIcons.Filled.Home |  | TablerIcons.Filled.Hospital-circle |  | TablerIcons.Filled.Hourglass |
+|  | TablerIcons.Filled.Icons |  | TablerIcons.Filled.Info-circle |  | TablerIcons.Filled.Info-hexagon |
+|  | TablerIcons.Filled.Info-octagon |  | TablerIcons.Filled.Info-square |  | TablerIcons.Filled.Info-square-rounded |
+|  | TablerIcons.Filled.Info-triangle |  | TablerIcons.Filled.Inner-shadow-bottom |  | TablerIcons.Filled.Inner-shadow-bottom-left |
+|  | TablerIcons.Filled.Inner-shadow-bottom-right |  | TablerIcons.Filled.Inner-shadow-left |  | TablerIcons.Filled.Inner-shadow-right |
+|  | TablerIcons.Filled.Inner-shadow-top |  | TablerIcons.Filled.Inner-shadow-top-left |  | TablerIcons.Filled.Inner-shadow-top-right |
+|  | TablerIcons.Filled.Ironing |  | TablerIcons.Filled.Ironing-1 |  | TablerIcons.Filled.Ironing-2 |
+|  | TablerIcons.Filled.Ironing-3 |  | TablerIcons.Filled.Ironing-steam |  | TablerIcons.Filled.Jetpack |
+|  | TablerIcons.Filled.Jewish-star |  | TablerIcons.Filled.Key |  | TablerIcons.Filled.Keyboard |
+|  | TablerIcons.Filled.Keyframe |  | TablerIcons.Filled.Keyframe-align-center |  | TablerIcons.Filled.Keyframe-align-horizontal |
+|  | TablerIcons.Filled.Keyframe-align-vertical |  | TablerIcons.Filled.Keyframes |  | TablerIcons.Filled.Label |
+|  | TablerIcons.Filled.Label-important |  | TablerIcons.Filled.Lasso-polygon |  | TablerIcons.Filled.Laurel-wreath |
+|  | TablerIcons.Filled.Laurel-wreath-1 |  | TablerIcons.Filled.Laurel-wreath-2 |  | TablerIcons.Filled.Laurel-wreath-3 |
+|  | TablerIcons.Filled.Layout |  | TablerIcons.Filled.Layout-2 |  | TablerIcons.Filled.Layout-align-bottom |
+|  | TablerIcons.Filled.Layout-align-center |  | TablerIcons.Filled.Layout-align-left |  | TablerIcons.Filled.Layout-align-middle |
+|  | TablerIcons.Filled.Layout-align-right |  | TablerIcons.Filled.Layout-align-top |  | TablerIcons.Filled.Layout-board |
+|  | TablerIcons.Filled.Layout-board-split |  | TablerIcons.Filled.Layout-bottombar |  | TablerIcons.Filled.Layout-bottombar-collapse |
+|  | TablerIcons.Filled.Layout-bottombar-expand |  | TablerIcons.Filled.Layout-cards |  | TablerIcons.Filled.Layout-dashboard |
+|  | TablerIcons.Filled.Layout-distribute-horizontal |  | TablerIcons.Filled.Layout-distribute-vertical |  | TablerIcons.Filled.Layout-grid |
+|  | TablerIcons.Filled.Layout-kanban |  | TablerIcons.Filled.Layout-list |  | TablerIcons.Filled.Layout-navbar |
+|  | TablerIcons.Filled.Layout-navbar-collapse |  | TablerIcons.Filled.Layout-navbar-expand |  | TablerIcons.Filled.Layout-sidebar |
+|  | TablerIcons.Filled.Layout-sidebar-left-collapse |  | TablerIcons.Filled.Layout-sidebar-left-expand |  | TablerIcons.Filled.Layout-sidebar-right |
+|  | TablerIcons.Filled.Layout-sidebar-right-collapse |  | TablerIcons.Filled.Layout-sidebar-right-expand |  | TablerIcons.Filled.Lego |
+|  | TablerIcons.Filled.Lemon-2 |  | TablerIcons.Filled.Library |  | TablerIcons.Filled.Library-plus |
+|  | TablerIcons.Filled.Lifebuoy |  | TablerIcons.Filled.Live-photo |  | TablerIcons.Filled.Live-view |
+|  | TablerIcons.Filled.Location |  | TablerIcons.Filled.Lock |  | TablerIcons.Filled.Lock-square-rounded |
+|  | TablerIcons.Filled.Lungs |  | TablerIcons.Filled.Macro |  | TablerIcons.Filled.Magnet |
+|  | TablerIcons.Filled.Mail |  | TablerIcons.Filled.Mail-opened |  | TablerIcons.Filled.Man |
+|  | TablerIcons.Filled.Manual-gearbox |  | TablerIcons.Filled.Map-pin |  | TablerIcons.Filled.Medical-cross |
+|  | TablerIcons.Filled.Meeple |  | TablerIcons.Filled.Melon |  | TablerIcons.Filled.Message |
+|  | TablerIcons.Filled.Message-2 |  | TablerIcons.Filled.Message-chatbot |  | TablerIcons.Filled.Message-circle |
+|  | TablerIcons.Filled.Message-report |  | TablerIcons.Filled.Meteor |  | TablerIcons.Filled.Michelin-star |
+|  | TablerIcons.Filled.Mickey |  | TablerIcons.Filled.Microphone |  | TablerIcons.Filled.Microscope |
+|  | TablerIcons.Filled.Microwave |  | TablerIcons.Filled.Military-rank |  | TablerIcons.Filled.Milk |
+|  | TablerIcons.Filled.Mood-angry |  | TablerIcons.Filled.Mood-confuzed |  | TablerIcons.Filled.Mood-crazy-happy |
+|  | TablerIcons.Filled.Mood-empty |  | TablerIcons.Filled.Mood-happy |  | TablerIcons.Filled.Mood-kid |
+|  | TablerIcons.Filled.Mood-neutral |  | TablerIcons.Filled.Mood-sad |  | TablerIcons.Filled.Mood-smile |
+|  | TablerIcons.Filled.Mood-wrrr |  | TablerIcons.Filled.Moon |  | TablerIcons.Filled.Motorbike |
+|  | TablerIcons.Filled.Mountain |  | TablerIcons.Filled.Mouse |  | TablerIcons.Filled.Mug |
+|  | TablerIcons.Filled.Mushroom |  | TablerIcons.Filled.Navigation |  | TablerIcons.Filled.Nurse |
+|  | TablerIcons.Filled.Octagon |  | TablerIcons.Filled.Octagon-minus |  | TablerIcons.Filled.Octagon-plus |
+|  | TablerIcons.Filled.Oval |  | TablerIcons.Filled.Oval-vertical |  | TablerIcons.Filled.Paint |
+|  | TablerIcons.Filled.Palette |  | TablerIcons.Filled.Panorama-horizontal |  | TablerIcons.Filled.Panorama-vertical |
+|  | TablerIcons.Filled.Parking-circle |  | TablerIcons.Filled.Paw |  | TablerIcons.Filled.Pennant |
+|  | TablerIcons.Filled.Pennant-2 |  | TablerIcons.Filled.Pentagon |  | TablerIcons.Filled.Phone |
+|  | TablerIcons.Filled.Photo |  | TablerIcons.Filled.Picture-in-picture |  | TablerIcons.Filled.Picture-in-picture-top |
+|  | TablerIcons.Filled.Pig |  | TablerIcons.Filled.Pill |  | TablerIcons.Filled.Pin |
+|  | TablerIcons.Filled.Pinned |  | TablerIcons.Filled.Pizza |  | TablerIcons.Filled.Play-card-1 |
+|  | TablerIcons.Filled.Play-card-10 |  | TablerIcons.Filled.Play-card-2 |  | TablerIcons.Filled.Play-card-3 |
+|  | TablerIcons.Filled.Play-card-4 |  | TablerIcons.Filled.Play-card-5 |  | TablerIcons.Filled.Play-card-6 |
+|  | TablerIcons.Filled.Play-card-7 |  | TablerIcons.Filled.Play-card-8 |  | TablerIcons.Filled.Play-card-9 |
+|  | TablerIcons.Filled.Play-card-a |  | TablerIcons.Filled.Play-card-j |  | TablerIcons.Filled.Play-card-k |
+|  | TablerIcons.Filled.Play-card-q |  | TablerIcons.Filled.Play-card-star |  | TablerIcons.Filled.Player-eject |
+|  | TablerIcons.Filled.Player-pause |  | TablerIcons.Filled.Player-play |  | TablerIcons.Filled.Player-record |
+|  | TablerIcons.Filled.Player-skip-back |  | TablerIcons.Filled.Player-skip-forward |  | TablerIcons.Filled.Player-stop |
+|  | TablerIcons.Filled.Player-track-next |  | TablerIcons.Filled.Player-track-prev |  | TablerIcons.Filled.Point |
+|  | TablerIcons.Filled.Pointer |  | TablerIcons.Filled.Polaroid |  | TablerIcons.Filled.Poo |
+|  | TablerIcons.Filled.Presentation |  | TablerIcons.Filled.Presentation-analytics |  | TablerIcons.Filled.Puzzle |
+|  | TablerIcons.Filled.Quote |  | TablerIcons.Filled.Radar |  | TablerIcons.Filled.Radioactive |
+|  | TablerIcons.Filled.Receipt |  | TablerIcons.Filled.Receipt-dollar |  | TablerIcons.Filled.Receipt-euro |
+|  | TablerIcons.Filled.Receipt-pound |  | TablerIcons.Filled.Receipt-rupee |  | TablerIcons.Filled.Receipt-yen |
+|  | TablerIcons.Filled.Receipt-yuan |  | TablerIcons.Filled.Rectangle |  | TablerIcons.Filled.Rectangle-vertical |
+|  | TablerIcons.Filled.Registered |  | TablerIcons.Filled.Relation-many-to-many |  | TablerIcons.Filled.Relation-one-to-many |
+|  | TablerIcons.Filled.Relation-one-to-one |  | TablerIcons.Filled.Replace |  | TablerIcons.Filled.Rollercoaster |
+|  | TablerIcons.Filled.Rosette |  | TablerIcons.Filled.Rosette-discount |  | TablerIcons.Filled.Rosette-discount-check |
+|  | TablerIcons.Filled.Salad |  | TablerIcons.Filled.Scuba-diving-tank |  | TablerIcons.Filled.Section |
+|  | TablerIcons.Filled.Seedling |  | TablerIcons.Filled.Settings |  | TablerIcons.Filled.Shield |
+|  | TablerIcons.Filled.Shield-check |  | TablerIcons.Filled.Shield-checkered |  | TablerIcons.Filled.Shield-half |
+|  | TablerIcons.Filled.Shield-lock |  | TablerIcons.Filled.Shirt |  | TablerIcons.Filled.Shopping-cart |
+|  | TablerIcons.Filled.Sign-left |  | TablerIcons.Filled.Sign-right |  | TablerIcons.Filled.Sitemap |
+|  | TablerIcons.Filled.Sort-ascending-2 |  | TablerIcons.Filled.Sort-ascending-shapes |  | TablerIcons.Filled.Sort-descending-2 |
+|  | TablerIcons.Filled.Sort-descending-shapes |  | TablerIcons.Filled.Soup |  | TablerIcons.Filled.Spade |
+|  | TablerIcons.Filled.Speedboat |  | TablerIcons.Filled.Spider |  | TablerIcons.Filled.Square |
+|  | TablerIcons.Filled.Square-arrow-down |  | TablerIcons.Filled.Square-arrow-left |  | TablerIcons.Filled.Square-arrow-right |
+|  | TablerIcons.Filled.Square-arrow-up |  | TablerIcons.Filled.Square-asterisk |  | TablerIcons.Filled.Square-check |
+|  | TablerIcons.Filled.Square-chevron-down |  | TablerIcons.Filled.Square-chevron-left |  | TablerIcons.Filled.Square-chevron-right |
+|  | TablerIcons.Filled.Square-chevron-up |  | TablerIcons.Filled.Square-chevrons-down |  | TablerIcons.Filled.Square-chevrons-left |
+|  | TablerIcons.Filled.Square-chevrons-right |  | TablerIcons.Filled.Square-chevrons-up |  | TablerIcons.Filled.Square-dot |
+|  | TablerIcons.Filled.Square-f0 |  | TablerIcons.Filled.Square-f1 |  | TablerIcons.Filled.Square-f2 |
+|  | TablerIcons.Filled.Square-f3 |  | TablerIcons.Filled.Square-f4 |  | TablerIcons.Filled.Square-f5 |
+|  | TablerIcons.Filled.Square-f6 |  | TablerIcons.Filled.Square-f7 |  | TablerIcons.Filled.Square-f8 |
+|  | TablerIcons.Filled.Square-f9 |  | TablerIcons.Filled.Square-letter-a |  | TablerIcons.Filled.Square-letter-b |
+|  | TablerIcons.Filled.Square-letter-c |  | TablerIcons.Filled.Square-letter-d |  | TablerIcons.Filled.Square-letter-e |
+|  | TablerIcons.Filled.Square-letter-f |  | TablerIcons.Filled.Square-letter-g |  | TablerIcons.Filled.Square-letter-h |
+|  | TablerIcons.Filled.Square-letter-i |  | TablerIcons.Filled.Square-letter-j |  | TablerIcons.Filled.Square-letter-k |
+|  | TablerIcons.Filled.Square-letter-l |  | TablerIcons.Filled.Square-letter-m |  | TablerIcons.Filled.Square-letter-n |
+|  | TablerIcons.Filled.Square-letter-o |  | TablerIcons.Filled.Square-letter-p |  | TablerIcons.Filled.Square-letter-q |
+|  | TablerIcons.Filled.Square-letter-r |  | TablerIcons.Filled.Square-letter-s |  | TablerIcons.Filled.Square-letter-t |
+|  | TablerIcons.Filled.Square-letter-u |  | TablerIcons.Filled.Square-letter-v |  | TablerIcons.Filled.Square-letter-w |
+|  | TablerIcons.Filled.Square-letter-x |  | TablerIcons.Filled.Square-letter-y |  | TablerIcons.Filled.Square-letter-z |
+|  | TablerIcons.Filled.Square-minus |  | TablerIcons.Filled.Square-number-0 |  | TablerIcons.Filled.Square-number-1 |
+|  | TablerIcons.Filled.Square-number-2 |  | TablerIcons.Filled.Square-number-3 |  | TablerIcons.Filled.Square-number-4 |
+|  | TablerIcons.Filled.Square-number-5 |  | TablerIcons.Filled.Square-number-6 |  | TablerIcons.Filled.Square-number-7 |
+|  | TablerIcons.Filled.Square-number-8 |  | TablerIcons.Filled.Square-number-9 |  | TablerIcons.Filled.Square-rotated |
+|  | TablerIcons.Filled.Square-rounded |  | TablerIcons.Filled.Square-rounded-arrow-down |  | TablerIcons.Filled.Square-rounded-arrow-left |
+|  | TablerIcons.Filled.Square-rounded-arrow-right |  | TablerIcons.Filled.Square-rounded-arrow-up |  | TablerIcons.Filled.Square-rounded-check |
+|  | TablerIcons.Filled.Square-rounded-chevron-down |  | TablerIcons.Filled.Square-rounded-chevron-left |  | TablerIcons.Filled.Square-rounded-chevron-right |
+|  | TablerIcons.Filled.Square-rounded-chevron-up |  | TablerIcons.Filled.Square-rounded-chevrons-down |  | TablerIcons.Filled.Square-rounded-chevrons-left |
+|  | TablerIcons.Filled.Square-rounded-chevrons-right |  | TablerIcons.Filled.Square-rounded-chevrons-up |  | TablerIcons.Filled.Square-rounded-letter-a |
+|  | TablerIcons.Filled.Square-rounded-letter-b |  | TablerIcons.Filled.Square-rounded-letter-c |  | TablerIcons.Filled.Square-rounded-letter-d |
+|  | TablerIcons.Filled.Square-rounded-letter-e |  | TablerIcons.Filled.Square-rounded-letter-f |  | TablerIcons.Filled.Square-rounded-letter-g |
+|  | TablerIcons.Filled.Square-rounded-letter-h |  | TablerIcons.Filled.Square-rounded-letter-i |  | TablerIcons.Filled.Square-rounded-letter-j |
+|  | TablerIcons.Filled.Square-rounded-letter-k |  | TablerIcons.Filled.Square-rounded-letter-l |  | TablerIcons.Filled.Square-rounded-letter-m |
+|  | TablerIcons.Filled.Square-rounded-letter-n |  | TablerIcons.Filled.Square-rounded-letter-o |  | TablerIcons.Filled.Square-rounded-letter-p |
+|  | TablerIcons.Filled.Square-rounded-letter-q |  | TablerIcons.Filled.Square-rounded-letter-r |  | TablerIcons.Filled.Square-rounded-letter-s |
+|  | TablerIcons.Filled.Square-rounded-letter-t |  | TablerIcons.Filled.Square-rounded-letter-u |  | TablerIcons.Filled.Square-rounded-letter-v |
+|  | TablerIcons.Filled.Square-rounded-letter-w |  | TablerIcons.Filled.Square-rounded-letter-x |  | TablerIcons.Filled.Square-rounded-letter-y |
+|  | TablerIcons.Filled.Square-rounded-letter-z |  | TablerIcons.Filled.Square-rounded-minus |  | TablerIcons.Filled.Square-rounded-number-0 |
+|  | TablerIcons.Filled.Square-rounded-number-1 |  | TablerIcons.Filled.Square-rounded-number-2 |  | TablerIcons.Filled.Square-rounded-number-3 |
+|  | TablerIcons.Filled.Square-rounded-number-4 |  | TablerIcons.Filled.Square-rounded-number-5 |  | TablerIcons.Filled.Square-rounded-number-6 |
+|  | TablerIcons.Filled.Square-rounded-number-7 |  | TablerIcons.Filled.Square-rounded-number-8 |  | TablerIcons.Filled.Square-rounded-number-9 |
+|  | TablerIcons.Filled.Square-rounded-plus |  | TablerIcons.Filled.Square-rounded-x |  | TablerIcons.Filled.Square-x |
+|  | TablerIcons.Filled.Squares |  | TablerIcons.Filled.Stack |  | TablerIcons.Filled.Stack-2 |
+|  | TablerIcons.Filled.Stack-3 |  | TablerIcons.Filled.Star |  | TablerIcons.Filled.Star-half |
+|  | TablerIcons.Filled.Stars |  | TablerIcons.Filled.Steering-wheel |  | TablerIcons.Filled.Sun |
+|  | TablerIcons.Filled.Sun-high |  | TablerIcons.Filled.Sun-low |  | TablerIcons.Filled.Sunglasses |
+|  | TablerIcons.Filled.Sunrise |  | TablerIcons.Filled.Sunset |  | TablerIcons.Filled.Sunset-2 |
+|  | TablerIcons.Filled.Swipe-down |  | TablerIcons.Filled.Swipe-left |  | TablerIcons.Filled.Swipe-right |
+|  | TablerIcons.Filled.Swipe-up |  | TablerIcons.Filled.Table |  | TablerIcons.Filled.Tag |
+|  | TablerIcons.Filled.Tags |  | TablerIcons.Filled.Temperature-minus |  | TablerIcons.Filled.Temperature-plus |
+|  | TablerIcons.Filled.Template |  | TablerIcons.Filled.Test-pipe-2 |  | TablerIcons.Filled.Thumb-down |
+|  | TablerIcons.Filled.Thumb-up |  | TablerIcons.Filled.Tilt-shift |  | TablerIcons.Filled.Timeline-event |
+|  | TablerIcons.Filled.Toggle-left |  | TablerIcons.Filled.Toggle-right |  | TablerIcons.Filled.Train |
+|  | TablerIcons.Filled.Transform |  | TablerIcons.Filled.Transition-bottom |  | TablerIcons.Filled.Transition-left |
+|  | TablerIcons.Filled.Transition-right |  | TablerIcons.Filled.Transition-top |  | TablerIcons.Filled.Trash |
+|  | TablerIcons.Filled.Trash-x |  | TablerIcons.Filled.Triangle |  | TablerIcons.Filled.Triangle-inverted |
+|  | TablerIcons.Filled.Triangle-square-circle |  | TablerIcons.Filled.Trolley |  | TablerIcons.Filled.Trophy |
+|  | TablerIcons.Filled.Truck |  | TablerIcons.Filled.Ufo |  | TablerIcons.Filled.Umbrella |
+|  | TablerIcons.Filled.User |  | TablerIcons.Filled.Versions |  | TablerIcons.Filled.Video |
+|  | TablerIcons.Filled.Video-minus |  | TablerIcons.Filled.Video-plus |  | TablerIcons.Filled.Windmill |
+|  | TablerIcons.Filled.Windsock |  | TablerIcons.Filled.Woman |  | TablerIcons.Filled.Writing |
+|  | TablerIcons.Filled.Writing-sign |  | TablerIcons.Filled.Xbox-a |  | TablerIcons.Filled.Xbox-b |
+|  | TablerIcons.Filled.Xbox-x |  | TablerIcons.Filled.Xbox-y |  | TablerIcons.Filled.Yin-yang |
+|  | TablerIcons.Filled.Zeppelin |  | TablerIcons.Filled.Zoom |  | TablerIcons.Filled.Zoom-cancel |
+|  | TablerIcons.Filled.Zoom-check |  | TablerIcons.Filled.Zoom-code |  | TablerIcons.Filled.Zoom-exclamation |
+|  | TablerIcons.Filled.Zoom-in |  | TablerIcons.Filled.Zoom-in-area |  | TablerIcons.Filled.Zoom-money |
+|  | TablerIcons.Filled.Zoom-out |  | TablerIcons.Filled.Zoom-out-area |  | TablerIcons.Filled.Zoom-pan |
+|  | TablerIcons.Filled.Zoom-question |  | TablerIcons.Filled.Zoom-scan |
+<br /><br />
+## Outline
+
+| Icon | In Code | Icon | In Code | Icon | In Code |
+| --- | --- | --- | --- | --- | --- |
+|  | TablerIcons.Outline.A-b |  | TablerIcons.Outline.A-b-2 |  | TablerIcons.Outline.A-b-off |
+|  | TablerIcons.Outline.Abacus |  | TablerIcons.Outline.Abacus-off |  | TablerIcons.Outline.Abc |
+|  | TablerIcons.Outline.Access-point |  | TablerIcons.Outline.Access-point-off |  | TablerIcons.Outline.Accessible |
+|  | TablerIcons.Outline.Accessible-off |  | TablerIcons.Outline.Activity |  | TablerIcons.Outline.Activity-heartbeat |
+|  | TablerIcons.Outline.Ad |  | TablerIcons.Outline.Ad-2 |  | TablerIcons.Outline.Ad-circle |
+|  | TablerIcons.Outline.Ad-circle-off |  | TablerIcons.Outline.Ad-off |  | TablerIcons.Outline.Address-book |
+|  | TablerIcons.Outline.Address-book-off |  | TablerIcons.Outline.Adjustments |  | TablerIcons.Outline.Adjustments-alt |
+|  | TablerIcons.Outline.Adjustments-bolt |  | TablerIcons.Outline.Adjustments-cancel |  | TablerIcons.Outline.Adjustments-check |
+|  | TablerIcons.Outline.Adjustments-code |  | TablerIcons.Outline.Adjustments-cog |  | TablerIcons.Outline.Adjustments-dollar |
+|  | TablerIcons.Outline.Adjustments-down |  | TablerIcons.Outline.Adjustments-exclamation |  | TablerIcons.Outline.Adjustments-heart |
+|  | TablerIcons.Outline.Adjustments-horizontal |  | TablerIcons.Outline.Adjustments-minus |  | TablerIcons.Outline.Adjustments-off |
+|  | TablerIcons.Outline.Adjustments-pause |  | TablerIcons.Outline.Adjustments-pin |  | TablerIcons.Outline.Adjustments-plus |
+|  | TablerIcons.Outline.Adjustments-question |  | TablerIcons.Outline.Adjustments-search |  | TablerIcons.Outline.Adjustments-share |
+|  | TablerIcons.Outline.Adjustments-spark |  | TablerIcons.Outline.Adjustments-star |  | TablerIcons.Outline.Adjustments-up |
+|  | TablerIcons.Outline.Adjustments-x |  | TablerIcons.Outline.Aerial-lift |  | TablerIcons.Outline.Affiliate |
+|  | TablerIcons.Outline.Ai |  | TablerIcons.Outline.Air-balloon |  | TablerIcons.Outline.Air-conditioning |
+|  | TablerIcons.Outline.Air-conditioning-disabled |  | TablerIcons.Outline.Air-traffic-control |  | TablerIcons.Outline.Alarm |
+|  | TablerIcons.Outline.Alarm-average |  | TablerIcons.Outline.Alarm-minus |  | TablerIcons.Outline.Alarm-off |
+|  | TablerIcons.Outline.Alarm-plus |  | TablerIcons.Outline.Alarm-smoke |  | TablerIcons.Outline.Alarm-snooze |
+|  | TablerIcons.Outline.Album |  | TablerIcons.Outline.Album-off |  | TablerIcons.Outline.Alert-circle |
+|  | TablerIcons.Outline.Alert-circle-off |  | TablerIcons.Outline.Alert-hexagon |  | TablerIcons.Outline.Alert-hexagon-off |
+|  | TablerIcons.Outline.Alert-octagon |  | TablerIcons.Outline.Alert-small |  | TablerIcons.Outline.Alert-small-off |
+|  | TablerIcons.Outline.Alert-square |  | TablerIcons.Outline.Alert-square-rounded |  | TablerIcons.Outline.Alert-square-rounded-off |
+|  | TablerIcons.Outline.Alert-triangle |  | TablerIcons.Outline.Alert-triangle-off |  | TablerIcons.Outline.Alien |
+|  | TablerIcons.Outline.Align-box-bottom-center |  | TablerIcons.Outline.Align-box-bottom-left |  | TablerIcons.Outline.Align-box-bottom-right |
+|  | TablerIcons.Outline.Align-box-center-bottom |  | TablerIcons.Outline.Align-box-center-middle |  | TablerIcons.Outline.Align-box-center-stretch |
+|  | TablerIcons.Outline.Align-box-center-top |  | TablerIcons.Outline.Align-box-left-bottom |  | TablerIcons.Outline.Align-box-left-middle |
+|  | TablerIcons.Outline.Align-box-left-stretch |  | TablerIcons.Outline.Align-box-left-top |  | TablerIcons.Outline.Align-box-right-bottom |
+|  | TablerIcons.Outline.Align-box-right-middle |  | TablerIcons.Outline.Align-box-right-stretch |  | TablerIcons.Outline.Align-box-right-top |
+|  | TablerIcons.Outline.Align-box-top-center |  | TablerIcons.Outline.Align-box-top-left |  | TablerIcons.Outline.Align-box-top-right |
+|  | TablerIcons.Outline.Align-center |  | TablerIcons.Outline.Align-justified |  | TablerIcons.Outline.Align-left |
+|  | TablerIcons.Outline.Align-left-2 |  | TablerIcons.Outline.Align-right |  | TablerIcons.Outline.Align-right-2 |
+|  | TablerIcons.Outline.Alpha |  | TablerIcons.Outline.Alphabet-arabic |  | TablerIcons.Outline.Alphabet-bangla |
+|  | TablerIcons.Outline.Alphabet-cyrillic |  | TablerIcons.Outline.Alphabet-greek |  | TablerIcons.Outline.Alphabet-hebrew |
+|  | TablerIcons.Outline.Alphabet-korean |  | TablerIcons.Outline.Alphabet-latin |  | TablerIcons.Outline.Alphabet-polish |
+|  | TablerIcons.Outline.Alphabet-runes |  | TablerIcons.Outline.Alphabet-thai |  | TablerIcons.Outline.Alt |
+|  | TablerIcons.Outline.Ambulance |  | TablerIcons.Outline.Ampersand |  | TablerIcons.Outline.Analyze |
+|  | TablerIcons.Outline.Analyze-off |  | TablerIcons.Outline.Anchor |  | TablerIcons.Outline.Anchor-off |
+|  | TablerIcons.Outline.Angle |  | TablerIcons.Outline.Ankh |  | TablerIcons.Outline.Antenna |
+|  | TablerIcons.Outline.Antenna-bars-1 |  | TablerIcons.Outline.Antenna-bars-2 |  | TablerIcons.Outline.Antenna-bars-3 |
+|  | TablerIcons.Outline.Antenna-bars-4 |  | TablerIcons.Outline.Antenna-bars-5 |  | TablerIcons.Outline.Antenna-bars-off |
+|  | TablerIcons.Outline.Antenna-off |  | TablerIcons.Outline.Aperture |  | TablerIcons.Outline.Aperture-off |
+|  | TablerIcons.Outline.Api |  | TablerIcons.Outline.Api-app |  | TablerIcons.Outline.Api-app-off |
+|  | TablerIcons.Outline.Api-off |  | TablerIcons.Outline.App-window |  | TablerIcons.Outline.Apple |
+|  | TablerIcons.Outline.Apps |  | TablerIcons.Outline.Apps-off |  | TablerIcons.Outline.Archery-arrow |
+|  | TablerIcons.Outline.Archive |  | TablerIcons.Outline.Archive-off |  | TablerIcons.Outline.Armchair |
+|  | TablerIcons.Outline.Armchair-2 |  | TablerIcons.Outline.Armchair-2-off |  | TablerIcons.Outline.Armchair-off |
+|  | TablerIcons.Outline.Arrow-autofit-content |  | TablerIcons.Outline.Arrow-autofit-down |  | TablerIcons.Outline.Arrow-autofit-height |
+|  | TablerIcons.Outline.Arrow-autofit-left |  | TablerIcons.Outline.Arrow-autofit-right |  | TablerIcons.Outline.Arrow-autofit-up |
+|  | TablerIcons.Outline.Arrow-autofit-width |  | TablerIcons.Outline.Arrow-back |  | TablerIcons.Outline.Arrow-back-up |
+|  | TablerIcons.Outline.Arrow-back-up-double |  | TablerIcons.Outline.Arrow-badge-down |  | TablerIcons.Outline.Arrow-badge-left |
+|  | TablerIcons.Outline.Arrow-badge-right |  | TablerIcons.Outline.Arrow-badge-up |  | TablerIcons.Outline.Arrow-bar-both |
+|  | TablerIcons.Outline.Arrow-bar-down |  | TablerIcons.Outline.Arrow-bar-left |  | TablerIcons.Outline.Arrow-bar-right |
+|  | TablerIcons.Outline.Arrow-bar-to-down |  | TablerIcons.Outline.Arrow-bar-to-down-dashed |  | TablerIcons.Outline.Arrow-bar-to-left |
+|  | TablerIcons.Outline.Arrow-bar-to-left-dashed |  | TablerIcons.Outline.Arrow-bar-to-right |  | TablerIcons.Outline.Arrow-bar-to-right-dashed |
+|  | TablerIcons.Outline.Arrow-bar-to-up |  | TablerIcons.Outline.Arrow-bar-to-up-dashed |  | TablerIcons.Outline.Arrow-bar-up |
+|  | TablerIcons.Outline.Arrow-bear-left |  | TablerIcons.Outline.Arrow-bear-left-2 |  | TablerIcons.Outline.Arrow-bear-right |
+|  | TablerIcons.Outline.Arrow-bear-right-2 |  | TablerIcons.Outline.Arrow-big-down |  | TablerIcons.Outline.Arrow-big-down-line |
+|  | TablerIcons.Outline.Arrow-big-down-lines |  | TablerIcons.Outline.Arrow-big-left |  | TablerIcons.Outline.Arrow-big-left-line |
+|  | TablerIcons.Outline.Arrow-big-left-lines |  | TablerIcons.Outline.Arrow-big-right |  | TablerIcons.Outline.Arrow-big-right-line |
+|  | TablerIcons.Outline.Arrow-big-right-lines |  | TablerIcons.Outline.Arrow-big-up |  | TablerIcons.Outline.Arrow-big-up-line |
+|  | TablerIcons.Outline.Arrow-big-up-lines |  | TablerIcons.Outline.Arrow-bounce |  | TablerIcons.Outline.Arrow-capsule |
+|  | TablerIcons.Outline.Arrow-curve-left |  | TablerIcons.Outline.Arrow-curve-right |  | TablerIcons.Outline.Arrow-down |
+|  | TablerIcons.Outline.Arrow-down-bar |  | TablerIcons.Outline.Arrow-down-circle |  | TablerIcons.Outline.Arrow-down-dashed |
+|  | TablerIcons.Outline.Arrow-down-from-arc |  | TablerIcons.Outline.Arrow-down-left |  | TablerIcons.Outline.Arrow-down-left-circle |
+|  | TablerIcons.Outline.Arrow-down-rhombus |  | TablerIcons.Outline.Arrow-down-right |  | TablerIcons.Outline.Arrow-down-right-circle |
+|  | TablerIcons.Outline.Arrow-down-square |  | TablerIcons.Outline.Arrow-down-tail |  | TablerIcons.Outline.Arrow-down-to-arc |
+|  | TablerIcons.Outline.Arrow-elbow-left |  | TablerIcons.Outline.Arrow-elbow-right |  | TablerIcons.Outline.Arrow-fork |
+|  | TablerIcons.Outline.Arrow-forward |  | TablerIcons.Outline.Arrow-forward-up |  | TablerIcons.Outline.Arrow-forward-up-double |
+|  | TablerIcons.Outline.Arrow-guide |  | TablerIcons.Outline.Arrow-iteration |  | TablerIcons.Outline.Arrow-left |
+|  | TablerIcons.Outline.Arrow-left-bar |  | TablerIcons.Outline.Arrow-left-circle |  | TablerIcons.Outline.Arrow-left-dashed |
+|  | TablerIcons.Outline.Arrow-left-from-arc |  | TablerIcons.Outline.Arrow-left-rhombus |  | TablerIcons.Outline.Arrow-left-right |
+|  | TablerIcons.Outline.Arrow-left-square |  | TablerIcons.Outline.Arrow-left-tail |  | TablerIcons.Outline.Arrow-left-to-arc |
+|  | TablerIcons.Outline.Arrow-loop-left |  | TablerIcons.Outline.Arrow-loop-left-2 |  | TablerIcons.Outline.Arrow-loop-right |
+|  | TablerIcons.Outline.Arrow-loop-right-2 |  | TablerIcons.Outline.Arrow-merge |  | TablerIcons.Outline.Arrow-merge-alt-left |
+|  | TablerIcons.Outline.Arrow-merge-alt-right |  | TablerIcons.Outline.Arrow-merge-both |  | TablerIcons.Outline.Arrow-merge-left |
+|  | TablerIcons.Outline.Arrow-merge-right |  | TablerIcons.Outline.Arrow-move-down |  | TablerIcons.Outline.Arrow-move-left |
+|  | TablerIcons.Outline.Arrow-move-right |  | TablerIcons.Outline.Arrow-move-up |  | TablerIcons.Outline.Arrow-narrow-down |
+|  | TablerIcons.Outline.Arrow-narrow-down-dashed |  | TablerIcons.Outline.Arrow-narrow-left |  | TablerIcons.Outline.Arrow-narrow-left-dashed |
+|  | TablerIcons.Outline.Arrow-narrow-right |  | TablerIcons.Outline.Arrow-narrow-right-dashed |  | TablerIcons.Outline.Arrow-narrow-up |
+|  | TablerIcons.Outline.Arrow-narrow-up-dashed |  | TablerIcons.Outline.Arrow-ramp-left |  | TablerIcons.Outline.Arrow-ramp-left-2 |
+|  | TablerIcons.Outline.Arrow-ramp-left-3 |  | TablerIcons.Outline.Arrow-ramp-right |  | TablerIcons.Outline.Arrow-ramp-right-2 |
+|  | TablerIcons.Outline.Arrow-ramp-right-3 |  | TablerIcons.Outline.Arrow-right |  | TablerIcons.Outline.Arrow-right-bar |
+|  | TablerIcons.Outline.Arrow-right-circle |  | TablerIcons.Outline.Arrow-right-dashed |  | TablerIcons.Outline.Arrow-right-from-arc |
+|  | TablerIcons.Outline.Arrow-right-rhombus |  | TablerIcons.Outline.Arrow-right-square |  | TablerIcons.Outline.Arrow-right-tail |
+|  | TablerIcons.Outline.Arrow-right-to-arc |  | TablerIcons.Outline.Arrow-rotary-first-left |  | TablerIcons.Outline.Arrow-rotary-first-right |
+|  | TablerIcons.Outline.Arrow-rotary-last-left |  | TablerIcons.Outline.Arrow-rotary-last-right |  | TablerIcons.Outline.Arrow-rotary-left |
+|  | TablerIcons.Outline.Arrow-rotary-right |  | TablerIcons.Outline.Arrow-rotary-straight |  | TablerIcons.Outline.Arrow-roundabout-left |
+|  | TablerIcons.Outline.Arrow-roundabout-right |  | TablerIcons.Outline.Arrow-sharp-turn-left |  | TablerIcons.Outline.Arrow-sharp-turn-right |
+|  | TablerIcons.Outline.Arrow-up |  | TablerIcons.Outline.Arrow-up-bar |  | TablerIcons.Outline.Arrow-up-circle |
+|  | TablerIcons.Outline.Arrow-up-dashed |  | TablerIcons.Outline.Arrow-up-from-arc |  | TablerIcons.Outline.Arrow-up-left |
+|  | TablerIcons.Outline.Arrow-up-left-circle |  | TablerIcons.Outline.Arrow-up-rhombus |  | TablerIcons.Outline.Arrow-up-right |
+|  | TablerIcons.Outline.Arrow-up-right-circle |  | TablerIcons.Outline.Arrow-up-square |  | TablerIcons.Outline.Arrow-up-tail |
+|  | TablerIcons.Outline.Arrow-up-to-arc |  | TablerIcons.Outline.Arrow-wave-left-down |  | TablerIcons.Outline.Arrow-wave-left-up |
+|  | TablerIcons.Outline.Arrow-wave-right-down |  | TablerIcons.Outline.Arrow-wave-right-up |  | TablerIcons.Outline.Arrow-zig-zag |
+|  | TablerIcons.Outline.Arrows-cross |  | TablerIcons.Outline.Arrows-diagonal |  | TablerIcons.Outline.Arrows-diagonal-2 |
+|  | TablerIcons.Outline.Arrows-diagonal-minimize |  | TablerIcons.Outline.Arrows-diagonal-minimize-2 |  | TablerIcons.Outline.Arrows-diff |
+|  | TablerIcons.Outline.Arrows-double-ne-sw |  | TablerIcons.Outline.Arrows-double-nw-se |  | TablerIcons.Outline.Arrows-double-se-nw |
+|  | TablerIcons.Outline.Arrows-double-sw-ne |  | TablerIcons.Outline.Arrows-down |  | TablerIcons.Outline.Arrows-down-up |
+|  | TablerIcons.Outline.Arrows-exchange |  | TablerIcons.Outline.Arrows-exchange-2 |  | TablerIcons.Outline.Arrows-horizontal |
+|  | TablerIcons.Outline.Arrows-join |  | TablerIcons.Outline.Arrows-join-2 |  | TablerIcons.Outline.Arrows-left |
+|  | TablerIcons.Outline.Arrows-left-down |  | TablerIcons.Outline.Arrows-left-right |  | TablerIcons.Outline.Arrows-maximize |
+|  | TablerIcons.Outline.Arrows-minimize |  | TablerIcons.Outline.Arrows-move |  | TablerIcons.Outline.Arrows-move-horizontal |
+|  | TablerIcons.Outline.Arrows-move-vertical |  | TablerIcons.Outline.Arrows-random |  | TablerIcons.Outline.Arrows-right |
+|  | TablerIcons.Outline.Arrows-right-down |  | TablerIcons.Outline.Arrows-right-left |  | TablerIcons.Outline.Arrows-shuffle |
+|  | TablerIcons.Outline.Arrows-shuffle-2 |  | TablerIcons.Outline.Arrows-sort |  | TablerIcons.Outline.Arrows-split |
+|  | TablerIcons.Outline.Arrows-split-2 |  | TablerIcons.Outline.Arrows-transfer-down |  | TablerIcons.Outline.Arrows-transfer-up |
+|  | TablerIcons.Outline.Arrows-transfer-up-down |  | TablerIcons.Outline.Arrows-up |  | TablerIcons.Outline.Arrows-up-down |
+|  | TablerIcons.Outline.Arrows-up-left |  | TablerIcons.Outline.Arrows-up-right |  | TablerIcons.Outline.Arrows-vertical |
+|  | TablerIcons.Outline.Artboard |  | TablerIcons.Outline.Artboard-off |  | TablerIcons.Outline.Article |
+|  | TablerIcons.Outline.Article-off |  | TablerIcons.Outline.Aspect-ratio |  | TablerIcons.Outline.Aspect-ratio-off |
+|  | TablerIcons.Outline.Assembly |  | TablerIcons.Outline.Assembly-off |  | TablerIcons.Outline.Asset |
+|  | TablerIcons.Outline.Asterisk |  | TablerIcons.Outline.Asterisk-simple |  | TablerIcons.Outline.At |
+|  | TablerIcons.Outline.At-off |  | TablerIcons.Outline.Atom |  | TablerIcons.Outline.Atom-2 |
+|  | TablerIcons.Outline.Atom-off |  | TablerIcons.Outline.Augmented-reality |  | TablerIcons.Outline.Augmented-reality-2 |
+|  | TablerIcons.Outline.Augmented-reality-off |  | TablerIcons.Outline.Auth-2fa |  | TablerIcons.Outline.Automatic-gearbox |
+|  | TablerIcons.Outline.Automation |  | TablerIcons.Outline.Avocado |  | TablerIcons.Outline.Award |
+|  | TablerIcons.Outline.Award-off |  | TablerIcons.Outline.Axe |  | TablerIcons.Outline.Axis-x |
+|  | TablerIcons.Outline.Axis-y |  | TablerIcons.Outline.Baby-bottle |  | TablerIcons.Outline.Baby-carriage |
+|  | TablerIcons.Outline.Background |  | TablerIcons.Outline.Backhoe |  | TablerIcons.Outline.Backpack |
+|  | TablerIcons.Outline.Backpack-off |  | TablerIcons.Outline.Backslash |  | TablerIcons.Outline.Backspace |
+|  | TablerIcons.Outline.Badge |  | TablerIcons.Outline.Badge-2k |  | TablerIcons.Outline.Badge-3d |
+|  | TablerIcons.Outline.Badge-3k |  | TablerIcons.Outline.Badge-4k |  | TablerIcons.Outline.Badge-5k |
+|  | TablerIcons.Outline.Badge-8k |  | TablerIcons.Outline.Badge-ad |  | TablerIcons.Outline.Badge-ad-off |
+|  | TablerIcons.Outline.Badge-ar |  | TablerIcons.Outline.Badge-cc |  | TablerIcons.Outline.Badge-hd |
+|  | TablerIcons.Outline.Badge-off |  | TablerIcons.Outline.Badge-sd |  | TablerIcons.Outline.Badge-tm |
+|  | TablerIcons.Outline.Badge-vo |  | TablerIcons.Outline.Badge-vr |  | TablerIcons.Outline.Badge-wc |
+|  | TablerIcons.Outline.Badges |  | TablerIcons.Outline.Badges-off |  | TablerIcons.Outline.Baguette |
+|  | TablerIcons.Outline.Ball-american-football |  | TablerIcons.Outline.Ball-american-football-off |  | TablerIcons.Outline.Ball-baseball |
+|  | TablerIcons.Outline.Ball-basketball |  | TablerIcons.Outline.Ball-bowling |  | TablerIcons.Outline.Ball-football |
+|  | TablerIcons.Outline.Ball-football-off |  | TablerIcons.Outline.Ball-tennis |  | TablerIcons.Outline.Ball-volleyball |
+|  | TablerIcons.Outline.Balloon |  | TablerIcons.Outline.Balloon-off |  | TablerIcons.Outline.Ballpen |
+|  | TablerIcons.Outline.Ballpen-off |  | TablerIcons.Outline.Ban |  | TablerIcons.Outline.Bandage |
+|  | TablerIcons.Outline.Bandage-off |  | TablerIcons.Outline.Barbell |  | TablerIcons.Outline.Barbell-off |
+|  | TablerIcons.Outline.Barcode |  | TablerIcons.Outline.Barcode-off |  | TablerIcons.Outline.Barrel |
+|  | TablerIcons.Outline.Barrel-off |  | TablerIcons.Outline.Barrier-block |  | TablerIcons.Outline.Barrier-block-off |
+|  | TablerIcons.Outline.Baseline |  | TablerIcons.Outline.Baseline-density-large |  | TablerIcons.Outline.Baseline-density-medium |
+|  | TablerIcons.Outline.Baseline-density-small |  | TablerIcons.Outline.Basket |  | TablerIcons.Outline.Basket-bolt |
+|  | TablerIcons.Outline.Basket-cancel |  | TablerIcons.Outline.Basket-check |  | TablerIcons.Outline.Basket-code |
+|  | TablerIcons.Outline.Basket-cog |  | TablerIcons.Outline.Basket-discount |  | TablerIcons.Outline.Basket-dollar |
+|  | TablerIcons.Outline.Basket-down |  | TablerIcons.Outline.Basket-exclamation |  | TablerIcons.Outline.Basket-heart |
+|  | TablerIcons.Outline.Basket-minus |  | TablerIcons.Outline.Basket-off |  | TablerIcons.Outline.Basket-pause |
+|  | TablerIcons.Outline.Basket-pin |  | TablerIcons.Outline.Basket-plus |  | TablerIcons.Outline.Basket-question |
+|  | TablerIcons.Outline.Basket-search |  | TablerIcons.Outline.Basket-share |  | TablerIcons.Outline.Basket-star |
+|  | TablerIcons.Outline.Basket-up |  | TablerIcons.Outline.Basket-x |  | TablerIcons.Outline.Bat |
+|  | TablerIcons.Outline.Bath |  | TablerIcons.Outline.Bath-off |  | TablerIcons.Outline.Battery |
+|  | TablerIcons.Outline.Battery-1 |  | TablerIcons.Outline.Battery-2 |  | TablerIcons.Outline.Battery-3 |
+|  | TablerIcons.Outline.Battery-4 |  | TablerIcons.Outline.Battery-automotive |  | TablerIcons.Outline.Battery-charging |
+|  | TablerIcons.Outline.Battery-charging-2 |  | TablerIcons.Outline.Battery-eco |  | TablerIcons.Outline.Battery-exclamation |
+|  | TablerIcons.Outline.Battery-off |  | TablerIcons.Outline.Battery-spark |  | TablerIcons.Outline.Battery-vertical |
+|  | TablerIcons.Outline.Battery-vertical-1 |  | TablerIcons.Outline.Battery-vertical-2 |  | TablerIcons.Outline.Battery-vertical-3 |
+|  | TablerIcons.Outline.Battery-vertical-4 |  | TablerIcons.Outline.Battery-vertical-charging |  | TablerIcons.Outline.Battery-vertical-charging-2 |
+|  | TablerIcons.Outline.Battery-vertical-eco |  | TablerIcons.Outline.Battery-vertical-exclamation |  | TablerIcons.Outline.Battery-vertical-off |
+|  | TablerIcons.Outline.Beach |  | TablerIcons.Outline.Beach-off |  | TablerIcons.Outline.Bed |
+|  | TablerIcons.Outline.Bed-flat |  | TablerIcons.Outline.Bed-off |  | TablerIcons.Outline.Beer |
+|  | TablerIcons.Outline.Beer-off |  | TablerIcons.Outline.Bell |  | TablerIcons.Outline.Bell-bolt |
+|  | TablerIcons.Outline.Bell-cancel |  | TablerIcons.Outline.Bell-check |  | TablerIcons.Outline.Bell-code |
+|  | TablerIcons.Outline.Bell-cog |  | TablerIcons.Outline.Bell-dollar |  | TablerIcons.Outline.Bell-down |
+|  | TablerIcons.Outline.Bell-exclamation |  | TablerIcons.Outline.Bell-heart |  | TablerIcons.Outline.Bell-minus |
+|  | TablerIcons.Outline.Bell-off |  | TablerIcons.Outline.Bell-pause |  | TablerIcons.Outline.Bell-pin |
+|  | TablerIcons.Outline.Bell-plus |  | TablerIcons.Outline.Bell-question |  | TablerIcons.Outline.Bell-ringing |
+|  | TablerIcons.Outline.Bell-ringing-2 |  | TablerIcons.Outline.Bell-school |  | TablerIcons.Outline.Bell-search |
+|  | TablerIcons.Outline.Bell-share |  | TablerIcons.Outline.Bell-star |  | TablerIcons.Outline.Bell-up |
+|  | TablerIcons.Outline.Bell-x |  | TablerIcons.Outline.Bell-z |  | TablerIcons.Outline.Beta |
+|  | TablerIcons.Outline.Bible |  | TablerIcons.Outline.Bike |  | TablerIcons.Outline.Bike-off |
+|  | TablerIcons.Outline.Binary |  | TablerIcons.Outline.Binary-off |  | TablerIcons.Outline.Binary-tree |
+|  | TablerIcons.Outline.Binary-tree-2 |  | TablerIcons.Outline.Binoculars |  | TablerIcons.Outline.Biohazard |
+|  | TablerIcons.Outline.Biohazard-off |  | TablerIcons.Outline.Blade |  | TablerIcons.Outline.Bleach |
+|  | TablerIcons.Outline.Bleach-chlorine |  | TablerIcons.Outline.Bleach-no-chlorine |  | TablerIcons.Outline.Bleach-off |
+|  | TablerIcons.Outline.Blend-mode |  | TablerIcons.Outline.Blender |  | TablerIcons.Outline.Blind |
+|  | TablerIcons.Outline.Blob |  | TablerIcons.Outline.Blockquote |  | TablerIcons.Outline.Blocks |
+|  | TablerIcons.Outline.Bluetooth |  | TablerIcons.Outline.Bluetooth-connected |  | TablerIcons.Outline.Bluetooth-off |
+|  | TablerIcons.Outline.Bluetooth-x |  | TablerIcons.Outline.Blur |  | TablerIcons.Outline.Blur-off |
+|  | TablerIcons.Outline.Bmp |  | TablerIcons.Outline.Body-scan |  | TablerIcons.Outline.Bold |
+|  | TablerIcons.Outline.Bold-off |  | TablerIcons.Outline.Bolt |  | TablerIcons.Outline.Bolt-off |
+|  | TablerIcons.Outline.Bomb |  | TablerIcons.Outline.Bone |  | TablerIcons.Outline.Bone-off |
+|  | TablerIcons.Outline.Bong |  | TablerIcons.Outline.Bong-off |  | TablerIcons.Outline.Book |
+|  | TablerIcons.Outline.Book-2 |  | TablerIcons.Outline.Book-download |  | TablerIcons.Outline.Book-off |
+|  | TablerIcons.Outline.Book-upload |  | TablerIcons.Outline.Bookmark |  | TablerIcons.Outline.Bookmark-ai |
+|  | TablerIcons.Outline.Bookmark-edit |  | TablerIcons.Outline.Bookmark-minus |  | TablerIcons.Outline.Bookmark-off |
+|  | TablerIcons.Outline.Bookmark-plus |  | TablerIcons.Outline.Bookmark-question |  | TablerIcons.Outline.Bookmarks |
+|  | TablerIcons.Outline.Bookmarks-off |  | TablerIcons.Outline.Books |  | TablerIcons.Outline.Books-off |
+|  | TablerIcons.Outline.Boom |  | TablerIcons.Outline.Border-all |  | TablerIcons.Outline.Border-bottom |
+|  | TablerIcons.Outline.Border-bottom-plus |  | TablerIcons.Outline.Border-corner-ios |  | TablerIcons.Outline.Border-corner-pill |
+|  | TablerIcons.Outline.Border-corner-rounded |  | TablerIcons.Outline.Border-corner-square |  | TablerIcons.Outline.Border-corners |
+|  | TablerIcons.Outline.Border-horizontal |  | TablerIcons.Outline.Border-inner |  | TablerIcons.Outline.Border-left |
+|  | TablerIcons.Outline.Border-left-plus |  | TablerIcons.Outline.Border-none |  | TablerIcons.Outline.Border-outer |
+|  | TablerIcons.Outline.Border-radius |  | TablerIcons.Outline.Border-right |  | TablerIcons.Outline.Border-right-plus |
+|  | TablerIcons.Outline.Border-sides |  | TablerIcons.Outline.Border-style |  | TablerIcons.Outline.Border-style-2 |
+|  | TablerIcons.Outline.Border-top |  | TablerIcons.Outline.Border-top-plus |  | TablerIcons.Outline.Border-vertical |
+|  | TablerIcons.Outline.Bottle |  | TablerIcons.Outline.Bottle-off |  | TablerIcons.Outline.Bounce-left |
+|  | TablerIcons.Outline.Bounce-right |  | TablerIcons.Outline.Bow |  | TablerIcons.Outline.Bowl |
+|  | TablerIcons.Outline.Bowl-chopsticks |  | TablerIcons.Outline.Bowl-spoon |  | TablerIcons.Outline.Bowling |
+|  | TablerIcons.Outline.Box |  | TablerIcons.Outline.Box-align-bottom |  | TablerIcons.Outline.Box-align-bottom-left |
+|  | TablerIcons.Outline.Box-align-bottom-right |  | TablerIcons.Outline.Box-align-left |  | TablerIcons.Outline.Box-align-right |
+|  | TablerIcons.Outline.Box-align-top |  | TablerIcons.Outline.Box-align-top-left |  | TablerIcons.Outline.Box-align-top-right |
+|  | TablerIcons.Outline.Box-margin |  | TablerIcons.Outline.Box-model |  | TablerIcons.Outline.Box-model-2 |
+|  | TablerIcons.Outline.Box-model-2-off |  | TablerIcons.Outline.Box-model-off |  | TablerIcons.Outline.Box-multiple |
+|  | TablerIcons.Outline.Box-multiple-0 |  | TablerIcons.Outline.Box-multiple-1 |  | TablerIcons.Outline.Box-multiple-2 |
+|  | TablerIcons.Outline.Box-multiple-3 |  | TablerIcons.Outline.Box-multiple-4 |  | TablerIcons.Outline.Box-multiple-5 |
+|  | TablerIcons.Outline.Box-multiple-6 |  | TablerIcons.Outline.Box-multiple-7 |  | TablerIcons.Outline.Box-multiple-8 |
+|  | TablerIcons.Outline.Box-multiple-9 |  | TablerIcons.Outline.Box-off |  | TablerIcons.Outline.Box-padding |
+|  | TablerIcons.Outline.Braces |  | TablerIcons.Outline.Braces-off |  | TablerIcons.Outline.Brackets |
+|  | TablerIcons.Outline.Brackets-angle |  | TablerIcons.Outline.Brackets-angle-off |  | TablerIcons.Outline.Brackets-contain |
+|  | TablerIcons.Outline.Brackets-contain-end |  | TablerIcons.Outline.Brackets-contain-start |  | TablerIcons.Outline.Brackets-off |
+|  | TablerIcons.Outline.Braille |  | TablerIcons.Outline.Brain |  | TablerIcons.Outline.Brand-4chan |
+|  | TablerIcons.Outline.Brand-abstract |  | TablerIcons.Outline.Brand-adobe |  | TablerIcons.Outline.Brand-adobe-after-effect |
+|  | TablerIcons.Outline.Brand-adobe-illustrator |  | TablerIcons.Outline.Brand-adobe-indesign |  | TablerIcons.Outline.Brand-adobe-photoshop |
+|  | TablerIcons.Outline.Brand-adobe-premiere |  | TablerIcons.Outline.Brand-adobe-xd |  | TablerIcons.Outline.Brand-adonis-js |
+|  | TablerIcons.Outline.Brand-airbnb |  | TablerIcons.Outline.Brand-airtable |  | TablerIcons.Outline.Brand-algolia |
+|  | TablerIcons.Outline.Brand-alipay |  | TablerIcons.Outline.Brand-alpine-js |  | TablerIcons.Outline.Brand-amazon |
+|  | TablerIcons.Outline.Brand-amd |  | TablerIcons.Outline.Brand-amie |  | TablerIcons.Outline.Brand-amigo |
+|  | TablerIcons.Outline.Brand-among-us |  | TablerIcons.Outline.Brand-android |  | TablerIcons.Outline.Brand-angular |
+|  | TablerIcons.Outline.Brand-ansible |  | TablerIcons.Outline.Brand-ao3 |  | TablerIcons.Outline.Brand-appgallery |
+|  | TablerIcons.Outline.Brand-apple |  | TablerIcons.Outline.Brand-apple-arcade |  | TablerIcons.Outline.Brand-apple-news |
+|  | TablerIcons.Outline.Brand-apple-podcast |  | TablerIcons.Outline.Brand-appstore |  | TablerIcons.Outline.Brand-arc |
+|  | TablerIcons.Outline.Brand-asana |  | TablerIcons.Outline.Brand-astro |  | TablerIcons.Outline.Brand-auth0 |
+|  | TablerIcons.Outline.Brand-aws |  | TablerIcons.Outline.Brand-azure |  | TablerIcons.Outline.Brand-backbone |
+|  | TablerIcons.Outline.Brand-badoo |  | TablerIcons.Outline.Brand-baidu |  | TablerIcons.Outline.Brand-bandcamp |
+|  | TablerIcons.Outline.Brand-bandlab |  | TablerIcons.Outline.Brand-beats |  | TablerIcons.Outline.Brand-bebo |
+|  | TablerIcons.Outline.Brand-behance |  | TablerIcons.Outline.Brand-bilibili |  | TablerIcons.Outline.Brand-binance |
+|  | TablerIcons.Outline.Brand-bing |  | TablerIcons.Outline.Brand-bitbucket |  | TablerIcons.Outline.Brand-blackberry |
+|  | TablerIcons.Outline.Brand-blender |  | TablerIcons.Outline.Brand-blogger |  | TablerIcons.Outline.Brand-bluesky |
+|  | TablerIcons.Outline.Brand-booking |  | TablerIcons.Outline.Brand-bootstrap |  | TablerIcons.Outline.Brand-bulma |
+|  | TablerIcons.Outline.Brand-bumble |  | TablerIcons.Outline.Brand-bunpo |  | TablerIcons.Outline.Brand-c-sharp |
+|  | TablerIcons.Outline.Brand-cake |  | TablerIcons.Outline.Brand-cakephp |  | TablerIcons.Outline.Brand-campaignmonitor |
+|  | TablerIcons.Outline.Brand-carbon |  | TablerIcons.Outline.Brand-cashapp |  | TablerIcons.Outline.Brand-chrome |
+|  | TablerIcons.Outline.Brand-cinema-4d |  | TablerIcons.Outline.Brand-citymapper |  | TablerIcons.Outline.Brand-cloudflare |
+|  | TablerIcons.Outline.Brand-codecov |  | TablerIcons.Outline.Brand-codepen |  | TablerIcons.Outline.Brand-codesandbox |
+|  | TablerIcons.Outline.Brand-cohost |  | TablerIcons.Outline.Brand-coinbase |  | TablerIcons.Outline.Brand-comedy-central |
+|  | TablerIcons.Outline.Brand-coreos |  | TablerIcons.Outline.Brand-couchdb |  | TablerIcons.Outline.Brand-couchsurfing |
+|  | TablerIcons.Outline.Brand-cpp |  | TablerIcons.Outline.Brand-craft |  | TablerIcons.Outline.Brand-crunchbase |
+|  | TablerIcons.Outline.Brand-css3 |  | TablerIcons.Outline.Brand-ctemplar |  | TablerIcons.Outline.Brand-cucumber |
+|  | TablerIcons.Outline.Brand-cupra |  | TablerIcons.Outline.Brand-cypress |  | TablerIcons.Outline.Brand-d3 |
+|  | TablerIcons.Outline.Brand-databricks |  | TablerIcons.Outline.Brand-days-counter |  | TablerIcons.Outline.Brand-dcos |
+|  | TablerIcons.Outline.Brand-debian |  | TablerIcons.Outline.Brand-deezer |  | TablerIcons.Outline.Brand-deliveroo |
+|  | TablerIcons.Outline.Brand-deno |  | TablerIcons.Outline.Brand-denodo |  | TablerIcons.Outline.Brand-deviantart |
+|  | TablerIcons.Outline.Brand-digg |  | TablerIcons.Outline.Brand-dingtalk |  | TablerIcons.Outline.Brand-discord |
+|  | TablerIcons.Outline.Brand-disney |  | TablerIcons.Outline.Brand-disqus |  | TablerIcons.Outline.Brand-django |
+|  | TablerIcons.Outline.Brand-docker |  | TablerIcons.Outline.Brand-doctrine |  | TablerIcons.Outline.Brand-dolby-digital |
+|  | TablerIcons.Outline.Brand-douban |  | TablerIcons.Outline.Brand-dribbble |  | TablerIcons.Outline.Brand-dropbox |
+|  | TablerIcons.Outline.Brand-drops |  | TablerIcons.Outline.Brand-drupal |  | TablerIcons.Outline.Brand-edge |
+|  | TablerIcons.Outline.Brand-elastic |  | TablerIcons.Outline.Brand-electronic-arts |  | TablerIcons.Outline.Brand-ember |
+|  | TablerIcons.Outline.Brand-envato |  | TablerIcons.Outline.Brand-etsy |  | TablerIcons.Outline.Brand-evernote |
+|  | TablerIcons.Outline.Brand-facebook |  | TablerIcons.Outline.Brand-feedly |  | TablerIcons.Outline.Brand-figma |
+|  | TablerIcons.Outline.Brand-filezilla |  | TablerIcons.Outline.Brand-finder |  | TablerIcons.Outline.Brand-firebase |
+|  | TablerIcons.Outline.Brand-firefox |  | TablerIcons.Outline.Brand-fiverr |  | TablerIcons.Outline.Brand-flickr |
+|  | TablerIcons.Outline.Brand-flightradar24 |  | TablerIcons.Outline.Brand-flipboard |  | TablerIcons.Outline.Brand-flutter |
+|  | TablerIcons.Outline.Brand-fortnite |  | TablerIcons.Outline.Brand-foursquare |  | TablerIcons.Outline.Brand-framer |
+|  | TablerIcons.Outline.Brand-framer-motion |  | TablerIcons.Outline.Brand-funimation |  | TablerIcons.Outline.Brand-gatsby |
+|  | TablerIcons.Outline.Brand-git |  | TablerIcons.Outline.Brand-github |  | TablerIcons.Outline.Brand-github-copilot |
+|  | TablerIcons.Outline.Brand-gitlab |  | TablerIcons.Outline.Brand-gmail |  | TablerIcons.Outline.Brand-golang |
+|  | TablerIcons.Outline.Brand-google |  | TablerIcons.Outline.Brand-google-analytics |  | TablerIcons.Outline.Brand-google-big-query |
+|  | TablerIcons.Outline.Brand-google-drive |  | TablerIcons.Outline.Brand-google-fit |  | TablerIcons.Outline.Brand-google-home |
+|  | TablerIcons.Outline.Brand-google-maps |  | TablerIcons.Outline.Brand-google-one |  | TablerIcons.Outline.Brand-google-photos |
+|  | TablerIcons.Outline.Brand-google-play |  | TablerIcons.Outline.Brand-google-podcasts |  | TablerIcons.Outline.Brand-grammarly |
+|  | TablerIcons.Outline.Brand-graphql |  | TablerIcons.Outline.Brand-gravatar |  | TablerIcons.Outline.Brand-grindr |
+|  | TablerIcons.Outline.Brand-guardian |  | TablerIcons.Outline.Brand-gumroad |  | TablerIcons.Outline.Brand-hackerrank |
+|  | TablerIcons.Outline.Brand-hbo |  | TablerIcons.Outline.Brand-headlessui |  | TablerIcons.Outline.Brand-hexo |
+|  | TablerIcons.Outline.Brand-hipchat |  | TablerIcons.Outline.Brand-html5 |  | TablerIcons.Outline.Brand-inertia |
+|  | TablerIcons.Outline.Brand-instagram |  | TablerIcons.Outline.Brand-intercom |  | TablerIcons.Outline.Brand-itch |
+|  | TablerIcons.Outline.Brand-javascript |  | TablerIcons.Outline.Brand-juejin |  | TablerIcons.Outline.Brand-kako-talk |
+|  | TablerIcons.Outline.Brand-kbin |  | TablerIcons.Outline.Brand-kick |  | TablerIcons.Outline.Brand-kickstarter |
+|  | TablerIcons.Outline.Brand-kotlin |  | TablerIcons.Outline.Brand-laravel |  | TablerIcons.Outline.Brand-lastfm |
+|  | TablerIcons.Outline.Brand-leetcode |  | TablerIcons.Outline.Brand-letterboxd |  | TablerIcons.Outline.Brand-line |
+|  | TablerIcons.Outline.Brand-linkedin |  | TablerIcons.Outline.Brand-linktree |  | TablerIcons.Outline.Brand-linqpad |
+|  | TablerIcons.Outline.Brand-livewire |  | TablerIcons.Outline.Brand-loom |  | TablerIcons.Outline.Brand-mailgun |
+|  | TablerIcons.Outline.Brand-mantine |  | TablerIcons.Outline.Brand-mastercard |  | TablerIcons.Outline.Brand-mastodon |
+|  | TablerIcons.Outline.Brand-matrix |  | TablerIcons.Outline.Brand-mcdonalds |  | TablerIcons.Outline.Brand-medium |
+|  | TablerIcons.Outline.Brand-meetup |  | TablerIcons.Outline.Brand-mercedes |  | TablerIcons.Outline.Brand-messenger |
+|  | TablerIcons.Outline.Brand-meta |  | TablerIcons.Outline.Brand-metabrainz |  | TablerIcons.Outline.Brand-minecraft |
+|  | TablerIcons.Outline.Brand-miniprogram |  | TablerIcons.Outline.Brand-mixpanel |  | TablerIcons.Outline.Brand-monday |
+|  | TablerIcons.Outline.Brand-mongodb |  | TablerIcons.Outline.Brand-my-oppo |  | TablerIcons.Outline.Brand-mysql |
+|  | TablerIcons.Outline.Brand-national-geographic |  | TablerIcons.Outline.Brand-nem |  | TablerIcons.Outline.Brand-netbeans |
+|  | TablerIcons.Outline.Brand-netease-music |  | TablerIcons.Outline.Brand-netflix |  | TablerIcons.Outline.Brand-nexo |
+|  | TablerIcons.Outline.Brand-nextcloud |  | TablerIcons.Outline.Brand-nextjs |  | TablerIcons.Outline.Brand-nodejs |
+|  | TablerIcons.Outline.Brand-nord-vpn |  | TablerIcons.Outline.Brand-notion |  | TablerIcons.Outline.Brand-npm |
+|  | TablerIcons.Outline.Brand-nuxt |  | TablerIcons.Outline.Brand-nytimes |  | TablerIcons.Outline.Brand-oauth |
+|  | TablerIcons.Outline.Brand-office |  | TablerIcons.Outline.Brand-ok-ru |  | TablerIcons.Outline.Brand-onedrive |
+|  | TablerIcons.Outline.Brand-onlyfans |  | TablerIcons.Outline.Brand-open-source |  | TablerIcons.Outline.Brand-openai |
+|  | TablerIcons.Outline.Brand-openvpn |  | TablerIcons.Outline.Brand-opera |  | TablerIcons.Outline.Brand-pagekit |
+|  | TablerIcons.Outline.Brand-parsinta |  | TablerIcons.Outline.Brand-patreon |  | TablerIcons.Outline.Brand-paypal |
+|  | TablerIcons.Outline.Brand-paypay |  | TablerIcons.Outline.Brand-peanut |  | TablerIcons.Outline.Brand-pepsi |
+|  | TablerIcons.Outline.Brand-php |  | TablerIcons.Outline.Brand-picsart |  | TablerIcons.Outline.Brand-pinterest |
+|  | TablerIcons.Outline.Brand-planetscale |  | TablerIcons.Outline.Brand-pnpm |  | TablerIcons.Outline.Brand-pocket |
+|  | TablerIcons.Outline.Brand-polymer |  | TablerIcons.Outline.Brand-powershell |  | TablerIcons.Outline.Brand-printables |
+|  | TablerIcons.Outline.Brand-prisma |  | TablerIcons.Outline.Brand-producthunt |  | TablerIcons.Outline.Brand-pushbullet |
+|  | TablerIcons.Outline.Brand-pushover |  | TablerIcons.Outline.Brand-python |  | TablerIcons.Outline.Brand-qq |
+|  | TablerIcons.Outline.Brand-radix-ui |  | TablerIcons.Outline.Brand-react |  | TablerIcons.Outline.Brand-react-native |
+|  | TablerIcons.Outline.Brand-reason |  | TablerIcons.Outline.Brand-reddit |  | TablerIcons.Outline.Brand-redhat |
+|  | TablerIcons.Outline.Brand-redux |  | TablerIcons.Outline.Brand-revolut |  | TablerIcons.Outline.Brand-rumble |
+|  | TablerIcons.Outline.Brand-rust |  | TablerIcons.Outline.Brand-safari |  | TablerIcons.Outline.Brand-samsungpass |
+|  | TablerIcons.Outline.Brand-sass |  | TablerIcons.Outline.Brand-sentry |  | TablerIcons.Outline.Brand-sharik |
+|  | TablerIcons.Outline.Brand-shazam |  | TablerIcons.Outline.Brand-shopee |  | TablerIcons.Outline.Brand-sketch |
+|  | TablerIcons.Outline.Brand-skype |  | TablerIcons.Outline.Brand-slack |  | TablerIcons.Outline.Brand-snapchat |
+|  | TablerIcons.Outline.Brand-snapseed |  | TablerIcons.Outline.Brand-snowflake |  | TablerIcons.Outline.Brand-socket-io |
+|  | TablerIcons.Outline.Brand-solidjs |  | TablerIcons.Outline.Brand-soundcloud |  | TablerIcons.Outline.Brand-spacehey |
+|  | TablerIcons.Outline.Brand-speedtest |  | TablerIcons.Outline.Brand-spotify |  | TablerIcons.Outline.Brand-stackoverflow |
+|  | TablerIcons.Outline.Brand-stackshare |  | TablerIcons.Outline.Brand-steam |  | TablerIcons.Outline.Brand-stocktwits |
+|  | TablerIcons.Outline.Brand-storj |  | TablerIcons.Outline.Brand-storybook |  | TablerIcons.Outline.Brand-storytel |
+|  | TablerIcons.Outline.Brand-strava |  | TablerIcons.Outline.Brand-stripe |  | TablerIcons.Outline.Brand-sublime-text |
+|  | TablerIcons.Outline.Brand-sugarizer |  | TablerIcons.Outline.Brand-supabase |  | TablerIcons.Outline.Brand-superhuman |
+|  | TablerIcons.Outline.Brand-supernova |  | TablerIcons.Outline.Brand-surfshark |  | TablerIcons.Outline.Brand-svelte |
+|  | TablerIcons.Outline.Brand-swift |  | TablerIcons.Outline.Brand-symfony |  | TablerIcons.Outline.Brand-tabler |
+|  | TablerIcons.Outline.Brand-tabnine |  | TablerIcons.Outline.Brand-tailwind |  | TablerIcons.Outline.Brand-taobao |
+|  | TablerIcons.Outline.Brand-teams |  | TablerIcons.Outline.Brand-ted |  | TablerIcons.Outline.Brand-telegram |
+|  | TablerIcons.Outline.Brand-terraform |  | TablerIcons.Outline.Brand-tesla |  | TablerIcons.Outline.Brand-tether |
+|  | TablerIcons.Outline.Brand-thingiverse |  | TablerIcons.Outline.Brand-threads |  | TablerIcons.Outline.Brand-threejs |
+|  | TablerIcons.Outline.Brand-tidal |  | TablerIcons.Outline.Brand-tiktok |  | TablerIcons.Outline.Brand-tinder |
+|  | TablerIcons.Outline.Brand-topbuzz |  | TablerIcons.Outline.Brand-torchain |  | TablerIcons.Outline.Brand-toyota |
+|  | TablerIcons.Outline.Brand-trello |  | TablerIcons.Outline.Brand-tripadvisor |  | TablerIcons.Outline.Brand-tumblr |
+|  | TablerIcons.Outline.Brand-twilio |  | TablerIcons.Outline.Brand-twitch |  | TablerIcons.Outline.Brand-twitter |
+|  | TablerIcons.Outline.Brand-typescript |  | TablerIcons.Outline.Brand-uber |  | TablerIcons.Outline.Brand-ubuntu |
+|  | TablerIcons.Outline.Brand-unity |  | TablerIcons.Outline.Brand-unsplash |  | TablerIcons.Outline.Brand-upwork |
+|  | TablerIcons.Outline.Brand-valorant |  | TablerIcons.Outline.Brand-vercel |  | TablerIcons.Outline.Brand-vimeo |
+|  | TablerIcons.Outline.Brand-vinted |  | TablerIcons.Outline.Brand-visa |  | TablerIcons.Outline.Brand-visual-studio |
+|  | TablerIcons.Outline.Brand-vite |  | TablerIcons.Outline.Brand-vivaldi |  | TablerIcons.Outline.Brand-vk |
+|  | TablerIcons.Outline.Brand-vlc |  | TablerIcons.Outline.Brand-volkswagen |  | TablerIcons.Outline.Brand-vsco |
+|  | TablerIcons.Outline.Brand-vscode |  | TablerIcons.Outline.Brand-vue |  | TablerIcons.Outline.Brand-walmart |
+|  | TablerIcons.Outline.Brand-waze |  | TablerIcons.Outline.Brand-webflow |  | TablerIcons.Outline.Brand-wechat |
+|  | TablerIcons.Outline.Brand-weibo |  | TablerIcons.Outline.Brand-whatsapp |  | TablerIcons.Outline.Brand-wikipedia |
+|  | TablerIcons.Outline.Brand-windows |  | TablerIcons.Outline.Brand-windy |  | TablerIcons.Outline.Brand-wish |
+|  | TablerIcons.Outline.Brand-wix |  | TablerIcons.Outline.Brand-wordpress |  | TablerIcons.Outline.Brand-x |
+|  | TablerIcons.Outline.Brand-xamarin |  | TablerIcons.Outline.Brand-xbox |  | TablerIcons.Outline.Brand-xdeep |
+|  | TablerIcons.Outline.Brand-xing |  | TablerIcons.Outline.Brand-yahoo |  | TablerIcons.Outline.Brand-yandex |
+|  | TablerIcons.Outline.Brand-yarn |  | TablerIcons.Outline.Brand-yatse |  | TablerIcons.Outline.Brand-ycombinator |
+|  | TablerIcons.Outline.Brand-youtube |  | TablerIcons.Outline.Brand-youtube-kids |  | TablerIcons.Outline.Brand-zalando |
+|  | TablerIcons.Outline.Brand-zapier |  | TablerIcons.Outline.Brand-zeit |  | TablerIcons.Outline.Brand-zhihu |
+|  | TablerIcons.Outline.Brand-zoom |  | TablerIcons.Outline.Brand-zulip |  | TablerIcons.Outline.Brand-zwift |
+|  | TablerIcons.Outline.Bread |  | TablerIcons.Outline.Bread-off |  | TablerIcons.Outline.Briefcase |
+|  | TablerIcons.Outline.Briefcase-2 |  | TablerIcons.Outline.Briefcase-off |  | TablerIcons.Outline.Brightness |
+|  | TablerIcons.Outline.Brightness-2 |  | TablerIcons.Outline.Brightness-auto |  | TablerIcons.Outline.Brightness-down |
+|  | TablerIcons.Outline.Brightness-half |  | TablerIcons.Outline.Brightness-off |  | TablerIcons.Outline.Brightness-up |
+|  | TablerIcons.Outline.Broadcast |  | TablerIcons.Outline.Broadcast-off |  | TablerIcons.Outline.Browser |
+|  | TablerIcons.Outline.Browser-check |  | TablerIcons.Outline.Browser-maximize |  | TablerIcons.Outline.Browser-minus |
+|  | TablerIcons.Outline.Browser-off |  | TablerIcons.Outline.Browser-plus |  | TablerIcons.Outline.Browser-share |
+|  | TablerIcons.Outline.Browser-x |  | TablerIcons.Outline.Brush |  | TablerIcons.Outline.Brush-off |
+|  | TablerIcons.Outline.Bubble |  | TablerIcons.Outline.Bubble-minus |  | TablerIcons.Outline.Bubble-plus |
+|  | TablerIcons.Outline.Bubble-tea |  | TablerIcons.Outline.Bubble-tea-2 |  | TablerIcons.Outline.Bubble-text |
+|  | TablerIcons.Outline.Bubble-x |  | TablerIcons.Outline.Bucket |  | TablerIcons.Outline.Bucket-droplet |
+|  | TablerIcons.Outline.Bucket-off |  | TablerIcons.Outline.Bug |  | TablerIcons.Outline.Bug-off |
+|  | TablerIcons.Outline.Building |  | TablerIcons.Outline.Building-airport |  | TablerIcons.Outline.Building-arch |
+|  | TablerIcons.Outline.Building-bank |  | TablerIcons.Outline.Building-bridge |  | TablerIcons.Outline.Building-bridge-2 |
+|  | TablerIcons.Outline.Building-broadcast-tower |  | TablerIcons.Outline.Building-burj-al-arab |  | TablerIcons.Outline.Building-carousel |
+|  | TablerIcons.Outline.Building-castle |  | TablerIcons.Outline.Building-church |  | TablerIcons.Outline.Building-circus |
+|  | TablerIcons.Outline.Building-cog |  | TablerIcons.Outline.Building-community |  | TablerIcons.Outline.Building-cottage |
+|  | TablerIcons.Outline.Building-estate |  | TablerIcons.Outline.Building-factory |  | TablerIcons.Outline.Building-factory-2 |
+|  | TablerIcons.Outline.Building-fortress |  | TablerIcons.Outline.Building-hospital |  | TablerIcons.Outline.Building-lighthouse |
+|  | TablerIcons.Outline.Building-minus |  | TablerIcons.Outline.Building-monument |  | TablerIcons.Outline.Building-mosque |
+|  | TablerIcons.Outline.Building-off |  | TablerIcons.Outline.Building-pavilion |  | TablerIcons.Outline.Building-plus |
+|  | TablerIcons.Outline.Building-skyscraper |  | TablerIcons.Outline.Building-stadium |  | TablerIcons.Outline.Building-store |
+|  | TablerIcons.Outline.Building-tunnel |  | TablerIcons.Outline.Building-warehouse |  | TablerIcons.Outline.Building-wind-turbine |
+|  | TablerIcons.Outline.Buildings |  | TablerIcons.Outline.Bulb |  | TablerIcons.Outline.Bulb-off |
+|  | TablerIcons.Outline.Bulldozer |  | TablerIcons.Outline.Burger |  | TablerIcons.Outline.Bus |
+|  | TablerIcons.Outline.Bus-off |  | TablerIcons.Outline.Bus-stop |  | TablerIcons.Outline.Businessplan |
+|  | TablerIcons.Outline.Butterfly |  | TablerIcons.Outline.Cactus |  | TablerIcons.Outline.Cactus-off |
+|  | TablerIcons.Outline.Cake |  | TablerIcons.Outline.Cake-off |  | TablerIcons.Outline.Cake-roll |
+|  | TablerIcons.Outline.Calculator |  | TablerIcons.Outline.Calculator-off |  | TablerIcons.Outline.Calendar |
+|  | TablerIcons.Outline.Calendar-bolt |  | TablerIcons.Outline.Calendar-cancel |  | TablerIcons.Outline.Calendar-check |
+|  | TablerIcons.Outline.Calendar-clock |  | TablerIcons.Outline.Calendar-code |  | TablerIcons.Outline.Calendar-cog |
+|  | TablerIcons.Outline.Calendar-dollar |  | TablerIcons.Outline.Calendar-dot |  | TablerIcons.Outline.Calendar-down |
+|  | TablerIcons.Outline.Calendar-due |  | TablerIcons.Outline.Calendar-event |  | TablerIcons.Outline.Calendar-exclamation |
+|  | TablerIcons.Outline.Calendar-heart |  | TablerIcons.Outline.Calendar-minus |  | TablerIcons.Outline.Calendar-month |
+|  | TablerIcons.Outline.Calendar-off |  | TablerIcons.Outline.Calendar-pause |  | TablerIcons.Outline.Calendar-pin |
+|  | TablerIcons.Outline.Calendar-plus |  | TablerIcons.Outline.Calendar-question |  | TablerIcons.Outline.Calendar-repeat |
+|  | TablerIcons.Outline.Calendar-sad |  | TablerIcons.Outline.Calendar-search |  | TablerIcons.Outline.Calendar-share |
+|  | TablerIcons.Outline.Calendar-smile |  | TablerIcons.Outline.Calendar-star |  | TablerIcons.Outline.Calendar-stats |
+|  | TablerIcons.Outline.Calendar-time |  | TablerIcons.Outline.Calendar-up |  | TablerIcons.Outline.Calendar-user |
+|  | TablerIcons.Outline.Calendar-week |  | TablerIcons.Outline.Calendar-x |  | TablerIcons.Outline.Camera |
+|  | TablerIcons.Outline.Camera-ai |  | TablerIcons.Outline.Camera-bitcoin |  | TablerIcons.Outline.Camera-bolt |
+|  | TablerIcons.Outline.Camera-cancel |  | TablerIcons.Outline.Camera-check |  | TablerIcons.Outline.Camera-code |
+|  | TablerIcons.Outline.Camera-cog |  | TablerIcons.Outline.Camera-dollar |  | TablerIcons.Outline.Camera-down |
+|  | TablerIcons.Outline.Camera-exclamation |  | TablerIcons.Outline.Camera-heart |  | TablerIcons.Outline.Camera-minus |
+|  | TablerIcons.Outline.Camera-moon |  | TablerIcons.Outline.Camera-off |  | TablerIcons.Outline.Camera-pause |
+|  | TablerIcons.Outline.Camera-pin |  | TablerIcons.Outline.Camera-plus |  | TablerIcons.Outline.Camera-question |
+|  | TablerIcons.Outline.Camera-rotate |  | TablerIcons.Outline.Camera-search |  | TablerIcons.Outline.Camera-selfie |
+|  | TablerIcons.Outline.Camera-share |  | TablerIcons.Outline.Camera-spark |  | TablerIcons.Outline.Camera-star |
+|  | TablerIcons.Outline.Camera-up |  | TablerIcons.Outline.Camera-x |  | TablerIcons.Outline.Camper |
+|  | TablerIcons.Outline.Campfire |  | TablerIcons.Outline.Cancel |  | TablerIcons.Outline.Candle |
+|  | TablerIcons.Outline.Candy |  | TablerIcons.Outline.Candy-off |  | TablerIcons.Outline.Cane |
+|  | TablerIcons.Outline.Cannabis |  | TablerIcons.Outline.Cap-projecting |  | TablerIcons.Outline.Cap-rounded |
+|  | TablerIcons.Outline.Cap-straight |  | TablerIcons.Outline.Capsule |  | TablerIcons.Outline.Capsule-horizontal |
+|  | TablerIcons.Outline.Capture |  | TablerIcons.Outline.Capture-off |  | TablerIcons.Outline.Car |
+|  | TablerIcons.Outline.Car-4wd |  | TablerIcons.Outline.Car-crane |  | TablerIcons.Outline.Car-crash |
+|  | TablerIcons.Outline.Car-fan |  | TablerIcons.Outline.Car-fan-1 |  | TablerIcons.Outline.Car-fan-2 |
+|  | TablerIcons.Outline.Car-fan-3 |  | TablerIcons.Outline.Car-fan-auto |  | TablerIcons.Outline.Car-garage |
+|  | TablerIcons.Outline.Car-off |  | TablerIcons.Outline.Car-suv |  | TablerIcons.Outline.Car-turbine |
+|  | TablerIcons.Outline.Carambola |  | TablerIcons.Outline.Caravan |  | TablerIcons.Outline.Cardboards |
+|  | TablerIcons.Outline.Cardboards-off |  | TablerIcons.Outline.Cards |  | TablerIcons.Outline.Caret-down |
+|  | TablerIcons.Outline.Caret-left |  | TablerIcons.Outline.Caret-left-right |  | TablerIcons.Outline.Caret-right |
+|  | TablerIcons.Outline.Caret-up |  | TablerIcons.Outline.Caret-up-down |  | TablerIcons.Outline.Carousel-horizontal |
+|  | TablerIcons.Outline.Carousel-vertical |  | TablerIcons.Outline.Carrot |  | TablerIcons.Outline.Carrot-off |
+|  | TablerIcons.Outline.Cash |  | TablerIcons.Outline.Cash-banknote |  | TablerIcons.Outline.Cash-banknote-edit |
+|  | TablerIcons.Outline.Cash-banknote-heart |  | TablerIcons.Outline.Cash-banknote-minus |  | TablerIcons.Outline.Cash-banknote-move |
+|  | TablerIcons.Outline.Cash-banknote-move-back |  | TablerIcons.Outline.Cash-banknote-off |  | TablerIcons.Outline.Cash-banknote-plus |
+|  | TablerIcons.Outline.Cash-edit |  | TablerIcons.Outline.Cash-heart |  | TablerIcons.Outline.Cash-minus |
+|  | TablerIcons.Outline.Cash-move |  | TablerIcons.Outline.Cash-move-back |  | TablerIcons.Outline.Cash-off |
+|  | TablerIcons.Outline.Cash-plus |  | TablerIcons.Outline.Cash-register |  | TablerIcons.Outline.Cast |
+|  | TablerIcons.Outline.Cast-off |  | TablerIcons.Outline.Cat |  | TablerIcons.Outline.Category |
+|  | TablerIcons.Outline.Category-2 |  | TablerIcons.Outline.Category-minus |  | TablerIcons.Outline.Category-plus |
+|  | TablerIcons.Outline.Ce |  | TablerIcons.Outline.Ce-off |  | TablerIcons.Outline.Cell |
+|  | TablerIcons.Outline.Cell-signal-1 |  | TablerIcons.Outline.Cell-signal-2 |  | TablerIcons.Outline.Cell-signal-3 |
+|  | TablerIcons.Outline.Cell-signal-4 |  | TablerIcons.Outline.Cell-signal-5 |  | TablerIcons.Outline.Cell-signal-off |
+|  | TablerIcons.Outline.Certificate |  | TablerIcons.Outline.Certificate-2 |  | TablerIcons.Outline.Certificate-2-off |
+|  | TablerIcons.Outline.Certificate-off |  | TablerIcons.Outline.Chair-director |  | TablerIcons.Outline.Chalkboard |
+|  | TablerIcons.Outline.Chalkboard-off |  | TablerIcons.Outline.Chalkboard-teacher |  | TablerIcons.Outline.Charging-pile |
+|  | TablerIcons.Outline.Chart-arcs |  | TablerIcons.Outline.Chart-arcs-3 |  | TablerIcons.Outline.Chart-area |
+|  | TablerIcons.Outline.Chart-area-line |  | TablerIcons.Outline.Chart-arrows |  | TablerIcons.Outline.Chart-arrows-vertical |
+|  | TablerIcons.Outline.Chart-bar |  | TablerIcons.Outline.Chart-bar-off |  | TablerIcons.Outline.Chart-bar-popular |
+|  | TablerIcons.Outline.Chart-bubble |  | TablerIcons.Outline.Chart-candle |  | TablerIcons.Outline.Chart-circles |
+|  | TablerIcons.Outline.Chart-cohort |  | TablerIcons.Outline.Chart-column |  | TablerIcons.Outline.Chart-covariate |
+|  | TablerIcons.Outline.Chart-donut |  | TablerIcons.Outline.Chart-donut-2 |  | TablerIcons.Outline.Chart-donut-3 |
+|  | TablerIcons.Outline.Chart-donut-4 |  | TablerIcons.Outline.Chart-dots |  | TablerIcons.Outline.Chart-dots-2 |
+|  | TablerIcons.Outline.Chart-dots-3 |  | TablerIcons.Outline.Chart-funnel |  | TablerIcons.Outline.Chart-grid-dots |
+|  | TablerIcons.Outline.Chart-histogram |  | TablerIcons.Outline.Chart-infographic |  | TablerIcons.Outline.Chart-line |
+|  | TablerIcons.Outline.Chart-pie |  | TablerIcons.Outline.Chart-pie-2 |  | TablerIcons.Outline.Chart-pie-3 |
+|  | TablerIcons.Outline.Chart-pie-4 |  | TablerIcons.Outline.Chart-pie-off |  | TablerIcons.Outline.Chart-ppf |
+|  | TablerIcons.Outline.Chart-radar |  | TablerIcons.Outline.Chart-sankey |  | TablerIcons.Outline.Chart-scatter |
+|  | TablerIcons.Outline.Chart-scatter-3d |  | TablerIcons.Outline.Chart-treemap |  | TablerIcons.Outline.Check |
+|  | TablerIcons.Outline.Checkbox |  | TablerIcons.Outline.Checklist |  | TablerIcons.Outline.Checks |
+|  | TablerIcons.Outline.Checkup-list |  | TablerIcons.Outline.Cheese |  | TablerIcons.Outline.Chef-hat |
+|  | TablerIcons.Outline.Chef-hat-off |  | TablerIcons.Outline.Cherry |  | TablerIcons.Outline.Chess |
+|  | TablerIcons.Outline.Chess-bishop |  | TablerIcons.Outline.Chess-king |  | TablerIcons.Outline.Chess-knight |
+|  | TablerIcons.Outline.Chess-queen |  | TablerIcons.Outline.Chess-rook |  | TablerIcons.Outline.Chevron-compact-down |
+|  | TablerIcons.Outline.Chevron-compact-left |  | TablerIcons.Outline.Chevron-compact-right |  | TablerIcons.Outline.Chevron-compact-up |
+|  | TablerIcons.Outline.Chevron-down |  | TablerIcons.Outline.Chevron-down-left |  | TablerIcons.Outline.Chevron-down-right |
+|  | TablerIcons.Outline.Chevron-left |  | TablerIcons.Outline.Chevron-left-pipe |  | TablerIcons.Outline.Chevron-right |
+|  | TablerIcons.Outline.Chevron-right-pipe |  | TablerIcons.Outline.Chevron-up |  | TablerIcons.Outline.Chevron-up-left |
+|  | TablerIcons.Outline.Chevron-up-right |  | TablerIcons.Outline.Chevrons-down |  | TablerIcons.Outline.Chevrons-down-left |
+|  | TablerIcons.Outline.Chevrons-down-right |  | TablerIcons.Outline.Chevrons-left |  | TablerIcons.Outline.Chevrons-right |
+|  | TablerIcons.Outline.Chevrons-up |  | TablerIcons.Outline.Chevrons-up-left |  | TablerIcons.Outline.Chevrons-up-right |
+|  | TablerIcons.Outline.Chisel |  | TablerIcons.Outline.Christmas-ball |  | TablerIcons.Outline.Christmas-tree |
+|  | TablerIcons.Outline.Christmas-tree-off |  | TablerIcons.Outline.Circle |  | TablerIcons.Outline.Circle-arrow-down |
+|  | TablerIcons.Outline.Circle-arrow-down-left |  | TablerIcons.Outline.Circle-arrow-down-right |  | TablerIcons.Outline.Circle-arrow-left |
+|  | TablerIcons.Outline.Circle-arrow-right |  | TablerIcons.Outline.Circle-arrow-up |  | TablerIcons.Outline.Circle-arrow-up-left |
+|  | TablerIcons.Outline.Circle-arrow-up-right |  | TablerIcons.Outline.Circle-asterisk |  | TablerIcons.Outline.Circle-caret-down |
+|  | TablerIcons.Outline.Circle-caret-left |  | TablerIcons.Outline.Circle-caret-right |  | TablerIcons.Outline.Circle-caret-up |
+|  | TablerIcons.Outline.Circle-check |  | TablerIcons.Outline.Circle-chevron-down |  | TablerIcons.Outline.Circle-chevron-left |
+|  | TablerIcons.Outline.Circle-chevron-right |  | TablerIcons.Outline.Circle-chevron-up |  | TablerIcons.Outline.Circle-chevrons-down |
+|  | TablerIcons.Outline.Circle-chevrons-left |  | TablerIcons.Outline.Circle-chevrons-right |  | TablerIcons.Outline.Circle-chevrons-up |
+|  | TablerIcons.Outline.Circle-dashed |  | TablerIcons.Outline.Circle-dashed-check |  | TablerIcons.Outline.Circle-dashed-letter-a |
+|  | TablerIcons.Outline.Circle-dashed-letter-b |  | TablerIcons.Outline.Circle-dashed-letter-c |  | TablerIcons.Outline.Circle-dashed-letter-d |
+|  | TablerIcons.Outline.Circle-dashed-letter-e |  | TablerIcons.Outline.Circle-dashed-letter-f |  | TablerIcons.Outline.Circle-dashed-letter-g |
+|  | TablerIcons.Outline.Circle-dashed-letter-h |  | TablerIcons.Outline.Circle-dashed-letter-i |  | TablerIcons.Outline.Circle-dashed-letter-j |
+|  | TablerIcons.Outline.Circle-dashed-letter-k |  | TablerIcons.Outline.Circle-dashed-letter-l |  | TablerIcons.Outline.Circle-dashed-letter-m |
+|  | TablerIcons.Outline.Circle-dashed-letter-n |  | TablerIcons.Outline.Circle-dashed-letter-o |  | TablerIcons.Outline.Circle-dashed-letter-p |
+|  | TablerIcons.Outline.Circle-dashed-letter-q |  | TablerIcons.Outline.Circle-dashed-letter-r |  | TablerIcons.Outline.Circle-dashed-letter-s |
+|  | TablerIcons.Outline.Circle-dashed-letter-t |  | TablerIcons.Outline.Circle-dashed-letter-u |  | TablerIcons.Outline.Circle-dashed-letter-v |
+|  | TablerIcons.Outline.Circle-dashed-letter-w |  | TablerIcons.Outline.Circle-dashed-letter-x |  | TablerIcons.Outline.Circle-dashed-letter-y |
+|  | TablerIcons.Outline.Circle-dashed-letter-z |  | TablerIcons.Outline.Circle-dashed-minus |  | TablerIcons.Outline.Circle-dashed-number-0 |
+|  | TablerIcons.Outline.Circle-dashed-number-1 |  | TablerIcons.Outline.Circle-dashed-number-2 |  | TablerIcons.Outline.Circle-dashed-number-3 |
+|  | TablerIcons.Outline.Circle-dashed-number-4 |  | TablerIcons.Outline.Circle-dashed-number-5 |  | TablerIcons.Outline.Circle-dashed-number-6 |
+|  | TablerIcons.Outline.Circle-dashed-number-7 |  | TablerIcons.Outline.Circle-dashed-number-8 |  | TablerIcons.Outline.Circle-dashed-number-9 |
+|  | TablerIcons.Outline.Circle-dashed-percentage |  | TablerIcons.Outline.Circle-dashed-plus |  | TablerIcons.Outline.Circle-dashed-x |
+|  | TablerIcons.Outline.Circle-dot |  | TablerIcons.Outline.Circle-dotted |  | TablerIcons.Outline.Circle-dotted-letter-a |
+|  | TablerIcons.Outline.Circle-dotted-letter-b |  | TablerIcons.Outline.Circle-dotted-letter-c |  | TablerIcons.Outline.Circle-dotted-letter-d |
+|  | TablerIcons.Outline.Circle-dotted-letter-e |  | TablerIcons.Outline.Circle-dotted-letter-f |  | TablerIcons.Outline.Circle-dotted-letter-g |
+|  | TablerIcons.Outline.Circle-dotted-letter-h |  | TablerIcons.Outline.Circle-dotted-letter-i |  | TablerIcons.Outline.Circle-dotted-letter-j |
+|  | TablerIcons.Outline.Circle-dotted-letter-k |  | TablerIcons.Outline.Circle-dotted-letter-l |  | TablerIcons.Outline.Circle-dotted-letter-m |
+|  | TablerIcons.Outline.Circle-dotted-letter-n |  | TablerIcons.Outline.Circle-dotted-letter-o |  | TablerIcons.Outline.Circle-dotted-letter-p |
+|  | TablerIcons.Outline.Circle-dotted-letter-q |  | TablerIcons.Outline.Circle-dotted-letter-r |  | TablerIcons.Outline.Circle-dotted-letter-s |
+|  | TablerIcons.Outline.Circle-dotted-letter-t |  | TablerIcons.Outline.Circle-dotted-letter-u |  | TablerIcons.Outline.Circle-dotted-letter-v |
+|  | TablerIcons.Outline.Circle-dotted-letter-w |  | TablerIcons.Outline.Circle-dotted-letter-x |  | TablerIcons.Outline.Circle-dotted-letter-y |
+|  | TablerIcons.Outline.Circle-dotted-letter-z |  | TablerIcons.Outline.Circle-half |  | TablerIcons.Outline.Circle-half-2 |
+|  | TablerIcons.Outline.Circle-half-vertical |  | TablerIcons.Outline.Circle-key |  | TablerIcons.Outline.Circle-letter-a |
+|  | TablerIcons.Outline.Circle-letter-b |  | TablerIcons.Outline.Circle-letter-c |  | TablerIcons.Outline.Circle-letter-d |
+|  | TablerIcons.Outline.Circle-letter-e |  | TablerIcons.Outline.Circle-letter-f |  | TablerIcons.Outline.Circle-letter-g |
+|  | TablerIcons.Outline.Circle-letter-h |  | TablerIcons.Outline.Circle-letter-i |  | TablerIcons.Outline.Circle-letter-j |
+|  | TablerIcons.Outline.Circle-letter-k |  | TablerIcons.Outline.Circle-letter-l |  | TablerIcons.Outline.Circle-letter-m |
+|  | TablerIcons.Outline.Circle-letter-n |  | TablerIcons.Outline.Circle-letter-o |  | TablerIcons.Outline.Circle-letter-p |
+|  | TablerIcons.Outline.Circle-letter-q |  | TablerIcons.Outline.Circle-letter-r |  | TablerIcons.Outline.Circle-letter-s |
+|  | TablerIcons.Outline.Circle-letter-t |  | TablerIcons.Outline.Circle-letter-u |  | TablerIcons.Outline.Circle-letter-v |
+|  | TablerIcons.Outline.Circle-letter-w |  | TablerIcons.Outline.Circle-letter-x |  | TablerIcons.Outline.Circle-letter-y |
+|  | TablerIcons.Outline.Circle-letter-z |  | TablerIcons.Outline.Circle-minus |  | TablerIcons.Outline.Circle-minus-2 |
+|  | TablerIcons.Outline.Circle-number-0 |  | TablerIcons.Outline.Circle-number-1 |  | TablerIcons.Outline.Circle-number-2 |
+|  | TablerIcons.Outline.Circle-number-3 |  | TablerIcons.Outline.Circle-number-4 |  | TablerIcons.Outline.Circle-number-5 |
+|  | TablerIcons.Outline.Circle-number-6 |  | TablerIcons.Outline.Circle-number-7 |  | TablerIcons.Outline.Circle-number-8 |
+|  | TablerIcons.Outline.Circle-number-9 |  | TablerIcons.Outline.Circle-off |  | TablerIcons.Outline.Circle-percentage |
+|  | TablerIcons.Outline.Circle-plus |  | TablerIcons.Outline.Circle-plus-2 |  | TablerIcons.Outline.Circle-rectangle |
+|  | TablerIcons.Outline.Circle-rectangle-off |  | TablerIcons.Outline.Circle-square |  | TablerIcons.Outline.Circle-triangle |
+|  | TablerIcons.Outline.Circle-x |  | TablerIcons.Outline.Circles |  | TablerIcons.Outline.Circles-relation |
+|  | TablerIcons.Outline.Circuit-ammeter |  | TablerIcons.Outline.Circuit-battery |  | TablerIcons.Outline.Circuit-bulb |
+|  | TablerIcons.Outline.Circuit-capacitor |  | TablerIcons.Outline.Circuit-capacitor-polarized |  | TablerIcons.Outline.Circuit-cell |
+|  | TablerIcons.Outline.Circuit-cell-plus |  | TablerIcons.Outline.Circuit-changeover |  | TablerIcons.Outline.Circuit-diode |
+|  | TablerIcons.Outline.Circuit-diode-zener |  | TablerIcons.Outline.Circuit-ground |  | TablerIcons.Outline.Circuit-ground-digital |
+|  | TablerIcons.Outline.Circuit-inductor |  | TablerIcons.Outline.Circuit-motor |  | TablerIcons.Outline.Circuit-pushbutton |
+|  | TablerIcons.Outline.Circuit-resistor |  | TablerIcons.Outline.Circuit-switch-closed |  | TablerIcons.Outline.Circuit-switch-open |
+|  | TablerIcons.Outline.Circuit-voltmeter |  | TablerIcons.Outline.Clear-all |  | TablerIcons.Outline.Clear-formatting |
+|  | TablerIcons.Outline.Click |  | TablerIcons.Outline.Cliff-jumping |  | TablerIcons.Outline.Clipboard |
+|  | TablerIcons.Outline.Clipboard-check |  | TablerIcons.Outline.Clipboard-copy |  | TablerIcons.Outline.Clipboard-data |
+|  | TablerIcons.Outline.Clipboard-heart |  | TablerIcons.Outline.Clipboard-list |  | TablerIcons.Outline.Clipboard-off |
+|  | TablerIcons.Outline.Clipboard-plus |  | TablerIcons.Outline.Clipboard-search |  | TablerIcons.Outline.Clipboard-smile |
+|  | TablerIcons.Outline.Clipboard-text |  | TablerIcons.Outline.Clipboard-typography |  | TablerIcons.Outline.Clipboard-x |
+|  | TablerIcons.Outline.Clock |  | TablerIcons.Outline.Clock-12 |  | TablerIcons.Outline.Clock-2 |
+|  | TablerIcons.Outline.Clock-24 |  | TablerIcons.Outline.Clock-bitcoin |  | TablerIcons.Outline.Clock-bolt |
+|  | TablerIcons.Outline.Clock-cancel |  | TablerIcons.Outline.Clock-check |  | TablerIcons.Outline.Clock-code |
+|  | TablerIcons.Outline.Clock-cog |  | TablerIcons.Outline.Clock-dollar |  | TablerIcons.Outline.Clock-down |
+|  | TablerIcons.Outline.Clock-edit |  | TablerIcons.Outline.Clock-exclamation |  | TablerIcons.Outline.Clock-heart |
+|  | TablerIcons.Outline.Clock-hour-1 |  | TablerIcons.Outline.Clock-hour-10 |  | TablerIcons.Outline.Clock-hour-11 |
+|  | TablerIcons.Outline.Clock-hour-12 |  | TablerIcons.Outline.Clock-hour-2 |  | TablerIcons.Outline.Clock-hour-3 |
+|  | TablerIcons.Outline.Clock-hour-4 |  | TablerIcons.Outline.Clock-hour-5 |  | TablerIcons.Outline.Clock-hour-6 |
+|  | TablerIcons.Outline.Clock-hour-7 |  | TablerIcons.Outline.Clock-hour-8 |  | TablerIcons.Outline.Clock-hour-9 |
+|  | TablerIcons.Outline.Clock-minus |  | TablerIcons.Outline.Clock-off |  | TablerIcons.Outline.Clock-pause |
+|  | TablerIcons.Outline.Clock-pin |  | TablerIcons.Outline.Clock-play |  | TablerIcons.Outline.Clock-plus |
+|  | TablerIcons.Outline.Clock-question |  | TablerIcons.Outline.Clock-record |  | TablerIcons.Outline.Clock-search |
+|  | TablerIcons.Outline.Clock-share |  | TablerIcons.Outline.Clock-shield |  | TablerIcons.Outline.Clock-star |
+|  | TablerIcons.Outline.Clock-stop |  | TablerIcons.Outline.Clock-up |  | TablerIcons.Outline.Clock-x |
+|  | TablerIcons.Outline.Clothes-rack |  | TablerIcons.Outline.Clothes-rack-off |  | TablerIcons.Outline.Cloud |
+|  | TablerIcons.Outline.Cloud-bitcoin |  | TablerIcons.Outline.Cloud-bolt |  | TablerIcons.Outline.Cloud-cancel |
+|  | TablerIcons.Outline.Cloud-check |  | TablerIcons.Outline.Cloud-code |  | TablerIcons.Outline.Cloud-cog |
+|  | TablerIcons.Outline.Cloud-computing |  | TablerIcons.Outline.Cloud-data-connection |  | TablerIcons.Outline.Cloud-dollar |
+|  | TablerIcons.Outline.Cloud-down |  | TablerIcons.Outline.Cloud-download |  | TablerIcons.Outline.Cloud-exclamation |
+|  | TablerIcons.Outline.Cloud-fog |  | TablerIcons.Outline.Cloud-heart |  | TablerIcons.Outline.Cloud-lock |
+|  | TablerIcons.Outline.Cloud-lock-open |  | TablerIcons.Outline.Cloud-minus |  | TablerIcons.Outline.Cloud-network |
+|  | TablerIcons.Outline.Cloud-off |  | TablerIcons.Outline.Cloud-pause |  | TablerIcons.Outline.Cloud-pin |
+|  | TablerIcons.Outline.Cloud-plus |  | TablerIcons.Outline.Cloud-question |  | TablerIcons.Outline.Cloud-rain |
+|  | TablerIcons.Outline.Cloud-search |  | TablerIcons.Outline.Cloud-share |  | TablerIcons.Outline.Cloud-snow |
+|  | TablerIcons.Outline.Cloud-star |  | TablerIcons.Outline.Cloud-storm |  | TablerIcons.Outline.Cloud-up |
+|  | TablerIcons.Outline.Cloud-upload |  | TablerIcons.Outline.Cloud-x |  | TablerIcons.Outline.Clover |
+|  | TablerIcons.Outline.Clover-2 |  | TablerIcons.Outline.Clubs |  | TablerIcons.Outline.Code |
+|  | TablerIcons.Outline.Code-asterisk |  | TablerIcons.Outline.Code-circle |  | TablerIcons.Outline.Code-circle-2 |
+|  | TablerIcons.Outline.Code-dots |  | TablerIcons.Outline.Code-minus |  | TablerIcons.Outline.Code-off |
+|  | TablerIcons.Outline.Code-plus |  | TablerIcons.Outline.Code-variable |  | TablerIcons.Outline.Code-variable-minus |
+|  | TablerIcons.Outline.Code-variable-plus |  | TablerIcons.Outline.Coffee |  | TablerIcons.Outline.Coffee-off |
+|  | TablerIcons.Outline.Coffin |  | TablerIcons.Outline.Coin |  | TablerIcons.Outline.Coin-bitcoin |
+|  | TablerIcons.Outline.Coin-euro |  | TablerIcons.Outline.Coin-monero |  | TablerIcons.Outline.Coin-off |
+|  | TablerIcons.Outline.Coin-pound |  | TablerIcons.Outline.Coin-rupee |  | TablerIcons.Outline.Coin-taka |
+|  | TablerIcons.Outline.Coin-yen |  | TablerIcons.Outline.Coin-yuan |  | TablerIcons.Outline.Coins |
+|  | TablerIcons.Outline.Color-filter |  | TablerIcons.Outline.Color-picker |  | TablerIcons.Outline.Color-picker-off |
+|  | TablerIcons.Outline.Color-swatch |  | TablerIcons.Outline.Color-swatch-off |  | TablerIcons.Outline.Column-insert-left |
+|  | TablerIcons.Outline.Column-insert-right |  | TablerIcons.Outline.Column-remove |  | TablerIcons.Outline.Columns |
+|  | TablerIcons.Outline.Columns-1 |  | TablerIcons.Outline.Columns-2 |  | TablerIcons.Outline.Columns-3 |
+|  | TablerIcons.Outline.Columns-off |  | TablerIcons.Outline.Comet |  | TablerIcons.Outline.Command |
+|  | TablerIcons.Outline.Command-off |  | TablerIcons.Outline.Compass |  | TablerIcons.Outline.Compass-off |
+|  | TablerIcons.Outline.Components |  | TablerIcons.Outline.Components-off |  | TablerIcons.Outline.Cone |
+|  | TablerIcons.Outline.Cone-2 |  | TablerIcons.Outline.Cone-off |  | TablerIcons.Outline.Cone-plus |
+|  | TablerIcons.Outline.Confetti |  | TablerIcons.Outline.Confetti-off |  | TablerIcons.Outline.Confucius |
+|  | TablerIcons.Outline.Congruent-to |  | TablerIcons.Outline.Container |  | TablerIcons.Outline.Container-off |
+|  | TablerIcons.Outline.Contract |  | TablerIcons.Outline.Contrast |  | TablerIcons.Outline.Contrast-2 |
+|  | TablerIcons.Outline.Contrast-2-off |  | TablerIcons.Outline.Contrast-off |  | TablerIcons.Outline.Cooker |
+|  | TablerIcons.Outline.Cookie |  | TablerIcons.Outline.Cookie-man |  | TablerIcons.Outline.Cookie-off |
+|  | TablerIcons.Outline.Copy |  | TablerIcons.Outline.Copy-check |  | TablerIcons.Outline.Copy-minus |
+|  | TablerIcons.Outline.Copy-off |  | TablerIcons.Outline.Copy-plus |  | TablerIcons.Outline.Copy-x |
+|  | TablerIcons.Outline.Copyleft |  | TablerIcons.Outline.Copyleft-off |  | TablerIcons.Outline.Copyright |
+|  | TablerIcons.Outline.Copyright-off |  | TablerIcons.Outline.Corner-down-left |  | TablerIcons.Outline.Corner-down-left-double |
+|  | TablerIcons.Outline.Corner-down-right |  | TablerIcons.Outline.Corner-down-right-double |  | TablerIcons.Outline.Corner-left-down |
+|  | TablerIcons.Outline.Corner-left-down-double |  | TablerIcons.Outline.Corner-left-up |  | TablerIcons.Outline.Corner-left-up-double |
+|  | TablerIcons.Outline.Corner-right-down |  | TablerIcons.Outline.Corner-right-down-double |  | TablerIcons.Outline.Corner-right-up |
+|  | TablerIcons.Outline.Corner-right-up-double |  | TablerIcons.Outline.Corner-up-left |  | TablerIcons.Outline.Corner-up-left-double |
+|  | TablerIcons.Outline.Corner-up-right |  | TablerIcons.Outline.Corner-up-right-double |  | TablerIcons.Outline.Cpu |
+|  | TablerIcons.Outline.Cpu-2 |  | TablerIcons.Outline.Cpu-off |  | TablerIcons.Outline.Crane |
+|  | TablerIcons.Outline.Crane-off |  | TablerIcons.Outline.Creative-commons |  | TablerIcons.Outline.Creative-commons-by |
+|  | TablerIcons.Outline.Creative-commons-nc |  | TablerIcons.Outline.Creative-commons-nd |  | TablerIcons.Outline.Creative-commons-off |
+|  | TablerIcons.Outline.Creative-commons-sa |  | TablerIcons.Outline.Creative-commons-zero |  | TablerIcons.Outline.Credit-card |
+|  | TablerIcons.Outline.Credit-card-off |  | TablerIcons.Outline.Credit-card-pay |  | TablerIcons.Outline.Credit-card-refund |
+|  | TablerIcons.Outline.Cricket |  | TablerIcons.Outline.Crop |  | TablerIcons.Outline.Crop-1-1 |
+|  | TablerIcons.Outline.Crop-16-9 |  | TablerIcons.Outline.Crop-3-2 |  | TablerIcons.Outline.Crop-5-4 |
+|  | TablerIcons.Outline.Crop-7-5 |  | TablerIcons.Outline.Crop-landscape |  | TablerIcons.Outline.Crop-portrait |
+|  | TablerIcons.Outline.Cross |  | TablerIcons.Outline.Cross-off |  | TablerIcons.Outline.Crosshair |
+|  | TablerIcons.Outline.Crown |  | TablerIcons.Outline.Crown-off |  | TablerIcons.Outline.Crutches |
+|  | TablerIcons.Outline.Crutches-off |  | TablerIcons.Outline.Crystal-ball |  | TablerIcons.Outline.Csv |
+|  | TablerIcons.Outline.Cube |  | TablerIcons.Outline.Cube-3d-sphere |  | TablerIcons.Outline.Cube-3d-sphere-off |
+|  | TablerIcons.Outline.Cube-off |  | TablerIcons.Outline.Cube-plus |  | TablerIcons.Outline.Cube-send |
+|  | TablerIcons.Outline.Cube-spark |  | TablerIcons.Outline.Cube-unfolded |  | TablerIcons.Outline.Cup |
+|  | TablerIcons.Outline.Cup-off |  | TablerIcons.Outline.Curling |  | TablerIcons.Outline.Curly-loop |
+|  | TablerIcons.Outline.Currency |  | TablerIcons.Outline.Currency-afghani |  | TablerIcons.Outline.Currency-bahraini |
+|  | TablerIcons.Outline.Currency-baht |  | TablerIcons.Outline.Currency-bitcoin |  | TablerIcons.Outline.Currency-cent |
+|  | TablerIcons.Outline.Currency-dinar |  | TablerIcons.Outline.Currency-dirham |  | TablerIcons.Outline.Currency-dogecoin |
+|  | TablerIcons.Outline.Currency-dollar |  | TablerIcons.Outline.Currency-dollar-australian |  | TablerIcons.Outline.Currency-dollar-brunei |
+|  | TablerIcons.Outline.Currency-dollar-canadian |  | TablerIcons.Outline.Currency-dollar-guyanese |  | TablerIcons.Outline.Currency-dollar-off |
+|  | TablerIcons.Outline.Currency-dollar-singapore |  | TablerIcons.Outline.Currency-dollar-zimbabwean |  | TablerIcons.Outline.Currency-dong |
+|  | TablerIcons.Outline.Currency-dram |  | TablerIcons.Outline.Currency-ethereum |  | TablerIcons.Outline.Currency-euro |
+|  | TablerIcons.Outline.Currency-euro-off |  | TablerIcons.Outline.Currency-florin |  | TablerIcons.Outline.Currency-forint |
+|  | TablerIcons.Outline.Currency-frank |  | TablerIcons.Outline.Currency-guarani |  | TablerIcons.Outline.Currency-hryvnia |
+|  | TablerIcons.Outline.Currency-iranian-rial |  | TablerIcons.Outline.Currency-kip |  | TablerIcons.Outline.Currency-krone-czech |
+|  | TablerIcons.Outline.Currency-krone-danish |  | TablerIcons.Outline.Currency-krone-swedish |  | TablerIcons.Outline.Currency-lari |
+|  | TablerIcons.Outline.Currency-leu |  | TablerIcons.Outline.Currency-lira |  | TablerIcons.Outline.Currency-litecoin |
+|  | TablerIcons.Outline.Currency-lyd |  | TablerIcons.Outline.Currency-manat |  | TablerIcons.Outline.Currency-monero |
+|  | TablerIcons.Outline.Currency-naira |  | TablerIcons.Outline.Currency-nano |  | TablerIcons.Outline.Currency-off |
+|  | TablerIcons.Outline.Currency-paanga |  | TablerIcons.Outline.Currency-peso |  | TablerIcons.Outline.Currency-pound |
+|  | TablerIcons.Outline.Currency-pound-off |  | TablerIcons.Outline.Currency-quetzal |  | TablerIcons.Outline.Currency-real |
+|  | TablerIcons.Outline.Currency-renminbi |  | TablerIcons.Outline.Currency-ripple |  | TablerIcons.Outline.Currency-riyal |
+|  | TablerIcons.Outline.Currency-rubel |  | TablerIcons.Outline.Currency-rufiyaa |  | TablerIcons.Outline.Currency-rupee |
+|  | TablerIcons.Outline.Currency-rupee-nepalese |  | TablerIcons.Outline.Currency-shekel |  | TablerIcons.Outline.Currency-solana |
+|  | TablerIcons.Outline.Currency-som |  | TablerIcons.Outline.Currency-taka |  | TablerIcons.Outline.Currency-tenge |
+|  | TablerIcons.Outline.Currency-tugrik |  | TablerIcons.Outline.Currency-won |  | TablerIcons.Outline.Currency-xrp |
+|  | TablerIcons.Outline.Currency-yen |  | TablerIcons.Outline.Currency-yen-off |  | TablerIcons.Outline.Currency-yuan |
+|  | TablerIcons.Outline.Currency-zloty |  | TablerIcons.Outline.Current-location |  | TablerIcons.Outline.Current-location-off |
+|  | TablerIcons.Outline.Cursor-off |  | TablerIcons.Outline.Cursor-text |  | TablerIcons.Outline.Cut |
+|  | TablerIcons.Outline.Cylinder |  | TablerIcons.Outline.Cylinder-off |  | TablerIcons.Outline.Cylinder-plus |
+|  | TablerIcons.Outline.Dashboard |  | TablerIcons.Outline.Dashboard-off |  | TablerIcons.Outline.Database |
+|  | TablerIcons.Outline.Database-cog |  | TablerIcons.Outline.Database-dollar |  | TablerIcons.Outline.Database-edit |
+|  | TablerIcons.Outline.Database-exclamation |  | TablerIcons.Outline.Database-export |  | TablerIcons.Outline.Database-heart |
+|  | TablerIcons.Outline.Database-import |  | TablerIcons.Outline.Database-leak |  | TablerIcons.Outline.Database-minus |
+|  | TablerIcons.Outline.Database-off |  | TablerIcons.Outline.Database-plus |  | TablerIcons.Outline.Database-search |
+|  | TablerIcons.Outline.Database-share |  | TablerIcons.Outline.Database-smile |  | TablerIcons.Outline.Database-star |
+|  | TablerIcons.Outline.Database-x |  | TablerIcons.Outline.Deaf |  | TablerIcons.Outline.Decimal |
+|  | TablerIcons.Outline.Deer |  | TablerIcons.Outline.Delta |  | TablerIcons.Outline.Dental |
+|  | TablerIcons.Outline.Dental-broken |  | TablerIcons.Outline.Dental-off |  | TablerIcons.Outline.Deselect |
+|  | TablerIcons.Outline.Desk |  | TablerIcons.Outline.Details |  | TablerIcons.Outline.Details-off |
+|  | TablerIcons.Outline.Device-airpods |  | TablerIcons.Outline.Device-airpods-case |  | TablerIcons.Outline.Device-airtag |
+|  | TablerIcons.Outline.Device-analytics |  | TablerIcons.Outline.Device-audio-tape |  | TablerIcons.Outline.Device-camera-phone |
+|  | TablerIcons.Outline.Device-cctv |  | TablerIcons.Outline.Device-cctv-off |  | TablerIcons.Outline.Device-computer-camera |
+|  | TablerIcons.Outline.Device-computer-camera-off |  | TablerIcons.Outline.Device-desktop |  | TablerIcons.Outline.Device-desktop-analytics |
+|  | TablerIcons.Outline.Device-desktop-bolt |  | TablerIcons.Outline.Device-desktop-cancel |  | TablerIcons.Outline.Device-desktop-check |
+|  | TablerIcons.Outline.Device-desktop-code |  | TablerIcons.Outline.Device-desktop-cog |  | TablerIcons.Outline.Device-desktop-dollar |
+|  | TablerIcons.Outline.Device-desktop-down |  | TablerIcons.Outline.Device-desktop-exclamation |  | TablerIcons.Outline.Device-desktop-heart |
+|  | TablerIcons.Outline.Device-desktop-minus |  | TablerIcons.Outline.Device-desktop-off |  | TablerIcons.Outline.Device-desktop-pause |
+|  | TablerIcons.Outline.Device-desktop-pin |  | TablerIcons.Outline.Device-desktop-plus |  | TablerIcons.Outline.Device-desktop-question |
+|  | TablerIcons.Outline.Device-desktop-search |  | TablerIcons.Outline.Device-desktop-share |  | TablerIcons.Outline.Device-desktop-star |
+|  | TablerIcons.Outline.Device-desktop-up |  | TablerIcons.Outline.Device-desktop-x |  | TablerIcons.Outline.Device-floppy |
+|  | TablerIcons.Outline.Device-gamepad |  | TablerIcons.Outline.Device-gamepad-2 |  | TablerIcons.Outline.Device-gamepad-3 |
+|  | TablerIcons.Outline.Device-heart-monitor |  | TablerIcons.Outline.Device-imac |  | TablerIcons.Outline.Device-imac-bolt |
+|  | TablerIcons.Outline.Device-imac-cancel |  | TablerIcons.Outline.Device-imac-check |  | TablerIcons.Outline.Device-imac-code |
+|  | TablerIcons.Outline.Device-imac-cog |  | TablerIcons.Outline.Device-imac-dollar |  | TablerIcons.Outline.Device-imac-down |
+|  | TablerIcons.Outline.Device-imac-exclamation |  | TablerIcons.Outline.Device-imac-heart |  | TablerIcons.Outline.Device-imac-minus |
+|  | TablerIcons.Outline.Device-imac-off |  | TablerIcons.Outline.Device-imac-pause |  | TablerIcons.Outline.Device-imac-pin |
+|  | TablerIcons.Outline.Device-imac-plus |  | TablerIcons.Outline.Device-imac-question |  | TablerIcons.Outline.Device-imac-search |
+|  | TablerIcons.Outline.Device-imac-share |  | TablerIcons.Outline.Device-imac-star |  | TablerIcons.Outline.Device-imac-up |
+|  | TablerIcons.Outline.Device-imac-x |  | TablerIcons.Outline.Device-ipad |  | TablerIcons.Outline.Device-ipad-bolt |
+|  | TablerIcons.Outline.Device-ipad-cancel |  | TablerIcons.Outline.Device-ipad-check |  | TablerIcons.Outline.Device-ipad-code |
+|  | TablerIcons.Outline.Device-ipad-cog |  | TablerIcons.Outline.Device-ipad-dollar |  | TablerIcons.Outline.Device-ipad-down |
+|  | TablerIcons.Outline.Device-ipad-exclamation |  | TablerIcons.Outline.Device-ipad-heart |  | TablerIcons.Outline.Device-ipad-horizontal |
+|  | TablerIcons.Outline.Device-ipad-horizontal-bolt |  | TablerIcons.Outline.Device-ipad-horizontal-cancel |  | TablerIcons.Outline.Device-ipad-horizontal-check |
+|  | TablerIcons.Outline.Device-ipad-horizontal-code |  | TablerIcons.Outline.Device-ipad-horizontal-cog |  | TablerIcons.Outline.Device-ipad-horizontal-dollar |
+|  | TablerIcons.Outline.Device-ipad-horizontal-down |  | TablerIcons.Outline.Device-ipad-horizontal-exclamation |  | TablerIcons.Outline.Device-ipad-horizontal-heart |
+|  | TablerIcons.Outline.Device-ipad-horizontal-minus |  | TablerIcons.Outline.Device-ipad-horizontal-off |  | TablerIcons.Outline.Device-ipad-horizontal-pause |
+|  | TablerIcons.Outline.Device-ipad-horizontal-pin |  | TablerIcons.Outline.Device-ipad-horizontal-plus |  | TablerIcons.Outline.Device-ipad-horizontal-question |
+|  | TablerIcons.Outline.Device-ipad-horizontal-search |  | TablerIcons.Outline.Device-ipad-horizontal-share |  | TablerIcons.Outline.Device-ipad-horizontal-star |
+|  | TablerIcons.Outline.Device-ipad-horizontal-up |  | TablerIcons.Outline.Device-ipad-horizontal-x |  | TablerIcons.Outline.Device-ipad-minus |
+|  | TablerIcons.Outline.Device-ipad-off |  | TablerIcons.Outline.Device-ipad-pause |  | TablerIcons.Outline.Device-ipad-pin |
+|  | TablerIcons.Outline.Device-ipad-plus |  | TablerIcons.Outline.Device-ipad-question |  | TablerIcons.Outline.Device-ipad-search |
+|  | TablerIcons.Outline.Device-ipad-share |  | TablerIcons.Outline.Device-ipad-star |  | TablerIcons.Outline.Device-ipad-up |
+|  | TablerIcons.Outline.Device-ipad-x |  | TablerIcons.Outline.Device-landline-phone |  | TablerIcons.Outline.Device-laptop |
+|  | TablerIcons.Outline.Device-laptop-off |  | TablerIcons.Outline.Device-mobile |  | TablerIcons.Outline.Device-mobile-bolt |
+|  | TablerIcons.Outline.Device-mobile-cancel |  | TablerIcons.Outline.Device-mobile-charging |  | TablerIcons.Outline.Device-mobile-check |
+|  | TablerIcons.Outline.Device-mobile-code |  | TablerIcons.Outline.Device-mobile-cog |  | TablerIcons.Outline.Device-mobile-dollar |
+|  | TablerIcons.Outline.Device-mobile-down |  | TablerIcons.Outline.Device-mobile-exclamation |  | TablerIcons.Outline.Device-mobile-heart |
+|  | TablerIcons.Outline.Device-mobile-message |  | TablerIcons.Outline.Device-mobile-minus |  | TablerIcons.Outline.Device-mobile-off |
+|  | TablerIcons.Outline.Device-mobile-pause |  | TablerIcons.Outline.Device-mobile-pin |  | TablerIcons.Outline.Device-mobile-plus |
+|  | TablerIcons.Outline.Device-mobile-question |  | TablerIcons.Outline.Device-mobile-rotated |  | TablerIcons.Outline.Device-mobile-search |
+|  | TablerIcons.Outline.Device-mobile-share |  | TablerIcons.Outline.Device-mobile-star |  | TablerIcons.Outline.Device-mobile-up |
+|  | TablerIcons.Outline.Device-mobile-vibration |  | TablerIcons.Outline.Device-mobile-x |  | TablerIcons.Outline.Device-nintendo |
+|  | TablerIcons.Outline.Device-nintendo-off |  | TablerIcons.Outline.Device-projector |  | TablerIcons.Outline.Device-remote |
+|  | TablerIcons.Outline.Device-sd-card |  | TablerIcons.Outline.Device-sim |  | TablerIcons.Outline.Device-sim-1 |
+|  | TablerIcons.Outline.Device-sim-2 |  | TablerIcons.Outline.Device-sim-3 |  | TablerIcons.Outline.Device-speaker |
+|  | TablerIcons.Outline.Device-speaker-off |  | TablerIcons.Outline.Device-tablet |  | TablerIcons.Outline.Device-tablet-bolt |
+|  | TablerIcons.Outline.Device-tablet-cancel |  | TablerIcons.Outline.Device-tablet-check |  | TablerIcons.Outline.Device-tablet-code |
+|  | TablerIcons.Outline.Device-tablet-cog |  | TablerIcons.Outline.Device-tablet-dollar |  | TablerIcons.Outline.Device-tablet-down |
+|  | TablerIcons.Outline.Device-tablet-exclamation |  | TablerIcons.Outline.Device-tablet-heart |  | TablerIcons.Outline.Device-tablet-minus |
+|  | TablerIcons.Outline.Device-tablet-off |  | TablerIcons.Outline.Device-tablet-pause |  | TablerIcons.Outline.Device-tablet-pin |
+|  | TablerIcons.Outline.Device-tablet-plus |  | TablerIcons.Outline.Device-tablet-question |  | TablerIcons.Outline.Device-tablet-search |
+|  | TablerIcons.Outline.Device-tablet-share |  | TablerIcons.Outline.Device-tablet-star |  | TablerIcons.Outline.Device-tablet-up |
+|  | TablerIcons.Outline.Device-tablet-x |  | TablerIcons.Outline.Device-tv |  | TablerIcons.Outline.Device-tv-off |
+|  | TablerIcons.Outline.Device-tv-old |  | TablerIcons.Outline.Device-unknown |  | TablerIcons.Outline.Device-usb |
+|  | TablerIcons.Outline.Device-vision-pro |  | TablerIcons.Outline.Device-watch |  | TablerIcons.Outline.Device-watch-bolt |
+|  | TablerIcons.Outline.Device-watch-cancel |  | TablerIcons.Outline.Device-watch-check |  | TablerIcons.Outline.Device-watch-code |
+|  | TablerIcons.Outline.Device-watch-cog |  | TablerIcons.Outline.Device-watch-dollar |  | TablerIcons.Outline.Device-watch-down |
+|  | TablerIcons.Outline.Device-watch-exclamation |  | TablerIcons.Outline.Device-watch-heart |  | TablerIcons.Outline.Device-watch-minus |
+|  | TablerIcons.Outline.Device-watch-off |  | TablerIcons.Outline.Device-watch-pause |  | TablerIcons.Outline.Device-watch-pin |
+|  | TablerIcons.Outline.Device-watch-plus |  | TablerIcons.Outline.Device-watch-question |  | TablerIcons.Outline.Device-watch-search |
+|  | TablerIcons.Outline.Device-watch-share |  | TablerIcons.Outline.Device-watch-star |  | TablerIcons.Outline.Device-watch-stats |
+|  | TablerIcons.Outline.Device-watch-stats-2 |  | TablerIcons.Outline.Device-watch-up |  | TablerIcons.Outline.Device-watch-x |
+|  | TablerIcons.Outline.Devices |  | TablerIcons.Outline.Devices-2 |  | TablerIcons.Outline.Devices-bolt |
+|  | TablerIcons.Outline.Devices-cancel |  | TablerIcons.Outline.Devices-check |  | TablerIcons.Outline.Devices-code |
+|  | TablerIcons.Outline.Devices-cog |  | TablerIcons.Outline.Devices-dollar |  | TablerIcons.Outline.Devices-down |
+|  | TablerIcons.Outline.Devices-exclamation |  | TablerIcons.Outline.Devices-heart |  | TablerIcons.Outline.Devices-minus |
+|  | TablerIcons.Outline.Devices-off |  | TablerIcons.Outline.Devices-pause |  | TablerIcons.Outline.Devices-pc |
+|  | TablerIcons.Outline.Devices-pc-off |  | TablerIcons.Outline.Devices-pin |  | TablerIcons.Outline.Devices-plus |
+|  | TablerIcons.Outline.Devices-question |  | TablerIcons.Outline.Devices-search |  | TablerIcons.Outline.Devices-share |
+|  | TablerIcons.Outline.Devices-star |  | TablerIcons.Outline.Devices-up |  | TablerIcons.Outline.Devices-x |
+|  | TablerIcons.Outline.Diabolo |  | TablerIcons.Outline.Diabolo-off |  | TablerIcons.Outline.Diabolo-plus |
+|  | TablerIcons.Outline.Dialpad |  | TablerIcons.Outline.Dialpad-off |  | TablerIcons.Outline.Diamond |
+|  | TablerIcons.Outline.Diamond-off |  | TablerIcons.Outline.Diamonds |  | TablerIcons.Outline.Diaper |
+|  | TablerIcons.Outline.Dice |  | TablerIcons.Outline.Dice-1 |  | TablerIcons.Outline.Dice-2 |
+|  | TablerIcons.Outline.Dice-3 |  | TablerIcons.Outline.Dice-4 |  | TablerIcons.Outline.Dice-5 |
+|  | TablerIcons.Outline.Dice-6 |  | TablerIcons.Outline.Dimensions |  | TablerIcons.Outline.Direction |
+|  | TablerIcons.Outline.Direction-arrows |  | TablerIcons.Outline.Direction-horizontal |  | TablerIcons.Outline.Direction-sign |
+|  | TablerIcons.Outline.Direction-sign-off |  | TablerIcons.Outline.Directions |  | TablerIcons.Outline.Directions-off |
+|  | TablerIcons.Outline.Disabled |  | TablerIcons.Outline.Disabled-2 |  | TablerIcons.Outline.Disabled-off |
+|  | TablerIcons.Outline.Disc |  | TablerIcons.Outline.Disc-golf |  | TablerIcons.Outline.Disc-off |
+|  | TablerIcons.Outline.Discount |  | TablerIcons.Outline.Discount-off |  | TablerIcons.Outline.Divide |
+|  | TablerIcons.Outline.Dna |  | TablerIcons.Outline.Dna-2 |  | TablerIcons.Outline.Dna-2-off |
+|  | TablerIcons.Outline.Dna-off |  | TablerIcons.Outline.Dog |  | TablerIcons.Outline.Dog-bowl |
+|  | TablerIcons.Outline.Door |  | TablerIcons.Outline.Door-enter |  | TablerIcons.Outline.Door-exit |
+|  | TablerIcons.Outline.Door-off |  | TablerIcons.Outline.Dots |  | TablerIcons.Outline.Dots-circle-horizontal |
+|  | TablerIcons.Outline.Dots-diagonal |  | TablerIcons.Outline.Dots-diagonal-2 |  | TablerIcons.Outline.Dots-vertical |
+|  | TablerIcons.Outline.Download |  | TablerIcons.Outline.Download-off |  | TablerIcons.Outline.Drag-drop |
+|  | TablerIcons.Outline.Drag-drop-2 |  | TablerIcons.Outline.Drone |  | TablerIcons.Outline.Drone-off |
+|  | TablerIcons.Outline.Drop-circle |  | TablerIcons.Outline.Droplet |  | TablerIcons.Outline.Droplet-bolt |
+|  | TablerIcons.Outline.Droplet-cancel |  | TablerIcons.Outline.Droplet-check |  | TablerIcons.Outline.Droplet-code |
+|  | TablerIcons.Outline.Droplet-cog |  | TablerIcons.Outline.Droplet-dollar |  | TablerIcons.Outline.Droplet-down |
+|  | TablerIcons.Outline.Droplet-exclamation |  | TablerIcons.Outline.Droplet-half |  | TablerIcons.Outline.Droplet-half-2 |
+|  | TablerIcons.Outline.Droplet-heart |  | TablerIcons.Outline.Droplet-minus |  | TablerIcons.Outline.Droplet-off |
+|  | TablerIcons.Outline.Droplet-pause |  | TablerIcons.Outline.Droplet-pin |  | TablerIcons.Outline.Droplet-plus |
+|  | TablerIcons.Outline.Droplet-question |  | TablerIcons.Outline.Droplet-search |  | TablerIcons.Outline.Droplet-share |
+|  | TablerIcons.Outline.Droplet-star |  | TablerIcons.Outline.Droplet-up |  | TablerIcons.Outline.Droplet-x |
+|  | TablerIcons.Outline.Droplets |  | TablerIcons.Outline.Dual-screen |  | TablerIcons.Outline.Dumpling |
+|  | TablerIcons.Outline.E-passport |  | TablerIcons.Outline.Ear |  | TablerIcons.Outline.Ear-off |
+|  | TablerIcons.Outline.Ear-scan |  | TablerIcons.Outline.Ease-in |  | TablerIcons.Outline.Ease-in-control-point |
+|  | TablerIcons.Outline.Ease-in-out |  | TablerIcons.Outline.Ease-in-out-control-points |  | TablerIcons.Outline.Ease-out |
+|  | TablerIcons.Outline.Ease-out-control-point |  | TablerIcons.Outline.Edit |  | TablerIcons.Outline.Edit-circle |
+|  | TablerIcons.Outline.Edit-circle-off |  | TablerIcons.Outline.Edit-off |  | TablerIcons.Outline.Egg |
+|  | TablerIcons.Outline.Egg-cracked |  | TablerIcons.Outline.Egg-fried |  | TablerIcons.Outline.Egg-off |
+|  | TablerIcons.Outline.Eggs |  | TablerIcons.Outline.Elevator |  | TablerIcons.Outline.Elevator-off |
+|  | TablerIcons.Outline.Emergency-bed |  | TablerIcons.Outline.Empathize |  | TablerIcons.Outline.Empathize-off |
+|  | TablerIcons.Outline.Emphasis |  | TablerIcons.Outline.Engine |  | TablerIcons.Outline.Engine-off |
+|  | TablerIcons.Outline.Equal |  | TablerIcons.Outline.Equal-double |  | TablerIcons.Outline.Equal-not |
+|  | TablerIcons.Outline.Eraser |  | TablerIcons.Outline.Eraser-off |  | TablerIcons.Outline.Error-404 |
+|  | TablerIcons.Outline.Error-404-off |  | TablerIcons.Outline.Escalator |  | TablerIcons.Outline.Escalator-down |
+|  | TablerIcons.Outline.Escalator-up |  | TablerIcons.Outline.Exchange |  | TablerIcons.Outline.Exchange-off |
+|  | TablerIcons.Outline.Exclamation-circle |  | TablerIcons.Outline.Exclamation-mark |  | TablerIcons.Outline.Exclamation-mark-off |
+|  | TablerIcons.Outline.Explicit |  | TablerIcons.Outline.Explicit-off |  | TablerIcons.Outline.Exposure |
+|  | TablerIcons.Outline.Exposure-0 |  | TablerIcons.Outline.Exposure-minus-1 |  | TablerIcons.Outline.Exposure-minus-2 |
+|  | TablerIcons.Outline.Exposure-off |  | TablerIcons.Outline.Exposure-plus-1 |  | TablerIcons.Outline.Exposure-plus-2 |
+|  | TablerIcons.Outline.External-link |  | TablerIcons.Outline.External-link-off |  | TablerIcons.Outline.Eye |
+|  | TablerIcons.Outline.Eye-bitcoin |  | TablerIcons.Outline.Eye-bolt |  | TablerIcons.Outline.Eye-cancel |
+|  | TablerIcons.Outline.Eye-check |  | TablerIcons.Outline.Eye-closed |  | TablerIcons.Outline.Eye-code |
+|  | TablerIcons.Outline.Eye-cog |  | TablerIcons.Outline.Eye-discount |  | TablerIcons.Outline.Eye-dollar |
+|  | TablerIcons.Outline.Eye-dotted |  | TablerIcons.Outline.Eye-down |  | TablerIcons.Outline.Eye-edit |
+|  | TablerIcons.Outline.Eye-exclamation |  | TablerIcons.Outline.Eye-heart |  | TablerIcons.Outline.Eye-minus |
+|  | TablerIcons.Outline.Eye-off |  | TablerIcons.Outline.Eye-pause |  | TablerIcons.Outline.Eye-pin |
+|  | TablerIcons.Outline.Eye-plus |  | TablerIcons.Outline.Eye-question |  | TablerIcons.Outline.Eye-search |
+|  | TablerIcons.Outline.Eye-share |  | TablerIcons.Outline.Eye-spark |  | TablerIcons.Outline.Eye-star |
+|  | TablerIcons.Outline.Eye-table |  | TablerIcons.Outline.Eye-up |  | TablerIcons.Outline.Eye-x |
+|  | TablerIcons.Outline.Eyeglass |  | TablerIcons.Outline.Eyeglass-2 |  | TablerIcons.Outline.Eyeglass-off |
+|  | TablerIcons.Outline.Face-id |  | TablerIcons.Outline.Face-id-error |  | TablerIcons.Outline.Face-mask |
+|  | TablerIcons.Outline.Face-mask-off |  | TablerIcons.Outline.Fall |  | TablerIcons.Outline.Favicon |
+|  | TablerIcons.Outline.Feather |  | TablerIcons.Outline.Feather-off |  | TablerIcons.Outline.Fence |
+|  | TablerIcons.Outline.Fence-off |  | TablerIcons.Outline.Ferry |  | TablerIcons.Outline.Fidget-spinner |
+|  | TablerIcons.Outline.File |  | TablerIcons.Outline.File-3d |  | TablerIcons.Outline.File-ai |
+|  | TablerIcons.Outline.File-alert |  | TablerIcons.Outline.File-analytics |  | TablerIcons.Outline.File-arrow-left |
+|  | TablerIcons.Outline.File-arrow-right |  | TablerIcons.Outline.File-barcode |  | TablerIcons.Outline.File-bitcoin |
+|  | TablerIcons.Outline.File-broken |  | TablerIcons.Outline.File-certificate |  | TablerIcons.Outline.File-chart |
+|  | TablerIcons.Outline.File-check |  | TablerIcons.Outline.File-code |  | TablerIcons.Outline.File-code-2 |
+|  | TablerIcons.Outline.File-cv |  | TablerIcons.Outline.File-database |  | TablerIcons.Outline.File-delta |
+|  | TablerIcons.Outline.File-description |  | TablerIcons.Outline.File-diff |  | TablerIcons.Outline.File-digit |
+|  | TablerIcons.Outline.File-dislike |  | TablerIcons.Outline.File-dollar |  | TablerIcons.Outline.File-dots |
+|  | TablerIcons.Outline.File-download |  | TablerIcons.Outline.File-euro |  | TablerIcons.Outline.File-excel |
+|  | TablerIcons.Outline.File-export |  | TablerIcons.Outline.File-function |  | TablerIcons.Outline.File-horizontal |
+|  | TablerIcons.Outline.File-import |  | TablerIcons.Outline.File-infinity |  | TablerIcons.Outline.File-info |
+|  | TablerIcons.Outline.File-invoice |  | TablerIcons.Outline.File-isr |  | TablerIcons.Outline.File-lambda |
+|  | TablerIcons.Outline.File-like |  | TablerIcons.Outline.File-minus |  | TablerIcons.Outline.File-music |
+|  | TablerIcons.Outline.File-neutral |  | TablerIcons.Outline.File-off |  | TablerIcons.Outline.File-orientation |
+|  | TablerIcons.Outline.File-pencil |  | TablerIcons.Outline.File-percent |  | TablerIcons.Outline.File-phone |
+|  | TablerIcons.Outline.File-plus |  | TablerIcons.Outline.File-power |  | TablerIcons.Outline.File-report |
+|  | TablerIcons.Outline.File-rss |  | TablerIcons.Outline.File-sad |  | TablerIcons.Outline.File-scissors |
+|  | TablerIcons.Outline.File-search |  | TablerIcons.Outline.File-settings |  | TablerIcons.Outline.File-shredder |
+|  | TablerIcons.Outline.File-signal |  | TablerIcons.Outline.File-smile |  | TablerIcons.Outline.File-spark |
+|  | TablerIcons.Outline.File-spreadsheet |  | TablerIcons.Outline.File-stack |  | TablerIcons.Outline.File-star |
+|  | TablerIcons.Outline.File-symlink |  | TablerIcons.Outline.File-text |  | TablerIcons.Outline.File-text-ai |
+|  | TablerIcons.Outline.File-text-shield |  | TablerIcons.Outline.File-text-spark |  | TablerIcons.Outline.File-time |
+|  | TablerIcons.Outline.File-type-bmp |  | TablerIcons.Outline.File-type-css |  | TablerIcons.Outline.File-type-csv |
+|  | TablerIcons.Outline.File-type-doc |  | TablerIcons.Outline.File-type-docx |  | TablerIcons.Outline.File-type-html |
+|  | TablerIcons.Outline.File-type-jpg |  | TablerIcons.Outline.File-type-js |  | TablerIcons.Outline.File-type-jsx |
+|  | TablerIcons.Outline.File-type-pdf |  | TablerIcons.Outline.File-type-php |  | TablerIcons.Outline.File-type-png |
+|  | TablerIcons.Outline.File-type-ppt |  | TablerIcons.Outline.File-type-rs |  | TablerIcons.Outline.File-type-sql |
+|  | TablerIcons.Outline.File-type-svg |  | TablerIcons.Outline.File-type-ts |  | TablerIcons.Outline.File-type-tsx |
+|  | TablerIcons.Outline.File-type-txt |  | TablerIcons.Outline.File-type-vue |  | TablerIcons.Outline.File-type-xls |
+|  | TablerIcons.Outline.File-type-xml |  | TablerIcons.Outline.File-type-zip |  | TablerIcons.Outline.File-typography |
+|  | TablerIcons.Outline.File-unknown |  | TablerIcons.Outline.File-upload |  | TablerIcons.Outline.File-vector |
+|  | TablerIcons.Outline.File-word |  | TablerIcons.Outline.File-x |  | TablerIcons.Outline.File-zip |
+|  | TablerIcons.Outline.Files |  | TablerIcons.Outline.Files-off |  | TablerIcons.Outline.Filter |
+|  | TablerIcons.Outline.Filter-2 |  | TablerIcons.Outline.Filter-2-bolt |  | TablerIcons.Outline.Filter-2-cancel |
+|  | TablerIcons.Outline.Filter-2-check |  | TablerIcons.Outline.Filter-2-code |  | TablerIcons.Outline.Filter-2-cog |
+|  | TablerIcons.Outline.Filter-2-discount |  | TablerIcons.Outline.Filter-2-dollar |  | TablerIcons.Outline.Filter-2-down |
+|  | TablerIcons.Outline.Filter-2-edit |  | TablerIcons.Outline.Filter-2-exclamation |  | TablerIcons.Outline.Filter-2-minus |
+|  | TablerIcons.Outline.Filter-2-pause |  | TablerIcons.Outline.Filter-2-pin |  | TablerIcons.Outline.Filter-2-plus |
+|  | TablerIcons.Outline.Filter-2-question |  | TablerIcons.Outline.Filter-2-search |  | TablerIcons.Outline.Filter-2-share |
+|  | TablerIcons.Outline.Filter-2-spark |  | TablerIcons.Outline.Filter-2-up |  | TablerIcons.Outline.Filter-2-x |
+|  | TablerIcons.Outline.Filter-bolt |  | TablerIcons.Outline.Filter-cancel |  | TablerIcons.Outline.Filter-check |
+|  | TablerIcons.Outline.Filter-code |  | TablerIcons.Outline.Filter-cog |  | TablerIcons.Outline.Filter-discount |
+|  | TablerIcons.Outline.Filter-dollar |  | TablerIcons.Outline.Filter-down |  | TablerIcons.Outline.Filter-edit |
+|  | TablerIcons.Outline.Filter-exclamation |  | TablerIcons.Outline.Filter-heart |  | TablerIcons.Outline.Filter-minus |
+|  | TablerIcons.Outline.Filter-off |  | TablerIcons.Outline.Filter-pause |  | TablerIcons.Outline.Filter-pin |
+|  | TablerIcons.Outline.Filter-plus |  | TablerIcons.Outline.Filter-question |  | TablerIcons.Outline.Filter-search |
+|  | TablerIcons.Outline.Filter-share |  | TablerIcons.Outline.Filter-spark |  | TablerIcons.Outline.Filter-star |
+|  | TablerIcons.Outline.Filter-up |  | TablerIcons.Outline.Filter-x |  | TablerIcons.Outline.Filters |
+|  | TablerIcons.Outline.Fingerprint |  | TablerIcons.Outline.Fingerprint-off |  | TablerIcons.Outline.Fingerprint-scan |
+|  | TablerIcons.Outline.Fire-extinguisher |  | TablerIcons.Outline.Fire-hydrant |  | TablerIcons.Outline.Fire-hydrant-off |
+|  | TablerIcons.Outline.Firetruck |  | TablerIcons.Outline.First-aid-kit |  | TablerIcons.Outline.First-aid-kit-off |
+|  | TablerIcons.Outline.Fish |  | TablerIcons.Outline.Fish-bone |  | TablerIcons.Outline.Fish-christianity |
+|  | TablerIcons.Outline.Fish-hook |  | TablerIcons.Outline.Fish-hook-off |  | TablerIcons.Outline.Fish-off |
+|  | TablerIcons.Outline.Flag |  | TablerIcons.Outline.Flag-2 |  | TablerIcons.Outline.Flag-2-off |
+|  | TablerIcons.Outline.Flag-3 |  | TablerIcons.Outline.Flag-bitcoin |  | TablerIcons.Outline.Flag-bolt |
+|  | TablerIcons.Outline.Flag-cancel |  | TablerIcons.Outline.Flag-check |  | TablerIcons.Outline.Flag-code |
+|  | TablerIcons.Outline.Flag-cog |  | TablerIcons.Outline.Flag-discount |  | TablerIcons.Outline.Flag-dollar |
+|  | TablerIcons.Outline.Flag-down |  | TablerIcons.Outline.Flag-exclamation |  | TablerIcons.Outline.Flag-heart |
+|  | TablerIcons.Outline.Flag-minus |  | TablerIcons.Outline.Flag-off |  | TablerIcons.Outline.Flag-pause |
+|  | TablerIcons.Outline.Flag-pin |  | TablerIcons.Outline.Flag-plus |  | TablerIcons.Outline.Flag-question |
+|  | TablerIcons.Outline.Flag-search |  | TablerIcons.Outline.Flag-share |  | TablerIcons.Outline.Flag-spark |
+|  | TablerIcons.Outline.Flag-star |  | TablerIcons.Outline.Flag-up |  | TablerIcons.Outline.Flag-x |
+|  | TablerIcons.Outline.Flame |  | TablerIcons.Outline.Flame-off |  | TablerIcons.Outline.Flare |
+|  | TablerIcons.Outline.Flask |  | TablerIcons.Outline.Flask-2 |  | TablerIcons.Outline.Flask-2-off |
+|  | TablerIcons.Outline.Flask-off |  | TablerIcons.Outline.Flip-flops |  | TablerIcons.Outline.Flip-horizontal |
+|  | TablerIcons.Outline.Flip-vertical |  | TablerIcons.Outline.Float-center |  | TablerIcons.Outline.Float-left |
+|  | TablerIcons.Outline.Float-none |  | TablerIcons.Outline.Float-right |  | TablerIcons.Outline.Flower |
+|  | TablerIcons.Outline.Flower-off |  | TablerIcons.Outline.Focus |  | TablerIcons.Outline.Focus-2 |
+|  | TablerIcons.Outline.Focus-auto |  | TablerIcons.Outline.Focus-centered |  | TablerIcons.Outline.Fold |
+|  | TablerIcons.Outline.Fold-down |  | TablerIcons.Outline.Fold-up |  | TablerIcons.Outline.Folder |
+|  | TablerIcons.Outline.Folder-bolt |  | TablerIcons.Outline.Folder-cancel |  | TablerIcons.Outline.Folder-check |
+|  | TablerIcons.Outline.Folder-code |  | TablerIcons.Outline.Folder-cog |  | TablerIcons.Outline.Folder-dollar |
+|  | TablerIcons.Outline.Folder-down |  | TablerIcons.Outline.Folder-exclamation |  | TablerIcons.Outline.Folder-heart |
+|  | TablerIcons.Outline.Folder-minus |  | TablerIcons.Outline.Folder-off |  | TablerIcons.Outline.Folder-open |
+|  | TablerIcons.Outline.Folder-pause |  | TablerIcons.Outline.Folder-pin |  | TablerIcons.Outline.Folder-plus |
+|  | TablerIcons.Outline.Folder-question |  | TablerIcons.Outline.Folder-root |  | TablerIcons.Outline.Folder-search |
+|  | TablerIcons.Outline.Folder-share |  | TablerIcons.Outline.Folder-star |  | TablerIcons.Outline.Folder-symlink |
+|  | TablerIcons.Outline.Folder-up |  | TablerIcons.Outline.Folder-x |  | TablerIcons.Outline.Folders |
+|  | TablerIcons.Outline.Folders-off |  | TablerIcons.Outline.Forbid |  | TablerIcons.Outline.Forbid-2 |
+|  | TablerIcons.Outline.Forklift |  | TablerIcons.Outline.Forms |  | TablerIcons.Outline.Fountain |
+|  | TablerIcons.Outline.Fountain-off |  | TablerIcons.Outline.Frame |  | TablerIcons.Outline.Frame-off |
+|  | TablerIcons.Outline.Free-rights |  | TablerIcons.Outline.Freeze-column |  | TablerIcons.Outline.Freeze-row |
+|  | TablerIcons.Outline.Freeze-row-column |  | TablerIcons.Outline.Fridge |  | TablerIcons.Outline.Fridge-off |
+|  | TablerIcons.Outline.Friends |  | TablerIcons.Outline.Friends-off |  | TablerIcons.Outline.Frustum |
+|  | TablerIcons.Outline.Frustum-off |  | TablerIcons.Outline.Frustum-plus |  | TablerIcons.Outline.Function |
+|  | TablerIcons.Outline.Function-off |  | TablerIcons.Outline.Galaxy |  | TablerIcons.Outline.Garden-cart |
+|  | TablerIcons.Outline.Garden-cart-off |  | TablerIcons.Outline.Gas-station |  | TablerIcons.Outline.Gas-station-off |
+|  | TablerIcons.Outline.Gauge |  | TablerIcons.Outline.Gauge-off |  | TablerIcons.Outline.Gavel |
+|  | TablerIcons.Outline.Gender-agender |  | TablerIcons.Outline.Gender-androgyne |  | TablerIcons.Outline.Gender-bigender |
+|  | TablerIcons.Outline.Gender-demiboy |  | TablerIcons.Outline.Gender-demigirl |  | TablerIcons.Outline.Gender-epicene |
+|  | TablerIcons.Outline.Gender-female |  | TablerIcons.Outline.Gender-femme |  | TablerIcons.Outline.Gender-genderfluid |
+|  | TablerIcons.Outline.Gender-genderless |  | TablerIcons.Outline.Gender-genderqueer |  | TablerIcons.Outline.Gender-hermaphrodite |
+|  | TablerIcons.Outline.Gender-intergender |  | TablerIcons.Outline.Gender-male |  | TablerIcons.Outline.Gender-neutrois |
+|  | TablerIcons.Outline.Gender-third |  | TablerIcons.Outline.Gender-transgender |  | TablerIcons.Outline.Gender-trasvesti |
+|  | TablerIcons.Outline.Geometry |  | TablerIcons.Outline.Ghost |  | TablerIcons.Outline.Ghost-2 |
+|  | TablerIcons.Outline.Ghost-3 |  | TablerIcons.Outline.Ghost-off |  | TablerIcons.Outline.Gif |
+|  | TablerIcons.Outline.Gift |  | TablerIcons.Outline.Gift-card |  | TablerIcons.Outline.Gift-off |
+|  | TablerIcons.Outline.Git-branch |  | TablerIcons.Outline.Git-branch-deleted |  | TablerIcons.Outline.Git-cherry-pick |
+|  | TablerIcons.Outline.Git-commit |  | TablerIcons.Outline.Git-compare |  | TablerIcons.Outline.Git-fork |
+|  | TablerIcons.Outline.Git-merge |  | TablerIcons.Outline.Git-pull-request |  | TablerIcons.Outline.Git-pull-request-closed |
+|  | TablerIcons.Outline.Git-pull-request-draft |  | TablerIcons.Outline.Gizmo |  | TablerIcons.Outline.Glass |
+|  | TablerIcons.Outline.Glass-champagne |  | TablerIcons.Outline.Glass-cocktail |  | TablerIcons.Outline.Glass-full |
+|  | TablerIcons.Outline.Glass-gin |  | TablerIcons.Outline.Glass-off |  | TablerIcons.Outline.Globe |
+|  | TablerIcons.Outline.Globe-off |  | TablerIcons.Outline.Go-game |  | TablerIcons.Outline.Golf |
+|  | TablerIcons.Outline.Golf-off |  | TablerIcons.Outline.Gps |  | TablerIcons.Outline.Gradienter |
+|  | TablerIcons.Outline.Grain |  | TablerIcons.Outline.Graph |  | TablerIcons.Outline.Graph-off |
+|  | TablerIcons.Outline.Grave |  | TablerIcons.Outline.Grave-2 |  | TablerIcons.Outline.Grid-3x3 |
+|  | TablerIcons.Outline.Grid-4x4 |  | TablerIcons.Outline.Grid-dots |  | TablerIcons.Outline.Grid-goldenratio |
+|  | TablerIcons.Outline.Grid-pattern |  | TablerIcons.Outline.Grid-scan |  | TablerIcons.Outline.Grill |
+|  | TablerIcons.Outline.Grill-fork |  | TablerIcons.Outline.Grill-off |  | TablerIcons.Outline.Grill-spatula |
+|  | TablerIcons.Outline.Grip-horizontal |  | TablerIcons.Outline.Grip-vertical |  | TablerIcons.Outline.Growth |
+|  | TablerIcons.Outline.Guitar-pick |  | TablerIcons.Outline.Gymnastics |  | TablerIcons.Outline.H-1 |
+|  | TablerIcons.Outline.H-2 |  | TablerIcons.Outline.H-3 |  | TablerIcons.Outline.H-4 |
+|  | TablerIcons.Outline.H-5 |  | TablerIcons.Outline.H-6 |  | TablerIcons.Outline.Hammer |
+|  | TablerIcons.Outline.Hammer-off |  | TablerIcons.Outline.Hand-click |  | TablerIcons.Outline.Hand-click-off |
+|  | TablerIcons.Outline.Hand-finger |  | TablerIcons.Outline.Hand-finger-down |  | TablerIcons.Outline.Hand-finger-left |
+|  | TablerIcons.Outline.Hand-finger-off |  | TablerIcons.Outline.Hand-finger-right |  | TablerIcons.Outline.Hand-grab |
+|  | TablerIcons.Outline.Hand-little-finger |  | TablerIcons.Outline.Hand-love-you |  | TablerIcons.Outline.Hand-middle-finger |
+|  | TablerIcons.Outline.Hand-move |  | TablerIcons.Outline.Hand-off |  | TablerIcons.Outline.Hand-ring-finger |
+|  | TablerIcons.Outline.Hand-sanitizer |  | TablerIcons.Outline.Hand-stop |  | TablerIcons.Outline.Hand-three-fingers |
+|  | TablerIcons.Outline.Hand-two-fingers |  | TablerIcons.Outline.Hanger |  | TablerIcons.Outline.Hanger-2 |
+|  | TablerIcons.Outline.Hanger-off |  | TablerIcons.Outline.Hash |  | TablerIcons.Outline.Haze |
+|  | TablerIcons.Outline.Haze-moon |  | TablerIcons.Outline.Hdr |  | TablerIcons.Outline.Heading |
+|  | TablerIcons.Outline.Heading-off |  | TablerIcons.Outline.Headphones |  | TablerIcons.Outline.Headphones-off |
+|  | TablerIcons.Outline.Headset |  | TablerIcons.Outline.Headset-off |  | TablerIcons.Outline.Health-recognition |
+|  | TablerIcons.Outline.Heart |  | TablerIcons.Outline.Heart-bitcoin |  | TablerIcons.Outline.Heart-bolt |
+|  | TablerIcons.Outline.Heart-broken |  | TablerIcons.Outline.Heart-cancel |  | TablerIcons.Outline.Heart-check |
+|  | TablerIcons.Outline.Heart-code |  | TablerIcons.Outline.Heart-cog |  | TablerIcons.Outline.Heart-discount |
+|  | TablerIcons.Outline.Heart-dollar |  | TablerIcons.Outline.Heart-down |  | TablerIcons.Outline.Heart-exclamation |
+|  | TablerIcons.Outline.Heart-handshake |  | TablerIcons.Outline.Heart-minus |  | TablerIcons.Outline.Heart-off |
+|  | TablerIcons.Outline.Heart-pause |  | TablerIcons.Outline.Heart-pin |  | TablerIcons.Outline.Heart-plus |
+|  | TablerIcons.Outline.Heart-question |  | TablerIcons.Outline.Heart-rate-monitor |  | TablerIcons.Outline.Heart-search |
+|  | TablerIcons.Outline.Heart-share |  | TablerIcons.Outline.Heart-spark |  | TablerIcons.Outline.Heart-star |
+|  | TablerIcons.Outline.Heart-up |  | TablerIcons.Outline.Heart-x |  | TablerIcons.Outline.Heartbeat |
+|  | TablerIcons.Outline.Hearts |  | TablerIcons.Outline.Hearts-off |  | TablerIcons.Outline.Helicopter |
+|  | TablerIcons.Outline.Helicopter-landing |  | TablerIcons.Outline.Helmet |  | TablerIcons.Outline.Helmet-off |
+|  | TablerIcons.Outline.Help |  | TablerIcons.Outline.Help-circle |  | TablerIcons.Outline.Help-hexagon |
+|  | TablerIcons.Outline.Help-octagon |  | TablerIcons.Outline.Help-off |  | TablerIcons.Outline.Help-small |
+|  | TablerIcons.Outline.Help-square |  | TablerIcons.Outline.Help-square-rounded |  | TablerIcons.Outline.Help-triangle |
+|  | TablerIcons.Outline.Hemisphere |  | TablerIcons.Outline.Hemisphere-off |  | TablerIcons.Outline.Hemisphere-plus |
+|  | TablerIcons.Outline.Hexagon |  | TablerIcons.Outline.Hexagon-3d |  | TablerIcons.Outline.Hexagon-asterisk |
+|  | TablerIcons.Outline.Hexagon-letter-a |  | TablerIcons.Outline.Hexagon-letter-b |  | TablerIcons.Outline.Hexagon-letter-c |
+|  | TablerIcons.Outline.Hexagon-letter-d |  | TablerIcons.Outline.Hexagon-letter-e |  | TablerIcons.Outline.Hexagon-letter-f |
+|  | TablerIcons.Outline.Hexagon-letter-g |  | TablerIcons.Outline.Hexagon-letter-h |  | TablerIcons.Outline.Hexagon-letter-i |
+|  | TablerIcons.Outline.Hexagon-letter-j |  | TablerIcons.Outline.Hexagon-letter-k |  | TablerIcons.Outline.Hexagon-letter-l |
+|  | TablerIcons.Outline.Hexagon-letter-m |  | TablerIcons.Outline.Hexagon-letter-n |  | TablerIcons.Outline.Hexagon-letter-o |
+|  | TablerIcons.Outline.Hexagon-letter-p |  | TablerIcons.Outline.Hexagon-letter-q |  | TablerIcons.Outline.Hexagon-letter-r |
+|  | TablerIcons.Outline.Hexagon-letter-s |  | TablerIcons.Outline.Hexagon-letter-t |  | TablerIcons.Outline.Hexagon-letter-u |
+|  | TablerIcons.Outline.Hexagon-letter-v |  | TablerIcons.Outline.Hexagon-letter-w |  | TablerIcons.Outline.Hexagon-letter-x |
+|  | TablerIcons.Outline.Hexagon-letter-y |  | TablerIcons.Outline.Hexagon-letter-z |  | TablerIcons.Outline.Hexagon-minus |
+|  | TablerIcons.Outline.Hexagon-minus-2 |  | TablerIcons.Outline.Hexagon-number-0 |  | TablerIcons.Outline.Hexagon-number-1 |
+|  | TablerIcons.Outline.Hexagon-number-2 |  | TablerIcons.Outline.Hexagon-number-3 |  | TablerIcons.Outline.Hexagon-number-4 |
+|  | TablerIcons.Outline.Hexagon-number-5 |  | TablerIcons.Outline.Hexagon-number-6 |  | TablerIcons.Outline.Hexagon-number-7 |
+|  | TablerIcons.Outline.Hexagon-number-8 |  | TablerIcons.Outline.Hexagon-number-9 |  | TablerIcons.Outline.Hexagon-off |
+|  | TablerIcons.Outline.Hexagon-plus |  | TablerIcons.Outline.Hexagon-plus-2 |  | TablerIcons.Outline.Hexagonal-prism |
+|  | TablerIcons.Outline.Hexagonal-prism-off |  | TablerIcons.Outline.Hexagonal-prism-plus |  | TablerIcons.Outline.Hexagonal-pyramid |
+|  | TablerIcons.Outline.Hexagonal-pyramid-off |  | TablerIcons.Outline.Hexagonal-pyramid-plus |  | TablerIcons.Outline.Hexagons |
+|  | TablerIcons.Outline.Hexagons-off |  | TablerIcons.Outline.Hierarchy |  | TablerIcons.Outline.Hierarchy-2 |
+|  | TablerIcons.Outline.Hierarchy-3 |  | TablerIcons.Outline.Hierarchy-off |  | TablerIcons.Outline.Highlight |
+|  | TablerIcons.Outline.Highlight-off |  | TablerIcons.Outline.History |  | TablerIcons.Outline.History-off |
+|  | TablerIcons.Outline.History-toggle |  | TablerIcons.Outline.Home |  | TablerIcons.Outline.Home-2 |
+|  | TablerIcons.Outline.Home-bitcoin |  | TablerIcons.Outline.Home-bolt |  | TablerIcons.Outline.Home-cancel |
+|  | TablerIcons.Outline.Home-check |  | TablerIcons.Outline.Home-cog |  | TablerIcons.Outline.Home-dollar |
+|  | TablerIcons.Outline.Home-dot |  | TablerIcons.Outline.Home-down |  | TablerIcons.Outline.Home-eco |
+|  | TablerIcons.Outline.Home-edit |  | TablerIcons.Outline.Home-exclamation |  | TablerIcons.Outline.Home-hand |
+|  | TablerIcons.Outline.Home-heart |  | TablerIcons.Outline.Home-infinity |  | TablerIcons.Outline.Home-link |
+|  | TablerIcons.Outline.Home-minus |  | TablerIcons.Outline.Home-move |  | TablerIcons.Outline.Home-off |
+|  | TablerIcons.Outline.Home-plus |  | TablerIcons.Outline.Home-question |  | TablerIcons.Outline.Home-ribbon |
+|  | TablerIcons.Outline.Home-search |  | TablerIcons.Outline.Home-share |  | TablerIcons.Outline.Home-shield |
+|  | TablerIcons.Outline.Home-signal |  | TablerIcons.Outline.Home-spark |  | TablerIcons.Outline.Home-star |
+|  | TablerIcons.Outline.Home-stats |  | TablerIcons.Outline.Home-up |  | TablerIcons.Outline.Home-x |
+|  | TablerIcons.Outline.Horse |  | TablerIcons.Outline.Horse-toy |  | TablerIcons.Outline.Horseshoe |
+|  | TablerIcons.Outline.Hospital |  | TablerIcons.Outline.Hospital-circle |  | TablerIcons.Outline.Hotel-service |
+|  | TablerIcons.Outline.Hourglass |  | TablerIcons.Outline.Hourglass-empty |  | TablerIcons.Outline.Hourglass-high |
+|  | TablerIcons.Outline.Hourglass-low |  | TablerIcons.Outline.Hourglass-off |  | TablerIcons.Outline.Hours-12 |
+|  | TablerIcons.Outline.Hours-24 |  | TablerIcons.Outline.Html |  | TablerIcons.Outline.Http-connect |
+|  | TablerIcons.Outline.Http-connect-off |  | TablerIcons.Outline.Http-delete |  | TablerIcons.Outline.Http-delete-off |
+|  | TablerIcons.Outline.Http-get |  | TablerIcons.Outline.Http-get-off |  | TablerIcons.Outline.Http-head |
+|  | TablerIcons.Outline.Http-head-off |  | TablerIcons.Outline.Http-options |  | TablerIcons.Outline.Http-options-off |
+|  | TablerIcons.Outline.Http-patch |  | TablerIcons.Outline.Http-patch-off |  | TablerIcons.Outline.Http-post |
+|  | TablerIcons.Outline.Http-post-off |  | TablerIcons.Outline.Http-put |  | TablerIcons.Outline.Http-put-off |
+|  | TablerIcons.Outline.Http-que |  | TablerIcons.Outline.Http-que-off |  | TablerIcons.Outline.Http-trace |
+|  | TablerIcons.Outline.Http-trace-off |  | TablerIcons.Outline.Ice-cream |  | TablerIcons.Outline.Ice-cream-2 |
+|  | TablerIcons.Outline.Ice-cream-off |  | TablerIcons.Outline.Ice-skating |  | TablerIcons.Outline.Icons |
+|  | TablerIcons.Outline.Icons-off |  | TablerIcons.Outline.Id |  | TablerIcons.Outline.Id-badge |
+|  | TablerIcons.Outline.Id-badge-2 |  | TablerIcons.Outline.Id-badge-off |  | TablerIcons.Outline.Id-off |
+|  | TablerIcons.Outline.Ikosaedr |  | TablerIcons.Outline.Image-in-picture |  | TablerIcons.Outline.Inbox |
+|  | TablerIcons.Outline.Inbox-off |  | TablerIcons.Outline.Indent-decrease |  | TablerIcons.Outline.Indent-increase |
+|  | TablerIcons.Outline.Infinity |  | TablerIcons.Outline.Infinity-off |  | TablerIcons.Outline.Info-circle |
+|  | TablerIcons.Outline.Info-hexagon |  | TablerIcons.Outline.Info-octagon |  | TablerIcons.Outline.Info-small |
+|  | TablerIcons.Outline.Info-square |  | TablerIcons.Outline.Info-square-rounded |  | TablerIcons.Outline.Info-triangle |
+|  | TablerIcons.Outline.Inner-shadow-bottom |  | TablerIcons.Outline.Inner-shadow-bottom-left |  | TablerIcons.Outline.Inner-shadow-bottom-right |
+|  | TablerIcons.Outline.Inner-shadow-left |  | TablerIcons.Outline.Inner-shadow-right |  | TablerIcons.Outline.Inner-shadow-top |
+|  | TablerIcons.Outline.Inner-shadow-top-left |  | TablerIcons.Outline.Inner-shadow-top-right |  | TablerIcons.Outline.Input-ai |
+|  | TablerIcons.Outline.Input-check |  | TablerIcons.Outline.Input-search |  | TablerIcons.Outline.Input-spark |
+|  | TablerIcons.Outline.Input-x |  | TablerIcons.Outline.Invoice |  | TablerIcons.Outline.Ironing |
+|  | TablerIcons.Outline.Ironing-1 |  | TablerIcons.Outline.Ironing-2 |  | TablerIcons.Outline.Ironing-3 |
+|  | TablerIcons.Outline.Ironing-off |  | TablerIcons.Outline.Ironing-steam |  | TablerIcons.Outline.Ironing-steam-off |
+|  | TablerIcons.Outline.Irregular-polyhedron |  | TablerIcons.Outline.Irregular-polyhedron-off |  | TablerIcons.Outline.Irregular-polyhedron-plus |
+|  | TablerIcons.Outline.Italic |  | TablerIcons.Outline.Jacket |  | TablerIcons.Outline.Jetpack |
+|  | TablerIcons.Outline.Jewish-star |  | TablerIcons.Outline.Join-bevel |  | TablerIcons.Outline.Join-round |
+|  | TablerIcons.Outline.Join-straight |  | TablerIcons.Outline.Joker |  | TablerIcons.Outline.Jpg |
+|  | TablerIcons.Outline.Json |  | TablerIcons.Outline.Jump-rope |  | TablerIcons.Outline.Karate |
+|  | TablerIcons.Outline.Kayak |  | TablerIcons.Outline.Kerning |  | TablerIcons.Outline.Key |
+|  | TablerIcons.Outline.Key-off |  | TablerIcons.Outline.Keyboard |  | TablerIcons.Outline.Keyboard-hide |
+|  | TablerIcons.Outline.Keyboard-off |  | TablerIcons.Outline.Keyboard-show |  | TablerIcons.Outline.Keyframe |
+|  | TablerIcons.Outline.Keyframe-align-center |  | TablerIcons.Outline.Keyframe-align-horizontal |  | TablerIcons.Outline.Keyframe-align-vertical |
+|  | TablerIcons.Outline.Keyframes |  | TablerIcons.Outline.Label |  | TablerIcons.Outline.Label-important |
+|  | TablerIcons.Outline.Label-off |  | TablerIcons.Outline.Ladder |  | TablerIcons.Outline.Ladder-off |
+|  | TablerIcons.Outline.Ladle |  | TablerIcons.Outline.Lambda |  | TablerIcons.Outline.Lamp |
+|  | TablerIcons.Outline.Lamp-2 |  | TablerIcons.Outline.Lamp-off |  | TablerIcons.Outline.Lane |
+|  | TablerIcons.Outline.Language |  | TablerIcons.Outline.Language-hiragana |  | TablerIcons.Outline.Language-katakana |
+|  | TablerIcons.Outline.Language-off |  | TablerIcons.Outline.Lasso |  | TablerIcons.Outline.Lasso-off |
+|  | TablerIcons.Outline.Lasso-polygon |  | TablerIcons.Outline.Laurel-wreath |  | TablerIcons.Outline.Laurel-wreath-1 |
+|  | TablerIcons.Outline.Laurel-wreath-2 |  | TablerIcons.Outline.Laurel-wreath-3 |  | TablerIcons.Outline.Layers-difference |
+|  | TablerIcons.Outline.Layers-intersect |  | TablerIcons.Outline.Layers-intersect-2 |  | TablerIcons.Outline.Layers-linked |
+|  | TablerIcons.Outline.Layers-off |  | TablerIcons.Outline.Layers-selected |  | TablerIcons.Outline.Layers-selected-bottom |
+|  | TablerIcons.Outline.Layers-subtract |  | TablerIcons.Outline.Layers-union |  | TablerIcons.Outline.Layout |
+|  | TablerIcons.Outline.Layout-2 |  | TablerIcons.Outline.Layout-align-bottom |  | TablerIcons.Outline.Layout-align-center |
+|  | TablerIcons.Outline.Layout-align-left |  | TablerIcons.Outline.Layout-align-middle |  | TablerIcons.Outline.Layout-align-right |
+|  | TablerIcons.Outline.Layout-align-top |  | TablerIcons.Outline.Layout-board |  | TablerIcons.Outline.Layout-board-split |
+|  | TablerIcons.Outline.Layout-bottombar |  | TablerIcons.Outline.Layout-bottombar-collapse |  | TablerIcons.Outline.Layout-bottombar-expand |
+|  | TablerIcons.Outline.Layout-bottombar-inactive |  | TablerIcons.Outline.Layout-cards |  | TablerIcons.Outline.Layout-collage |
+|  | TablerIcons.Outline.Layout-columns |  | TablerIcons.Outline.Layout-dashboard |  | TablerIcons.Outline.Layout-distribute-horizontal |
+|  | TablerIcons.Outline.Layout-distribute-vertical |  | TablerIcons.Outline.Layout-grid |  | TablerIcons.Outline.Layout-grid-add |
+|  | TablerIcons.Outline.Layout-grid-remove |  | TablerIcons.Outline.Layout-kanban |  | TablerIcons.Outline.Layout-list |
+|  | TablerIcons.Outline.Layout-navbar |  | TablerIcons.Outline.Layout-navbar-collapse |  | TablerIcons.Outline.Layout-navbar-expand |
+|  | TablerIcons.Outline.Layout-navbar-inactive |  | TablerIcons.Outline.Layout-off |  | TablerIcons.Outline.Layout-rows |
+|  | TablerIcons.Outline.Layout-sidebar |  | TablerIcons.Outline.Layout-sidebar-inactive |  | TablerIcons.Outline.Layout-sidebar-left-collapse |
+|  | TablerIcons.Outline.Layout-sidebar-left-expand |  | TablerIcons.Outline.Layout-sidebar-right |  | TablerIcons.Outline.Layout-sidebar-right-collapse |
+|  | TablerIcons.Outline.Layout-sidebar-right-expand |  | TablerIcons.Outline.Layout-sidebar-right-inactive |  | TablerIcons.Outline.Leaf |
+|  | TablerIcons.Outline.Leaf-2 |  | TablerIcons.Outline.Leaf-off |  | TablerIcons.Outline.Lego |
+|  | TablerIcons.Outline.Lego-off |  | TablerIcons.Outline.Lemon |  | TablerIcons.Outline.Lemon-2 |
+|  | TablerIcons.Outline.Letter-a |  | TablerIcons.Outline.Letter-a-small |  | TablerIcons.Outline.Letter-b |
+|  | TablerIcons.Outline.Letter-b-small |  | TablerIcons.Outline.Letter-c |  | TablerIcons.Outline.Letter-c-small |
+|  | TablerIcons.Outline.Letter-case |  | TablerIcons.Outline.Letter-case-lower |  | TablerIcons.Outline.Letter-case-toggle |
+|  | TablerIcons.Outline.Letter-case-upper |  | TablerIcons.Outline.Letter-d |  | TablerIcons.Outline.Letter-d-small |
+|  | TablerIcons.Outline.Letter-e |  | TablerIcons.Outline.Letter-e-small |  | TablerIcons.Outline.Letter-f |
+|  | TablerIcons.Outline.Letter-f-small |  | TablerIcons.Outline.Letter-g |  | TablerIcons.Outline.Letter-g-small |
+|  | TablerIcons.Outline.Letter-h |  | TablerIcons.Outline.Letter-h-small |  | TablerIcons.Outline.Letter-i |
+|  | TablerIcons.Outline.Letter-i-small |  | TablerIcons.Outline.Letter-j |  | TablerIcons.Outline.Letter-j-small |
+|  | TablerIcons.Outline.Letter-k |  | TablerIcons.Outline.Letter-k-small |  | TablerIcons.Outline.Letter-l |
+|  | TablerIcons.Outline.Letter-l-small |  | TablerIcons.Outline.Letter-m |  | TablerIcons.Outline.Letter-m-small |
+|  | TablerIcons.Outline.Letter-n |  | TablerIcons.Outline.Letter-n-small |  | TablerIcons.Outline.Letter-o |
+|  | TablerIcons.Outline.Letter-o-small |  | TablerIcons.Outline.Letter-p |  | TablerIcons.Outline.Letter-p-small |
+|  | TablerIcons.Outline.Letter-q |  | TablerIcons.Outline.Letter-q-small |  | TablerIcons.Outline.Letter-r |
+|  | TablerIcons.Outline.Letter-r-small |  | TablerIcons.Outline.Letter-s |  | TablerIcons.Outline.Letter-s-small |
+|  | TablerIcons.Outline.Letter-spacing |  | TablerIcons.Outline.Letter-t |  | TablerIcons.Outline.Letter-t-small |
+|  | TablerIcons.Outline.Letter-u |  | TablerIcons.Outline.Letter-u-small |  | TablerIcons.Outline.Letter-v |
+|  | TablerIcons.Outline.Letter-v-small |  | TablerIcons.Outline.Letter-w |  | TablerIcons.Outline.Letter-w-small |
+|  | TablerIcons.Outline.Letter-x |  | TablerIcons.Outline.Letter-x-small |  | TablerIcons.Outline.Letter-y |
+|  | TablerIcons.Outline.Letter-y-small |  | TablerIcons.Outline.Letter-z |  | TablerIcons.Outline.Letter-z-small |
+|  | TablerIcons.Outline.Library |  | TablerIcons.Outline.Library-minus |  | TablerIcons.Outline.Library-photo |
+|  | TablerIcons.Outline.Library-plus |  | TablerIcons.Outline.License |  | TablerIcons.Outline.License-off |
+|  | TablerIcons.Outline.Lifebuoy |  | TablerIcons.Outline.Lifebuoy-off |  | TablerIcons.Outline.Lighter |
+|  | TablerIcons.Outline.Line |  | TablerIcons.Outline.Line-dashed |  | TablerIcons.Outline.Line-dotted |
+|  | TablerIcons.Outline.Line-height |  | TablerIcons.Outline.Line-scan |  | TablerIcons.Outline.Link |
+|  | TablerIcons.Outline.Link-minus |  | TablerIcons.Outline.Link-off |  | TablerIcons.Outline.Link-plus |
+|  | TablerIcons.Outline.List |  | TablerIcons.Outline.List-check |  | TablerIcons.Outline.List-details |
+|  | TablerIcons.Outline.List-letters |  | TablerIcons.Outline.List-numbers |  | TablerIcons.Outline.List-search |
+|  | TablerIcons.Outline.List-tree |  | TablerIcons.Outline.Live-photo |  | TablerIcons.Outline.Live-photo-off |
+|  | TablerIcons.Outline.Live-view |  | TablerIcons.Outline.Load-balancer |  | TablerIcons.Outline.Loader |
+|  | TablerIcons.Outline.Loader-2 |  | TablerIcons.Outline.Loader-3 |  | TablerIcons.Outline.Loader-quarter |
+|  | TablerIcons.Outline.Location |  | TablerIcons.Outline.Location-bolt |  | TablerIcons.Outline.Location-broken |
+|  | TablerIcons.Outline.Location-cancel |  | TablerIcons.Outline.Location-check |  | TablerIcons.Outline.Location-code |
+|  | TablerIcons.Outline.Location-cog |  | TablerIcons.Outline.Location-discount |  | TablerIcons.Outline.Location-dollar |
+|  | TablerIcons.Outline.Location-down |  | TablerIcons.Outline.Location-exclamation |  | TablerIcons.Outline.Location-heart |
+|  | TablerIcons.Outline.Location-minus |  | TablerIcons.Outline.Location-off |  | TablerIcons.Outline.Location-pause |
+|  | TablerIcons.Outline.Location-pin |  | TablerIcons.Outline.Location-plus |  | TablerIcons.Outline.Location-question |
+|  | TablerIcons.Outline.Location-search |  | TablerIcons.Outline.Location-share |  | TablerIcons.Outline.Location-star |
+|  | TablerIcons.Outline.Location-up |  | TablerIcons.Outline.Location-x |  | TablerIcons.Outline.Lock |
+|  | TablerIcons.Outline.Lock-access |  | TablerIcons.Outline.Lock-access-off |  | TablerIcons.Outline.Lock-bitcoin |
+|  | TablerIcons.Outline.Lock-bolt |  | TablerIcons.Outline.Lock-cancel |  | TablerIcons.Outline.Lock-check |
+|  | TablerIcons.Outline.Lock-code |  | TablerIcons.Outline.Lock-cog |  | TablerIcons.Outline.Lock-dollar |
+|  | TablerIcons.Outline.Lock-down |  | TablerIcons.Outline.Lock-exclamation |  | TablerIcons.Outline.Lock-heart |
+|  | TablerIcons.Outline.Lock-minus |  | TablerIcons.Outline.Lock-off |  | TablerIcons.Outline.Lock-open |
+|  | TablerIcons.Outline.Lock-open-2 |  | TablerIcons.Outline.Lock-open-off |  | TablerIcons.Outline.Lock-password |
+|  | TablerIcons.Outline.Lock-pause |  | TablerIcons.Outline.Lock-pin |  | TablerIcons.Outline.Lock-plus |
+|  | TablerIcons.Outline.Lock-question |  | TablerIcons.Outline.Lock-search |  | TablerIcons.Outline.Lock-share |
+|  | TablerIcons.Outline.Lock-square |  | TablerIcons.Outline.Lock-square-rounded |  | TablerIcons.Outline.Lock-star |
+|  | TablerIcons.Outline.Lock-up |  | TablerIcons.Outline.Lock-x |  | TablerIcons.Outline.Logic-and |
+|  | TablerIcons.Outline.Logic-buffer |  | TablerIcons.Outline.Logic-nand |  | TablerIcons.Outline.Logic-nor |
+|  | TablerIcons.Outline.Logic-not |  | TablerIcons.Outline.Logic-or |  | TablerIcons.Outline.Logic-xnor |
+|  | TablerIcons.Outline.Logic-xor |  | TablerIcons.Outline.Login |  | TablerIcons.Outline.Login-2 |
+|  | TablerIcons.Outline.Logout |  | TablerIcons.Outline.Logout-2 |  | TablerIcons.Outline.Logs |
+|  | TablerIcons.Outline.Lollipop |  | TablerIcons.Outline.Lollipop-off |  | TablerIcons.Outline.Luggage |
+|  | TablerIcons.Outline.Luggage-off |  | TablerIcons.Outline.Lungs |  | TablerIcons.Outline.Lungs-off |
+|  | TablerIcons.Outline.Macro |  | TablerIcons.Outline.Macro-off |  | TablerIcons.Outline.Magnet |
+|  | TablerIcons.Outline.Magnet-off |  | TablerIcons.Outline.Magnetic |  | TablerIcons.Outline.Mail |
+|  | TablerIcons.Outline.Mail-ai |  | TablerIcons.Outline.Mail-bitcoin |  | TablerIcons.Outline.Mail-bolt |
+|  | TablerIcons.Outline.Mail-cancel |  | TablerIcons.Outline.Mail-check |  | TablerIcons.Outline.Mail-code |
+|  | TablerIcons.Outline.Mail-cog |  | TablerIcons.Outline.Mail-dollar |  | TablerIcons.Outline.Mail-down |
+|  | TablerIcons.Outline.Mail-exclamation |  | TablerIcons.Outline.Mail-fast |  | TablerIcons.Outline.Mail-forward |
+|  | TablerIcons.Outline.Mail-heart |  | TablerIcons.Outline.Mail-minus |  | TablerIcons.Outline.Mail-off |
+|  | TablerIcons.Outline.Mail-opened |  | TablerIcons.Outline.Mail-pause |  | TablerIcons.Outline.Mail-pin |
+|  | TablerIcons.Outline.Mail-plus |  | TablerIcons.Outline.Mail-question |  | TablerIcons.Outline.Mail-search |
+|  | TablerIcons.Outline.Mail-share |  | TablerIcons.Outline.Mail-spark |  | TablerIcons.Outline.Mail-star |
+|  | TablerIcons.Outline.Mail-up |  | TablerIcons.Outline.Mail-x |  | TablerIcons.Outline.Mailbox |
+|  | TablerIcons.Outline.Mailbox-off |  | TablerIcons.Outline.Man |  | TablerIcons.Outline.Manual-gearbox |
+|  | TablerIcons.Outline.Map |  | TablerIcons.Outline.Map-2 |  | TablerIcons.Outline.Map-bolt |
+|  | TablerIcons.Outline.Map-cancel |  | TablerIcons.Outline.Map-check |  | TablerIcons.Outline.Map-code |
+|  | TablerIcons.Outline.Map-cog |  | TablerIcons.Outline.Map-discount |  | TablerIcons.Outline.Map-dollar |
+|  | TablerIcons.Outline.Map-down |  | TablerIcons.Outline.Map-east |  | TablerIcons.Outline.Map-exclamation |
+|  | TablerIcons.Outline.Map-heart |  | TablerIcons.Outline.Map-minus |  | TablerIcons.Outline.Map-north |
+|  | TablerIcons.Outline.Map-off |  | TablerIcons.Outline.Map-pause |  | TablerIcons.Outline.Map-pin |
+|  | TablerIcons.Outline.Map-pin-2 |  | TablerIcons.Outline.Map-pin-bolt |  | TablerIcons.Outline.Map-pin-cancel |
+|  | TablerIcons.Outline.Map-pin-check |  | TablerIcons.Outline.Map-pin-code |  | TablerIcons.Outline.Map-pin-cog |
+|  | TablerIcons.Outline.Map-pin-dollar |  | TablerIcons.Outline.Map-pin-down |  | TablerIcons.Outline.Map-pin-exclamation |
+|  | TablerIcons.Outline.Map-pin-heart |  | TablerIcons.Outline.Map-pin-minus |  | TablerIcons.Outline.Map-pin-off |
+|  | TablerIcons.Outline.Map-pin-pause |  | TablerIcons.Outline.Map-pin-pin |  | TablerIcons.Outline.Map-pin-plus |
+|  | TablerIcons.Outline.Map-pin-question |  | TablerIcons.Outline.Map-pin-search |  | TablerIcons.Outline.Map-pin-share |
+|  | TablerIcons.Outline.Map-pin-star |  | TablerIcons.Outline.Map-pin-up |  | TablerIcons.Outline.Map-pin-x |
+|  | TablerIcons.Outline.Map-pins |  | TablerIcons.Outline.Map-plus |  | TablerIcons.Outline.Map-question |
+|  | TablerIcons.Outline.Map-route |  | TablerIcons.Outline.Map-search |  | TablerIcons.Outline.Map-share |
+|  | TablerIcons.Outline.Map-south |  | TablerIcons.Outline.Map-star |  | TablerIcons.Outline.Map-up |
+|  | TablerIcons.Outline.Map-west |  | TablerIcons.Outline.Map-x |  | TablerIcons.Outline.Markdown |
+|  | TablerIcons.Outline.Markdown-off |  | TablerIcons.Outline.Marquee |  | TablerIcons.Outline.Marquee-2 |
+|  | TablerIcons.Outline.Marquee-off |  | TablerIcons.Outline.Mars |  | TablerIcons.Outline.Mask |
+|  | TablerIcons.Outline.Mask-off |  | TablerIcons.Outline.Masks-theater |  | TablerIcons.Outline.Masks-theater-off |
+|  | TablerIcons.Outline.Massage |  | TablerIcons.Outline.Matchstick |  | TablerIcons.Outline.Math |
+|  | TablerIcons.Outline.Math-1-divide-2 |  | TablerIcons.Outline.Math-1-divide-3 |  | TablerIcons.Outline.Math-avg |
+|  | TablerIcons.Outline.Math-cos |  | TablerIcons.Outline.Math-ctg |  | TablerIcons.Outline.Math-equal-greater |
+|  | TablerIcons.Outline.Math-equal-lower |  | TablerIcons.Outline.Math-function |  | TablerIcons.Outline.Math-function-off |
+|  | TablerIcons.Outline.Math-function-y |  | TablerIcons.Outline.Math-greater |  | TablerIcons.Outline.Math-integral |
+|  | TablerIcons.Outline.Math-integral-x |  | TablerIcons.Outline.Math-integrals |  | TablerIcons.Outline.Math-lower |
+|  | TablerIcons.Outline.Math-max |  | TablerIcons.Outline.Math-max-min |  | TablerIcons.Outline.Math-min |
+|  | TablerIcons.Outline.Math-not |  | TablerIcons.Outline.Math-off |  | TablerIcons.Outline.Math-pi |
+|  | TablerIcons.Outline.Math-pi-divide-2 |  | TablerIcons.Outline.Math-sec |  | TablerIcons.Outline.Math-sin |
+|  | TablerIcons.Outline.Math-symbols |  | TablerIcons.Outline.Math-tg |  | TablerIcons.Outline.Math-x-divide-2 |
+|  | TablerIcons.Outline.Math-x-divide-y |  | TablerIcons.Outline.Math-x-divide-y-2 |  | TablerIcons.Outline.Math-x-floor-divide-y |
+|  | TablerIcons.Outline.Math-x-minus-x |  | TablerIcons.Outline.Math-x-minus-y |  | TablerIcons.Outline.Math-x-plus-x |
+|  | TablerIcons.Outline.Math-x-plus-y |  | TablerIcons.Outline.Math-xy |  | TablerIcons.Outline.Math-y-minus-y |
+|  | TablerIcons.Outline.Math-y-plus-y |  | TablerIcons.Outline.Matrix |  | TablerIcons.Outline.Maximize |
+|  | TablerIcons.Outline.Maximize-off |  | TablerIcons.Outline.Meat |  | TablerIcons.Outline.Meat-off |
+|  | TablerIcons.Outline.Medal |  | TablerIcons.Outline.Medal-2 |  | TablerIcons.Outline.Medical-cross |
+|  | TablerIcons.Outline.Medical-cross-circle |  | TablerIcons.Outline.Medical-cross-off |  | TablerIcons.Outline.Medicine-syrup |
+|  | TablerIcons.Outline.Meeple |  | TablerIcons.Outline.Melon |  | TablerIcons.Outline.Menorah |
+|  | TablerIcons.Outline.Menu |  | TablerIcons.Outline.Menu-2 |  | TablerIcons.Outline.Menu-3 |
+|  | TablerIcons.Outline.Menu-4 |  | TablerIcons.Outline.Menu-deep |  | TablerIcons.Outline.Menu-order |
+|  | TablerIcons.Outline.Message |  | TablerIcons.Outline.Message-2 |  | TablerIcons.Outline.Message-2-bolt |
+|  | TablerIcons.Outline.Message-2-cancel |  | TablerIcons.Outline.Message-2-check |  | TablerIcons.Outline.Message-2-code |
+|  | TablerIcons.Outline.Message-2-cog |  | TablerIcons.Outline.Message-2-dollar |  | TablerIcons.Outline.Message-2-down |
+|  | TablerIcons.Outline.Message-2-exclamation |  | TablerIcons.Outline.Message-2-heart |  | TablerIcons.Outline.Message-2-minus |
+|  | TablerIcons.Outline.Message-2-off |  | TablerIcons.Outline.Message-2-pause |  | TablerIcons.Outline.Message-2-pin |
+|  | TablerIcons.Outline.Message-2-plus |  | TablerIcons.Outline.Message-2-question |  | TablerIcons.Outline.Message-2-search |
+|  | TablerIcons.Outline.Message-2-share |  | TablerIcons.Outline.Message-2-star |  | TablerIcons.Outline.Message-2-up |
+|  | TablerIcons.Outline.Message-2-x |  | TablerIcons.Outline.Message-bolt |  | TablerIcons.Outline.Message-cancel |
+|  | TablerIcons.Outline.Message-chatbot |  | TablerIcons.Outline.Message-check |  | TablerIcons.Outline.Message-circle |
+|  | TablerIcons.Outline.Message-circle-bolt |  | TablerIcons.Outline.Message-circle-cancel |  | TablerIcons.Outline.Message-circle-check |
+|  | TablerIcons.Outline.Message-circle-code |  | TablerIcons.Outline.Message-circle-cog |  | TablerIcons.Outline.Message-circle-dollar |
+|  | TablerIcons.Outline.Message-circle-down |  | TablerIcons.Outline.Message-circle-exclamation |  | TablerIcons.Outline.Message-circle-heart |
+|  | TablerIcons.Outline.Message-circle-minus |  | TablerIcons.Outline.Message-circle-off |  | TablerIcons.Outline.Message-circle-pause |
+|  | TablerIcons.Outline.Message-circle-pin |  | TablerIcons.Outline.Message-circle-plus |  | TablerIcons.Outline.Message-circle-question |
+|  | TablerIcons.Outline.Message-circle-search |  | TablerIcons.Outline.Message-circle-share |  | TablerIcons.Outline.Message-circle-star |
+|  | TablerIcons.Outline.Message-circle-up |  | TablerIcons.Outline.Message-circle-user |  | TablerIcons.Outline.Message-circle-x |
+|  | TablerIcons.Outline.Message-code |  | TablerIcons.Outline.Message-cog |  | TablerIcons.Outline.Message-dollar |
+|  | TablerIcons.Outline.Message-dots |  | TablerIcons.Outline.Message-down |  | TablerIcons.Outline.Message-exclamation |
+|  | TablerIcons.Outline.Message-forward |  | TablerIcons.Outline.Message-heart |  | TablerIcons.Outline.Message-language |
+|  | TablerIcons.Outline.Message-minus |  | TablerIcons.Outline.Message-off |  | TablerIcons.Outline.Message-pause |
+|  | TablerIcons.Outline.Message-pin |  | TablerIcons.Outline.Message-plus |  | TablerIcons.Outline.Message-question |
+|  | TablerIcons.Outline.Message-reply |  | TablerIcons.Outline.Message-report |  | TablerIcons.Outline.Message-search |
+|  | TablerIcons.Outline.Message-share |  | TablerIcons.Outline.Message-star |  | TablerIcons.Outline.Message-up |
+|  | TablerIcons.Outline.Message-user |  | TablerIcons.Outline.Message-x |  | TablerIcons.Outline.Messages |
+|  | TablerIcons.Outline.Messages-off |  | TablerIcons.Outline.Meteor |  | TablerIcons.Outline.Meteor-off |
+|  | TablerIcons.Outline.Meter-cube |  | TablerIcons.Outline.Meter-square |  | TablerIcons.Outline.Metronome |
+|  | TablerIcons.Outline.Michelin-bib-gourmand |  | TablerIcons.Outline.Michelin-star |  | TablerIcons.Outline.Michelin-star-green |
+|  | TablerIcons.Outline.Mickey |  | TablerIcons.Outline.Microphone |  | TablerIcons.Outline.Microphone-2 |
+|  | TablerIcons.Outline.Microphone-2-off |  | TablerIcons.Outline.Microphone-off |  | TablerIcons.Outline.Microscope |
+|  | TablerIcons.Outline.Microscope-off |  | TablerIcons.Outline.Microwave |  | TablerIcons.Outline.Microwave-off |
+|  | TablerIcons.Outline.Military-award |  | TablerIcons.Outline.Military-rank |  | TablerIcons.Outline.Milk |
+|  | TablerIcons.Outline.Milk-off |  | TablerIcons.Outline.Milkshake |  | TablerIcons.Outline.Minimize |
+|  | TablerIcons.Outline.Minus |  | TablerIcons.Outline.Minus-vertical |  | TablerIcons.Outline.Mist |
+|  | TablerIcons.Outline.Mist-off |  | TablerIcons.Outline.Mobiledata |  | TablerIcons.Outline.Mobiledata-off |
+|  | TablerIcons.Outline.Moneybag |  | TablerIcons.Outline.Moneybag-edit |  | TablerIcons.Outline.Moneybag-heart |
+|  | TablerIcons.Outline.Moneybag-minus |  | TablerIcons.Outline.Moneybag-move |  | TablerIcons.Outline.Moneybag-move-back |
+|  | TablerIcons.Outline.Moneybag-plus |  | TablerIcons.Outline.Monkeybar |  | TablerIcons.Outline.Mood-angry |
+|  | TablerIcons.Outline.Mood-annoyed |  | TablerIcons.Outline.Mood-annoyed-2 |  | TablerIcons.Outline.Mood-bitcoin |
+|  | TablerIcons.Outline.Mood-boy |  | TablerIcons.Outline.Mood-check |  | TablerIcons.Outline.Mood-cog |
+|  | TablerIcons.Outline.Mood-confuzed |  | TablerIcons.Outline.Mood-crazy-happy |  | TablerIcons.Outline.Mood-cry |
+|  | TablerIcons.Outline.Mood-dollar |  | TablerIcons.Outline.Mood-edit |  | TablerIcons.Outline.Mood-empty |
+|  | TablerIcons.Outline.Mood-happy |  | TablerIcons.Outline.Mood-heart |  | TablerIcons.Outline.Mood-kid |
+|  | TablerIcons.Outline.Mood-look-down |  | TablerIcons.Outline.Mood-look-left |  | TablerIcons.Outline.Mood-look-right |
+|  | TablerIcons.Outline.Mood-look-up |  | TablerIcons.Outline.Mood-minus |  | TablerIcons.Outline.Mood-nerd |
+|  | TablerIcons.Outline.Mood-nervous |  | TablerIcons.Outline.Mood-neutral |  | TablerIcons.Outline.Mood-off |
+|  | TablerIcons.Outline.Mood-pin |  | TablerIcons.Outline.Mood-plus |  | TablerIcons.Outline.Mood-puzzled |
+|  | TablerIcons.Outline.Mood-sad |  | TablerIcons.Outline.Mood-sad-2 |  | TablerIcons.Outline.Mood-sad-dizzy |
+|  | TablerIcons.Outline.Mood-sad-squint |  | TablerIcons.Outline.Mood-search |  | TablerIcons.Outline.Mood-share |
+|  | TablerIcons.Outline.Mood-sick |  | TablerIcons.Outline.Mood-silence |  | TablerIcons.Outline.Mood-sing |
+|  | TablerIcons.Outline.Mood-smile |  | TablerIcons.Outline.Mood-smile-beam |  | TablerIcons.Outline.Mood-smile-dizzy |
+|  | TablerIcons.Outline.Mood-spark |  | TablerIcons.Outline.Mood-surprised |  | TablerIcons.Outline.Mood-tongue |
+|  | TablerIcons.Outline.Mood-tongue-wink |  | TablerIcons.Outline.Mood-tongue-wink-2 |  | TablerIcons.Outline.Mood-unamused |
+|  | TablerIcons.Outline.Mood-up |  | TablerIcons.Outline.Mood-wink |  | TablerIcons.Outline.Mood-wink-2 |
+|  | TablerIcons.Outline.Mood-wrrr |  | TablerIcons.Outline.Mood-x |  | TablerIcons.Outline.Mood-xd |
+|  | TablerIcons.Outline.Moon |  | TablerIcons.Outline.Moon-2 |  | TablerIcons.Outline.Moon-off |
+|  | TablerIcons.Outline.Moon-stars |  | TablerIcons.Outline.Moped |  | TablerIcons.Outline.Motorbike |
+|  | TablerIcons.Outline.Mountain |  | TablerIcons.Outline.Mountain-off |  | TablerIcons.Outline.Mouse |
+|  | TablerIcons.Outline.Mouse-2 |  | TablerIcons.Outline.Mouse-off |  | TablerIcons.Outline.Moustache |
+|  | TablerIcons.Outline.Movie |  | TablerIcons.Outline.Movie-off |  | TablerIcons.Outline.Mug |
+|  | TablerIcons.Outline.Mug-off |  | TablerIcons.Outline.Multiplier-0-5x |  | TablerIcons.Outline.Multiplier-1-5x |
+|  | TablerIcons.Outline.Multiplier-1x |  | TablerIcons.Outline.Multiplier-2x |  | TablerIcons.Outline.Mushroom |
+|  | TablerIcons.Outline.Mushroom-off |  | TablerIcons.Outline.Music |  | TablerIcons.Outline.Music-bolt |
+|  | TablerIcons.Outline.Music-cancel |  | TablerIcons.Outline.Music-check |  | TablerIcons.Outline.Music-code |
+|  | TablerIcons.Outline.Music-cog |  | TablerIcons.Outline.Music-discount |  | TablerIcons.Outline.Music-dollar |
+|  | TablerIcons.Outline.Music-down |  | TablerIcons.Outline.Music-exclamation |  | TablerIcons.Outline.Music-heart |
+|  | TablerIcons.Outline.Music-minus |  | TablerIcons.Outline.Music-off |  | TablerIcons.Outline.Music-pause |
+|  | TablerIcons.Outline.Music-pin |  | TablerIcons.Outline.Music-plus |  | TablerIcons.Outline.Music-question |
+|  | TablerIcons.Outline.Music-search |  | TablerIcons.Outline.Music-share |  | TablerIcons.Outline.Music-star |
+|  | TablerIcons.Outline.Music-up |  | TablerIcons.Outline.Music-x |  | TablerIcons.Outline.Navigation |
+|  | TablerIcons.Outline.Navigation-bolt |  | TablerIcons.Outline.Navigation-cancel |  | TablerIcons.Outline.Navigation-check |
+|  | TablerIcons.Outline.Navigation-code |  | TablerIcons.Outline.Navigation-cog |  | TablerIcons.Outline.Navigation-discount |
+|  | TablerIcons.Outline.Navigation-dollar |  | TablerIcons.Outline.Navigation-down |  | TablerIcons.Outline.Navigation-east |
+|  | TablerIcons.Outline.Navigation-exclamation |  | TablerIcons.Outline.Navigation-heart |  | TablerIcons.Outline.Navigation-minus |
+|  | TablerIcons.Outline.Navigation-north |  | TablerIcons.Outline.Navigation-off |  | TablerIcons.Outline.Navigation-pause |
+|  | TablerIcons.Outline.Navigation-pin |  | TablerIcons.Outline.Navigation-plus |  | TablerIcons.Outline.Navigation-question |
+|  | TablerIcons.Outline.Navigation-search |  | TablerIcons.Outline.Navigation-share |  | TablerIcons.Outline.Navigation-south |
+|  | TablerIcons.Outline.Navigation-star |  | TablerIcons.Outline.Navigation-top |  | TablerIcons.Outline.Navigation-up |
+|  | TablerIcons.Outline.Navigation-west |  | TablerIcons.Outline.Navigation-x |  | TablerIcons.Outline.Needle |
+|  | TablerIcons.Outline.Needle-thread |  | TablerIcons.Outline.Network |  | TablerIcons.Outline.Network-off |
+|  | TablerIcons.Outline.New-section |  | TablerIcons.Outline.News |  | TablerIcons.Outline.News-off |
+|  | TablerIcons.Outline.Nfc |  | TablerIcons.Outline.Nfc-off |  | TablerIcons.Outline.No-copyright |
+|  | TablerIcons.Outline.No-creative-commons |  | TablerIcons.Outline.No-derivatives |  | TablerIcons.Outline.North-star |
+|  | TablerIcons.Outline.Note |  | TablerIcons.Outline.Note-off |  | TablerIcons.Outline.Notebook |
+|  | TablerIcons.Outline.Notebook-off |  | TablerIcons.Outline.Notes |  | TablerIcons.Outline.Notes-off |
+|  | TablerIcons.Outline.Notification |  | TablerIcons.Outline.Notification-off |  | TablerIcons.Outline.Number |
+|  | TablerIcons.Outline.Number-0 |  | TablerIcons.Outline.Number-0-small |  | TablerIcons.Outline.Number-1 |
+|  | TablerIcons.Outline.Number-1-small |  | TablerIcons.Outline.Number-10 |  | TablerIcons.Outline.Number-10-small |
+|  | TablerIcons.Outline.Number-100-small |  | TablerIcons.Outline.Number-11 |  | TablerIcons.Outline.Number-11-small |
+|  | TablerIcons.Outline.Number-12-small |  | TablerIcons.Outline.Number-123 |  | TablerIcons.Outline.Number-13-small |
+|  | TablerIcons.Outline.Number-14-small |  | TablerIcons.Outline.Number-15-small |  | TablerIcons.Outline.Number-16-small |
+|  | TablerIcons.Outline.Number-17-small |  | TablerIcons.Outline.Number-18-small |  | TablerIcons.Outline.Number-19-small |
+|  | TablerIcons.Outline.Number-2 |  | TablerIcons.Outline.Number-2-small |  | TablerIcons.Outline.Number-20-small |
+|  | TablerIcons.Outline.Number-21-small |  | TablerIcons.Outline.Number-22-small |  | TablerIcons.Outline.Number-23-small |
+|  | TablerIcons.Outline.Number-24-small |  | TablerIcons.Outline.Number-25-small |  | TablerIcons.Outline.Number-26-small |
+|  | TablerIcons.Outline.Number-27-small |  | TablerIcons.Outline.Number-28-small |  | TablerIcons.Outline.Number-29-small |
+|  | TablerIcons.Outline.Number-3 |  | TablerIcons.Outline.Number-3-small |  | TablerIcons.Outline.Number-30-small |
+|  | TablerIcons.Outline.Number-31-small |  | TablerIcons.Outline.Number-32-small |  | TablerIcons.Outline.Number-33-small |
+|  | TablerIcons.Outline.Number-34-small |  | TablerIcons.Outline.Number-35-small |  | TablerIcons.Outline.Number-36-small |
+|  | TablerIcons.Outline.Number-37-small |  | TablerIcons.Outline.Number-38-small |  | TablerIcons.Outline.Number-39-small |
+|  | TablerIcons.Outline.Number-4 |  | TablerIcons.Outline.Number-4-small |  | TablerIcons.Outline.Number-40-small |
+|  | TablerIcons.Outline.Number-41-small |  | TablerIcons.Outline.Number-42-small |  | TablerIcons.Outline.Number-43-small |
+|  | TablerIcons.Outline.Number-44-small |  | TablerIcons.Outline.Number-45-small |  | TablerIcons.Outline.Number-46-small |
+|  | TablerIcons.Outline.Number-47-small |  | TablerIcons.Outline.Number-48-small |  | TablerIcons.Outline.Number-49-small |
+|  | TablerIcons.Outline.Number-5 |  | TablerIcons.Outline.Number-5-small |  | TablerIcons.Outline.Number-50-small |
+|  | TablerIcons.Outline.Number-51-small |  | TablerIcons.Outline.Number-52-small |  | TablerIcons.Outline.Number-53-small |
+|  | TablerIcons.Outline.Number-54-small |  | TablerIcons.Outline.Number-55-small |  | TablerIcons.Outline.Number-56-small |
+|  | TablerIcons.Outline.Number-57-small |  | TablerIcons.Outline.Number-58-small |  | TablerIcons.Outline.Number-59-small |
+|  | TablerIcons.Outline.Number-6 |  | TablerIcons.Outline.Number-6-small |  | TablerIcons.Outline.Number-60-small |
+|  | TablerIcons.Outline.Number-61-small |  | TablerIcons.Outline.Number-62-small |  | TablerIcons.Outline.Number-63-small |
+|  | TablerIcons.Outline.Number-64-small |  | TablerIcons.Outline.Number-65-small |  | TablerIcons.Outline.Number-66-small |
+|  | TablerIcons.Outline.Number-67-small |  | TablerIcons.Outline.Number-68-small |  | TablerIcons.Outline.Number-69-small |
+|  | TablerIcons.Outline.Number-7 |  | TablerIcons.Outline.Number-7-small |  | TablerIcons.Outline.Number-70-small |
+|  | TablerIcons.Outline.Number-71-small |  | TablerIcons.Outline.Number-72-small |  | TablerIcons.Outline.Number-73-small |
+|  | TablerIcons.Outline.Number-74-small |  | TablerIcons.Outline.Number-75-small |  | TablerIcons.Outline.Number-76-small |
+|  | TablerIcons.Outline.Number-77-small |  | TablerIcons.Outline.Number-78-small |  | TablerIcons.Outline.Number-79-small |
+|  | TablerIcons.Outline.Number-8 |  | TablerIcons.Outline.Number-8-small |  | TablerIcons.Outline.Number-80-small |
+|  | TablerIcons.Outline.Number-81-small |  | TablerIcons.Outline.Number-82-small |  | TablerIcons.Outline.Number-83-small |
+|  | TablerIcons.Outline.Number-84-small |  | TablerIcons.Outline.Number-85-small |  | TablerIcons.Outline.Number-86-small |
+|  | TablerIcons.Outline.Number-87-small |  | TablerIcons.Outline.Number-88-small |  | TablerIcons.Outline.Number-89-small |
+|  | TablerIcons.Outline.Number-9 |  | TablerIcons.Outline.Number-9-small |  | TablerIcons.Outline.Number-90-small |
+|  | TablerIcons.Outline.Number-91-small |  | TablerIcons.Outline.Number-92-small |  | TablerIcons.Outline.Number-93-small |
+|  | TablerIcons.Outline.Number-94-small |  | TablerIcons.Outline.Number-95-small |  | TablerIcons.Outline.Number-96-small |
+|  | TablerIcons.Outline.Number-97-small |  | TablerIcons.Outline.Number-98-small |  | TablerIcons.Outline.Number-99-small |
+|  | TablerIcons.Outline.Numbers |  | TablerIcons.Outline.Nurse |  | TablerIcons.Outline.Nut |
+|  | TablerIcons.Outline.Object-scan |  | TablerIcons.Outline.Octagon |  | TablerIcons.Outline.Octagon-minus |
+|  | TablerIcons.Outline.Octagon-minus-2 |  | TablerIcons.Outline.Octagon-off |  | TablerIcons.Outline.Octagon-plus |
+|  | TablerIcons.Outline.Octagon-plus-2 |  | TablerIcons.Outline.Octahedron |  | TablerIcons.Outline.Octahedron-off |
+|  | TablerIcons.Outline.Octahedron-plus |  | TablerIcons.Outline.Old |  | TablerIcons.Outline.Olympics |
+|  | TablerIcons.Outline.Olympics-off |  | TablerIcons.Outline.Om |  | TablerIcons.Outline.Omega |
+|  | TablerIcons.Outline.Option |  | TablerIcons.Outline.Outbound |  | TablerIcons.Outline.Outlet |
+|  | TablerIcons.Outline.Oval |  | TablerIcons.Outline.Oval-vertical |  | TablerIcons.Outline.Overline |
+|  | TablerIcons.Outline.Package |  | TablerIcons.Outline.Package-export |  | TablerIcons.Outline.Package-import |
+|  | TablerIcons.Outline.Package-off |  | TablerIcons.Outline.Packages |  | TablerIcons.Outline.Pacman |
+|  | TablerIcons.Outline.Page-break |  | TablerIcons.Outline.Paint |  | TablerIcons.Outline.Paint-off |
+|  | TablerIcons.Outline.Palette |  | TablerIcons.Outline.Palette-off |  | TablerIcons.Outline.Panorama-horizontal |
+|  | TablerIcons.Outline.Panorama-horizontal-off |  | TablerIcons.Outline.Panorama-vertical |  | TablerIcons.Outline.Panorama-vertical-off |
+|  | TablerIcons.Outline.Paper-bag |  | TablerIcons.Outline.Paper-bag-off |  | TablerIcons.Outline.Paperclip |
+|  | TablerIcons.Outline.Parachute |  | TablerIcons.Outline.Parachute-off |  | TablerIcons.Outline.Parentheses |
+|  | TablerIcons.Outline.Parentheses-off |  | TablerIcons.Outline.Parking |  | TablerIcons.Outline.Parking-circle |
+|  | TablerIcons.Outline.Parking-off |  | TablerIcons.Outline.Password |  | TablerIcons.Outline.Password-fingerprint |
+|  | TablerIcons.Outline.Password-mobile-phone |  | TablerIcons.Outline.Password-user |  | TablerIcons.Outline.Paw |
+|  | TablerIcons.Outline.Paw-off |  | TablerIcons.Outline.Paywall |  | TablerIcons.Outline.Pdf |
+|  | TablerIcons.Outline.Peace |  | TablerIcons.Outline.Pencil |  | TablerIcons.Outline.Pencil-bolt |
+|  | TablerIcons.Outline.Pencil-cancel |  | TablerIcons.Outline.Pencil-check |  | TablerIcons.Outline.Pencil-code |
+|  | TablerIcons.Outline.Pencil-cog |  | TablerIcons.Outline.Pencil-discount |  | TablerIcons.Outline.Pencil-dollar |
+|  | TablerIcons.Outline.Pencil-down |  | TablerIcons.Outline.Pencil-exclamation |  | TablerIcons.Outline.Pencil-heart |
+|  | TablerIcons.Outline.Pencil-minus |  | TablerIcons.Outline.Pencil-off |  | TablerIcons.Outline.Pencil-pause |
+|  | TablerIcons.Outline.Pencil-pin |  | TablerIcons.Outline.Pencil-plus |  | TablerIcons.Outline.Pencil-question |
+|  | TablerIcons.Outline.Pencil-search |  | TablerIcons.Outline.Pencil-share |  | TablerIcons.Outline.Pencil-star |
+|  | TablerIcons.Outline.Pencil-up |  | TablerIcons.Outline.Pencil-x |  | TablerIcons.Outline.Pennant |
+|  | TablerIcons.Outline.Pennant-2 |  | TablerIcons.Outline.Pennant-off |  | TablerIcons.Outline.Pentagon |
+|  | TablerIcons.Outline.Pentagon-minus |  | TablerIcons.Outline.Pentagon-number-0 |  | TablerIcons.Outline.Pentagon-number-1 |
+|  | TablerIcons.Outline.Pentagon-number-2 |  | TablerIcons.Outline.Pentagon-number-3 |  | TablerIcons.Outline.Pentagon-number-4 |
+|  | TablerIcons.Outline.Pentagon-number-5 |  | TablerIcons.Outline.Pentagon-number-6 |  | TablerIcons.Outline.Pentagon-number-7 |
+|  | TablerIcons.Outline.Pentagon-number-8 |  | TablerIcons.Outline.Pentagon-number-9 |  | TablerIcons.Outline.Pentagon-off |
+|  | TablerIcons.Outline.Pentagon-plus |  | TablerIcons.Outline.Pentagon-x |  | TablerIcons.Outline.Pentagram |
+|  | TablerIcons.Outline.Pepper |  | TablerIcons.Outline.Pepper-off |  | TablerIcons.Outline.Percentage |
+|  | TablerIcons.Outline.Percentage-0 |  | TablerIcons.Outline.Percentage-10 |  | TablerIcons.Outline.Percentage-100 |
+|  | TablerIcons.Outline.Percentage-20 |  | TablerIcons.Outline.Percentage-25 |  | TablerIcons.Outline.Percentage-30 |
+|  | TablerIcons.Outline.Percentage-33 |  | TablerIcons.Outline.Percentage-40 |  | TablerIcons.Outline.Percentage-50 |
+|  | TablerIcons.Outline.Percentage-60 |  | TablerIcons.Outline.Percentage-66 |  | TablerIcons.Outline.Percentage-70 |
+|  | TablerIcons.Outline.Percentage-75 |  | TablerIcons.Outline.Percentage-80 |  | TablerIcons.Outline.Percentage-90 |
+|  | TablerIcons.Outline.Perfume |  | TablerIcons.Outline.Perspective |  | TablerIcons.Outline.Perspective-off |
+|  | TablerIcons.Outline.Phone |  | TablerIcons.Outline.Phone-call |  | TablerIcons.Outline.Phone-calling |
+|  | TablerIcons.Outline.Phone-check |  | TablerIcons.Outline.Phone-done |  | TablerIcons.Outline.Phone-end |
+|  | TablerIcons.Outline.Phone-incoming |  | TablerIcons.Outline.Phone-off |  | TablerIcons.Outline.Phone-outgoing |
+|  | TablerIcons.Outline.Phone-pause |  | TablerIcons.Outline.Phone-plus |  | TablerIcons.Outline.Phone-ringing |
+|  | TablerIcons.Outline.Phone-spark |  | TablerIcons.Outline.Phone-x |  | TablerIcons.Outline.Photo |
+|  | TablerIcons.Outline.Photo-ai |  | TablerIcons.Outline.Photo-bitcoin |  | TablerIcons.Outline.Photo-bolt |
+|  | TablerIcons.Outline.Photo-cancel |  | TablerIcons.Outline.Photo-check |  | TablerIcons.Outline.Photo-circle |
+|  | TablerIcons.Outline.Photo-circle-minus |  | TablerIcons.Outline.Photo-circle-plus |  | TablerIcons.Outline.Photo-code |
+|  | TablerIcons.Outline.Photo-cog |  | TablerIcons.Outline.Photo-dollar |  | TablerIcons.Outline.Photo-down |
+|  | TablerIcons.Outline.Photo-edit |  | TablerIcons.Outline.Photo-exclamation |  | TablerIcons.Outline.Photo-heart |
+|  | TablerIcons.Outline.Photo-hexagon |  | TablerIcons.Outline.Photo-minus |  | TablerIcons.Outline.Photo-off |
+|  | TablerIcons.Outline.Photo-pause |  | TablerIcons.Outline.Photo-pentagon |  | TablerIcons.Outline.Photo-pin |
+|  | TablerIcons.Outline.Photo-plus |  | TablerIcons.Outline.Photo-question |  | TablerIcons.Outline.Photo-scan |
+|  | TablerIcons.Outline.Photo-search |  | TablerIcons.Outline.Photo-sensor |  | TablerIcons.Outline.Photo-sensor-2 |
+|  | TablerIcons.Outline.Photo-sensor-3 |  | TablerIcons.Outline.Photo-share |  | TablerIcons.Outline.Photo-shield |
+|  | TablerIcons.Outline.Photo-spark |  | TablerIcons.Outline.Photo-square-rounded |  | TablerIcons.Outline.Photo-star |
+|  | TablerIcons.Outline.Photo-up |  | TablerIcons.Outline.Photo-video |  | TablerIcons.Outline.Photo-x |
+|  | TablerIcons.Outline.Physotherapist |  | TablerIcons.Outline.Piano |  | TablerIcons.Outline.Pick |
+|  | TablerIcons.Outline.Picnic-table |  | TablerIcons.Outline.Picture-in-picture |  | TablerIcons.Outline.Picture-in-picture-off |
+|  | TablerIcons.Outline.Picture-in-picture-on |  | TablerIcons.Outline.Picture-in-picture-top |  | TablerIcons.Outline.Pig |
+|  | TablerIcons.Outline.Pig-money |  | TablerIcons.Outline.Pig-off |  | TablerIcons.Outline.Pilcrow |
+|  | TablerIcons.Outline.Pilcrow-left |  | TablerIcons.Outline.Pilcrow-right |  | TablerIcons.Outline.Pill |
+|  | TablerIcons.Outline.Pill-off |  | TablerIcons.Outline.Pills |  | TablerIcons.Outline.Pin |
+|  | TablerIcons.Outline.Pin-end |  | TablerIcons.Outline.Pin-invoke |  | TablerIcons.Outline.Ping-pong |
+|  | TablerIcons.Outline.Pinned |  | TablerIcons.Outline.Pinned-off |  | TablerIcons.Outline.Pizza |
+|  | TablerIcons.Outline.Pizza-off |  | TablerIcons.Outline.Placeholder |  | TablerIcons.Outline.Plane |
+|  | TablerIcons.Outline.Plane-arrival |  | TablerIcons.Outline.Plane-departure |  | TablerIcons.Outline.Plane-inflight |
+|  | TablerIcons.Outline.Plane-off |  | TablerIcons.Outline.Plane-tilt |  | TablerIcons.Outline.Planet |
+|  | TablerIcons.Outline.Planet-off |  | TablerIcons.Outline.Plant |  | TablerIcons.Outline.Plant-2 |
+|  | TablerIcons.Outline.Plant-2-off |  | TablerIcons.Outline.Plant-off |  | TablerIcons.Outline.Play-basketball |
+|  | TablerIcons.Outline.Play-card |  | TablerIcons.Outline.Play-card-1 |  | TablerIcons.Outline.Play-card-10 |
+|  | TablerIcons.Outline.Play-card-2 |  | TablerIcons.Outline.Play-card-3 |  | TablerIcons.Outline.Play-card-4 |
+|  | TablerIcons.Outline.Play-card-5 |  | TablerIcons.Outline.Play-card-6 |  | TablerIcons.Outline.Play-card-7 |
+|  | TablerIcons.Outline.Play-card-8 |  | TablerIcons.Outline.Play-card-9 |  | TablerIcons.Outline.Play-card-a |
+|  | TablerIcons.Outline.Play-card-j |  | TablerIcons.Outline.Play-card-k |  | TablerIcons.Outline.Play-card-off |
+|  | TablerIcons.Outline.Play-card-q |  | TablerIcons.Outline.Play-card-star |  | TablerIcons.Outline.Play-football |
+|  | TablerIcons.Outline.Play-handball |  | TablerIcons.Outline.Play-volleyball |  | TablerIcons.Outline.Player-eject |
+|  | TablerIcons.Outline.Player-pause |  | TablerIcons.Outline.Player-play |  | TablerIcons.Outline.Player-record |
+|  | TablerIcons.Outline.Player-skip-back |  | TablerIcons.Outline.Player-skip-forward |  | TablerIcons.Outline.Player-stop |
+|  | TablerIcons.Outline.Player-track-next |  | TablerIcons.Outline.Player-track-prev |  | TablerIcons.Outline.Playlist |
+|  | TablerIcons.Outline.Playlist-add |  | TablerIcons.Outline.Playlist-off |  | TablerIcons.Outline.Playlist-x |
+|  | TablerIcons.Outline.Playstation-circle |  | TablerIcons.Outline.Playstation-square |  | TablerIcons.Outline.Playstation-triangle |
+|  | TablerIcons.Outline.Playstation-x |  | TablerIcons.Outline.Plug |  | TablerIcons.Outline.Plug-connected |
+|  | TablerIcons.Outline.Plug-connected-x |  | TablerIcons.Outline.Plug-off |  | TablerIcons.Outline.Plug-x |
+|  | TablerIcons.Outline.Plus |  | TablerIcons.Outline.Plus-equal |  | TablerIcons.Outline.Plus-minus |
+|  | TablerIcons.Outline.Png |  | TablerIcons.Outline.Podium |  | TablerIcons.Outline.Podium-off |
+|  | TablerIcons.Outline.Point |  | TablerIcons.Outline.Point-off |  | TablerIcons.Outline.Pointer |
+|  | TablerIcons.Outline.Pointer-bolt |  | TablerIcons.Outline.Pointer-cancel |  | TablerIcons.Outline.Pointer-check |
+|  | TablerIcons.Outline.Pointer-code |  | TablerIcons.Outline.Pointer-cog |  | TablerIcons.Outline.Pointer-dollar |
+|  | TablerIcons.Outline.Pointer-down |  | TablerIcons.Outline.Pointer-exclamation |  | TablerIcons.Outline.Pointer-heart |
+|  | TablerIcons.Outline.Pointer-minus |  | TablerIcons.Outline.Pointer-off |  | TablerIcons.Outline.Pointer-pause |
+|  | TablerIcons.Outline.Pointer-pin |  | TablerIcons.Outline.Pointer-plus |  | TablerIcons.Outline.Pointer-question |
+|  | TablerIcons.Outline.Pointer-search |  | TablerIcons.Outline.Pointer-share |  | TablerIcons.Outline.Pointer-star |
+|  | TablerIcons.Outline.Pointer-up |  | TablerIcons.Outline.Pointer-x |  | TablerIcons.Outline.Pokeball |
+|  | TablerIcons.Outline.Pokeball-off |  | TablerIcons.Outline.Poker-chip |  | TablerIcons.Outline.Polaroid |
+|  | TablerIcons.Outline.Polygon |  | TablerIcons.Outline.Polygon-off |  | TablerIcons.Outline.Poo |
+|  | TablerIcons.Outline.Pool |  | TablerIcons.Outline.Pool-off |  | TablerIcons.Outline.Power |
+|  | TablerIcons.Outline.Pray |  | TablerIcons.Outline.Premium-rights |  | TablerIcons.Outline.Prescription |
+|  | TablerIcons.Outline.Presentation |  | TablerIcons.Outline.Presentation-analytics |  | TablerIcons.Outline.Presentation-off |
+|  | TablerIcons.Outline.Printer |  | TablerIcons.Outline.Printer-off |  | TablerIcons.Outline.Prism |
+|  | TablerIcons.Outline.Prism-light |  | TablerIcons.Outline.Prism-off |  | TablerIcons.Outline.Prism-plus |
+|  | TablerIcons.Outline.Prison |  | TablerIcons.Outline.Progress |  | TablerIcons.Outline.Progress-alert |
+|  | TablerIcons.Outline.Progress-bolt |  | TablerIcons.Outline.Progress-check |  | TablerIcons.Outline.Progress-down |
+|  | TablerIcons.Outline.Progress-help |  | TablerIcons.Outline.Progress-x |  | TablerIcons.Outline.Prompt |
+|  | TablerIcons.Outline.Prong |  | TablerIcons.Outline.Propeller |  | TablerIcons.Outline.Propeller-off |
+|  | TablerIcons.Outline.Protocol |  | TablerIcons.Outline.Pumpkin-scary |  | TablerIcons.Outline.Puzzle |
+|  | TablerIcons.Outline.Puzzle-2 |  | TablerIcons.Outline.Puzzle-off |  | TablerIcons.Outline.Pyramid |
+|  | TablerIcons.Outline.Pyramid-off |  | TablerIcons.Outline.Pyramid-plus |  | TablerIcons.Outline.Qrcode |
+|  | TablerIcons.Outline.Qrcode-off |  | TablerIcons.Outline.Question-mark |  | TablerIcons.Outline.Quote |
+|  | TablerIcons.Outline.Quote-off |  | TablerIcons.Outline.Quotes |  | TablerIcons.Outline.Radar |
+|  | TablerIcons.Outline.Radar-2 |  | TablerIcons.Outline.Radar-off |  | TablerIcons.Outline.Radio |
+|  | TablerIcons.Outline.Radio-off |  | TablerIcons.Outline.Radioactive |  | TablerIcons.Outline.Radioactive-off |
+|  | TablerIcons.Outline.Radius-bottom-left |  | TablerIcons.Outline.Radius-bottom-right |  | TablerIcons.Outline.Radius-top-left |
+|  | TablerIcons.Outline.Radius-top-right |  | TablerIcons.Outline.Rainbow |  | TablerIcons.Outline.Rainbow-off |
+|  | TablerIcons.Outline.Rating-12-plus |  | TablerIcons.Outline.Rating-14-plus |  | TablerIcons.Outline.Rating-16-plus |
+|  | TablerIcons.Outline.Rating-18-plus |  | TablerIcons.Outline.Rating-21-plus |  | TablerIcons.Outline.Razor |
+|  | TablerIcons.Outline.Razor-electric |  | TablerIcons.Outline.Receipt |  | TablerIcons.Outline.Receipt-2 |
+|  | TablerIcons.Outline.Receipt-bitcoin |  | TablerIcons.Outline.Receipt-dollar |  | TablerIcons.Outline.Receipt-euro |
+|  | TablerIcons.Outline.Receipt-off |  | TablerIcons.Outline.Receipt-pound |  | TablerIcons.Outline.Receipt-refund |
+|  | TablerIcons.Outline.Receipt-rupee |  | TablerIcons.Outline.Receipt-tax |  | TablerIcons.Outline.Receipt-yen |
+|  | TablerIcons.Outline.Receipt-yuan |  | TablerIcons.Outline.Recharging |  | TablerIcons.Outline.Record-mail |
+|  | TablerIcons.Outline.Record-mail-off |  | TablerIcons.Outline.Rectangle |  | TablerIcons.Outline.Rectangle-rounded-bottom |
+|  | TablerIcons.Outline.Rectangle-rounded-top |  | TablerIcons.Outline.Rectangle-vertical |  | TablerIcons.Outline.Rectangular-prism |
+|  | TablerIcons.Outline.Rectangular-prism-off |  | TablerIcons.Outline.Rectangular-prism-plus |  | TablerIcons.Outline.Recycle |
+|  | TablerIcons.Outline.Recycle-off |  | TablerIcons.Outline.Refresh |  | TablerIcons.Outline.Refresh-alert |
+|  | TablerIcons.Outline.Refresh-dot |  | TablerIcons.Outline.Refresh-off |  | TablerIcons.Outline.Regex |
+|  | TablerIcons.Outline.Regex-off |  | TablerIcons.Outline.Registered |  | TablerIcons.Outline.Relation-many-to-many |
+|  | TablerIcons.Outline.Relation-one-to-many |  | TablerIcons.Outline.Relation-one-to-one |  | TablerIcons.Outline.Reload |
+|  | TablerIcons.Outline.Reorder |  | TablerIcons.Outline.Repeat |  | TablerIcons.Outline.Repeat-off |
+|  | TablerIcons.Outline.Repeat-once |  | TablerIcons.Outline.Replace |  | TablerIcons.Outline.Replace-off |
+|  | TablerIcons.Outline.Replace-user |  | TablerIcons.Outline.Report |  | TablerIcons.Outline.Report-analytics |
+|  | TablerIcons.Outline.Report-medical |  | TablerIcons.Outline.Report-money |  | TablerIcons.Outline.Report-off |
+|  | TablerIcons.Outline.Report-search |  | TablerIcons.Outline.Reserved-line |  | TablerIcons.Outline.Resize |
+|  | TablerIcons.Outline.Restore |  | TablerIcons.Outline.Rewind-backward-10 |  | TablerIcons.Outline.Rewind-backward-15 |
+|  | TablerIcons.Outline.Rewind-backward-20 |  | TablerIcons.Outline.Rewind-backward-30 |  | TablerIcons.Outline.Rewind-backward-40 |
+|  | TablerIcons.Outline.Rewind-backward-5 |  | TablerIcons.Outline.Rewind-backward-50 |  | TablerIcons.Outline.Rewind-backward-60 |
+|  | TablerIcons.Outline.Rewind-forward-10 |  | TablerIcons.Outline.Rewind-forward-15 |  | TablerIcons.Outline.Rewind-forward-20 |
+|  | TablerIcons.Outline.Rewind-forward-30 |  | TablerIcons.Outline.Rewind-forward-40 |  | TablerIcons.Outline.Rewind-forward-5 |
+|  | TablerIcons.Outline.Rewind-forward-50 |  | TablerIcons.Outline.Rewind-forward-60 |  | TablerIcons.Outline.Ribbon-health |
+|  | TablerIcons.Outline.Rings |  | TablerIcons.Outline.Ripple |  | TablerIcons.Outline.Ripple-down |
+|  | TablerIcons.Outline.Ripple-off |  | TablerIcons.Outline.Ripple-up |  | TablerIcons.Outline.Road |
+|  | TablerIcons.Outline.Road-off |  | TablerIcons.Outline.Road-sign |  | TablerIcons.Outline.Robot |
+|  | TablerIcons.Outline.Robot-face |  | TablerIcons.Outline.Robot-off |  | TablerIcons.Outline.Rocket |
+|  | TablerIcons.Outline.Rocket-off |  | TablerIcons.Outline.Roller-skating |  | TablerIcons.Outline.Rollercoaster |
+|  | TablerIcons.Outline.Rollercoaster-off |  | TablerIcons.Outline.Rosette |  | TablerIcons.Outline.Rosette-asterisk |
+|  | TablerIcons.Outline.Rosette-discount |  | TablerIcons.Outline.Rosette-discount-check |  | TablerIcons.Outline.Rosette-discount-check-off |
+|  | TablerIcons.Outline.Rosette-discount-off |  | TablerIcons.Outline.Rosette-number-0 |  | TablerIcons.Outline.Rosette-number-1 |
+|  | TablerIcons.Outline.Rosette-number-2 |  | TablerIcons.Outline.Rosette-number-3 |  | TablerIcons.Outline.Rosette-number-4 |
+|  | TablerIcons.Outline.Rosette-number-5 |  | TablerIcons.Outline.Rosette-number-6 |  | TablerIcons.Outline.Rosette-number-7 |
+|  | TablerIcons.Outline.Rosette-number-8 |  | TablerIcons.Outline.Rosette-number-9 |  | TablerIcons.Outline.Rotate |
+|  | TablerIcons.Outline.Rotate-2 |  | TablerIcons.Outline.Rotate-360 |  | TablerIcons.Outline.Rotate-3d |
+|  | TablerIcons.Outline.Rotate-clockwise |  | TablerIcons.Outline.Rotate-clockwise-2 |  | TablerIcons.Outline.Rotate-dot |
+|  | TablerIcons.Outline.Rotate-rectangle |  | TablerIcons.Outline.Route |  | TablerIcons.Outline.Route-2 |
+|  | TablerIcons.Outline.Route-alt-left |  | TablerIcons.Outline.Route-alt-right |  | TablerIcons.Outline.Route-off |
+|  | TablerIcons.Outline.Route-scan |  | TablerIcons.Outline.Route-square |  | TablerIcons.Outline.Route-square-2 |
+|  | TablerIcons.Outline.Route-x |  | TablerIcons.Outline.Route-x-2 |  | TablerIcons.Outline.Router |
+|  | TablerIcons.Outline.Router-off |  | TablerIcons.Outline.Row-insert-bottom |  | TablerIcons.Outline.Row-insert-top |
+|  | TablerIcons.Outline.Row-remove |  | TablerIcons.Outline.Rss |  | TablerIcons.Outline.Rubber-stamp |
+|  | TablerIcons.Outline.Rubber-stamp-off |  | TablerIcons.Outline.Ruler |  | TablerIcons.Outline.Ruler-2 |
+|  | TablerIcons.Outline.Ruler-2-off |  | TablerIcons.Outline.Ruler-3 |  | TablerIcons.Outline.Ruler-measure |
+|  | TablerIcons.Outline.Ruler-measure-2 |  | TablerIcons.Outline.Ruler-off |  | TablerIcons.Outline.Run |
+|  | TablerIcons.Outline.Rv-truck |  | TablerIcons.Outline.S-turn-down |  | TablerIcons.Outline.S-turn-left |
+|  | TablerIcons.Outline.S-turn-right |  | TablerIcons.Outline.S-turn-up |  | TablerIcons.Outline.Sailboat |
+|  | TablerIcons.Outline.Sailboat-2 |  | TablerIcons.Outline.Sailboat-off |  | TablerIcons.Outline.Salad |
+|  | TablerIcons.Outline.Salt |  | TablerIcons.Outline.Sandbox |  | TablerIcons.Outline.Satellite |
+|  | TablerIcons.Outline.Satellite-off |  | TablerIcons.Outline.Sausage |  | TablerIcons.Outline.Scale |
+|  | TablerIcons.Outline.Scale-off |  | TablerIcons.Outline.Scale-outline |  | TablerIcons.Outline.Scale-outline-off |
+|  | TablerIcons.Outline.Scan |  | TablerIcons.Outline.Scan-eye |  | TablerIcons.Outline.Scan-position |
+|  | TablerIcons.Outline.Schema |  | TablerIcons.Outline.Schema-off |  | TablerIcons.Outline.School |
+|  | TablerIcons.Outline.School-bell |  | TablerIcons.Outline.School-off |  | TablerIcons.Outline.Scissors |
+|  | TablerIcons.Outline.Scissors-off |  | TablerIcons.Outline.Scooter |  | TablerIcons.Outline.Scooter-electric |
+|  | TablerIcons.Outline.Scoreboard |  | TablerIcons.Outline.Screen-share |  | TablerIcons.Outline.Screen-share-off |
+|  | TablerIcons.Outline.Screenshot |  | TablerIcons.Outline.Scribble |  | TablerIcons.Outline.Scribble-off |
+|  | TablerIcons.Outline.Script |  | TablerIcons.Outline.Script-minus |  | TablerIcons.Outline.Script-plus |
+|  | TablerIcons.Outline.Script-x |  | TablerIcons.Outline.Scuba-diving |  | TablerIcons.Outline.Scuba-diving-tank |
+|  | TablerIcons.Outline.Scuba-mask |  | TablerIcons.Outline.Scuba-mask-off |  | TablerIcons.Outline.Sdk |
+|  | TablerIcons.Outline.Search |  | TablerIcons.Outline.Search-off |  | TablerIcons.Outline.Section |
+|  | TablerIcons.Outline.Section-sign |  | TablerIcons.Outline.Seedling |  | TablerIcons.Outline.Seedling-off |
+|  | TablerIcons.Outline.Select |  | TablerIcons.Outline.Select-all |  | TablerIcons.Outline.Selector |
+|  | TablerIcons.Outline.Send |  | TablerIcons.Outline.Send-2 |  | TablerIcons.Outline.Send-off |
+|  | TablerIcons.Outline.Seo |  | TablerIcons.Outline.Separator |  | TablerIcons.Outline.Separator-horizontal |
+|  | TablerIcons.Outline.Separator-vertical |  | TablerIcons.Outline.Server |  | TablerIcons.Outline.Server-2 |
+|  | TablerIcons.Outline.Server-bolt |  | TablerIcons.Outline.Server-cog |  | TablerIcons.Outline.Server-off |
+|  | TablerIcons.Outline.Server-spark |  | TablerIcons.Outline.Servicemark |  | TablerIcons.Outline.Settings |
+|  | TablerIcons.Outline.Settings-2 |  | TablerIcons.Outline.Settings-ai |  | TablerIcons.Outline.Settings-automation |
+|  | TablerIcons.Outline.Settings-bolt |  | TablerIcons.Outline.Settings-cancel |  | TablerIcons.Outline.Settings-check |
+|  | TablerIcons.Outline.Settings-code |  | TablerIcons.Outline.Settings-cog |  | TablerIcons.Outline.Settings-dollar |
+|  | TablerIcons.Outline.Settings-down |  | TablerIcons.Outline.Settings-exclamation |  | TablerIcons.Outline.Settings-heart |
+|  | TablerIcons.Outline.Settings-minus |  | TablerIcons.Outline.Settings-off |  | TablerIcons.Outline.Settings-pause |
+|  | TablerIcons.Outline.Settings-pin |  | TablerIcons.Outline.Settings-plus |  | TablerIcons.Outline.Settings-question |
+|  | TablerIcons.Outline.Settings-search |  | TablerIcons.Outline.Settings-share |  | TablerIcons.Outline.Settings-spark |
+|  | TablerIcons.Outline.Settings-star |  | TablerIcons.Outline.Settings-up |  | TablerIcons.Outline.Settings-x |
+|  | TablerIcons.Outline.Shadow |  | TablerIcons.Outline.Shadow-off |  | TablerIcons.Outline.Shape |
+|  | TablerIcons.Outline.Shape-2 |  | TablerIcons.Outline.Shape-3 |  | TablerIcons.Outline.Shape-off |
+|  | TablerIcons.Outline.Share |  | TablerIcons.Outline.Share-2 |  | TablerIcons.Outline.Share-3 |
+|  | TablerIcons.Outline.Share-off |  | TablerIcons.Outline.Shareplay |  | TablerIcons.Outline.Shield |
+|  | TablerIcons.Outline.Shield-bolt |  | TablerIcons.Outline.Shield-cancel |  | TablerIcons.Outline.Shield-check |
+|  | TablerIcons.Outline.Shield-checkered |  | TablerIcons.Outline.Shield-chevron |  | TablerIcons.Outline.Shield-code |
+|  | TablerIcons.Outline.Shield-cog |  | TablerIcons.Outline.Shield-dollar |  | TablerIcons.Outline.Shield-down |
+|  | TablerIcons.Outline.Shield-exclamation |  | TablerIcons.Outline.Shield-half |  | TablerIcons.Outline.Shield-heart |
+|  | TablerIcons.Outline.Shield-lock |  | TablerIcons.Outline.Shield-minus |  | TablerIcons.Outline.Shield-off |
+|  | TablerIcons.Outline.Shield-pause |  | TablerIcons.Outline.Shield-pin |  | TablerIcons.Outline.Shield-plus |
+|  | TablerIcons.Outline.Shield-question |  | TablerIcons.Outline.Shield-search |  | TablerIcons.Outline.Shield-share |
+|  | TablerIcons.Outline.Shield-star |  | TablerIcons.Outline.Shield-up |  | TablerIcons.Outline.Shield-x |
+|  | TablerIcons.Outline.Ship |  | TablerIcons.Outline.Ship-off |  | TablerIcons.Outline.Shirt |
+|  | TablerIcons.Outline.Shirt-off |  | TablerIcons.Outline.Shirt-sport |  | TablerIcons.Outline.Shoe |
+|  | TablerIcons.Outline.Shoe-off |  | TablerIcons.Outline.Shopping-bag |  | TablerIcons.Outline.Shopping-bag-check |
+|  | TablerIcons.Outline.Shopping-bag-discount |  | TablerIcons.Outline.Shopping-bag-edit |  | TablerIcons.Outline.Shopping-bag-exclamation |
+|  | TablerIcons.Outline.Shopping-bag-heart |  | TablerIcons.Outline.Shopping-bag-minus |  | TablerIcons.Outline.Shopping-bag-plus |
+|  | TablerIcons.Outline.Shopping-bag-search |  | TablerIcons.Outline.Shopping-bag-x |  | TablerIcons.Outline.Shopping-cart |
+|  | TablerIcons.Outline.Shopping-cart-bolt |  | TablerIcons.Outline.Shopping-cart-cancel |  | TablerIcons.Outline.Shopping-cart-check |
+|  | TablerIcons.Outline.Shopping-cart-code |  | TablerIcons.Outline.Shopping-cart-cog |  | TablerIcons.Outline.Shopping-cart-copy |
+|  | TablerIcons.Outline.Shopping-cart-discount |  | TablerIcons.Outline.Shopping-cart-dollar |  | TablerIcons.Outline.Shopping-cart-down |
+|  | TablerIcons.Outline.Shopping-cart-exclamation |  | TablerIcons.Outline.Shopping-cart-heart |  | TablerIcons.Outline.Shopping-cart-minus |
+|  | TablerIcons.Outline.Shopping-cart-off |  | TablerIcons.Outline.Shopping-cart-pause |  | TablerIcons.Outline.Shopping-cart-pin |
+|  | TablerIcons.Outline.Shopping-cart-plus |  | TablerIcons.Outline.Shopping-cart-question |  | TablerIcons.Outline.Shopping-cart-search |
+|  | TablerIcons.Outline.Shopping-cart-share |  | TablerIcons.Outline.Shopping-cart-star |  | TablerIcons.Outline.Shopping-cart-up |
+|  | TablerIcons.Outline.Shopping-cart-x |  | TablerIcons.Outline.Shovel |  | TablerIcons.Outline.Shovel-pitchforks |
+|  | TablerIcons.Outline.Shredder |  | TablerIcons.Outline.Sign-left |  | TablerIcons.Outline.Sign-right |
+|  | TablerIcons.Outline.Signal-2g |  | TablerIcons.Outline.Signal-3g |  | TablerIcons.Outline.Signal-4g |
+|  | TablerIcons.Outline.Signal-4g-plus |  | TablerIcons.Outline.Signal-5g |  | TablerIcons.Outline.Signal-6g |
+|  | TablerIcons.Outline.Signal-e |  | TablerIcons.Outline.Signal-g |  | TablerIcons.Outline.Signal-h |
+|  | TablerIcons.Outline.Signal-h-plus |  | TablerIcons.Outline.Signal-lte |  | TablerIcons.Outline.Signature |
+|  | TablerIcons.Outline.Signature-off |  | TablerIcons.Outline.Sitemap |  | TablerIcons.Outline.Sitemap-off |
+|  | TablerIcons.Outline.Skateboard |  | TablerIcons.Outline.Skateboard-off |  | TablerIcons.Outline.Skateboarding |
+|  | TablerIcons.Outline.Skew-x |  | TablerIcons.Outline.Skew-y |  | TablerIcons.Outline.Ski-jumping |
+|  | TablerIcons.Outline.Skull |  | TablerIcons.Outline.Slash |  | TablerIcons.Outline.Slashes |
+|  | TablerIcons.Outline.Sleigh |  | TablerIcons.Outline.Slice |  | TablerIcons.Outline.Slideshow |
+|  | TablerIcons.Outline.Smart-home |  | TablerIcons.Outline.Smart-home-off |  | TablerIcons.Outline.Smoking |
+|  | TablerIcons.Outline.Smoking-no |  | TablerIcons.Outline.Snowboarding |  | TablerIcons.Outline.Snowflake |
+|  | TablerIcons.Outline.Snowflake-off |  | TablerIcons.Outline.Snowman |  | TablerIcons.Outline.Soccer-field |
+|  | TablerIcons.Outline.Social |  | TablerIcons.Outline.Social-off |  | TablerIcons.Outline.Sock |
+|  | TablerIcons.Outline.Sofa |  | TablerIcons.Outline.Sofa-off |  | TablerIcons.Outline.Solar-electricity |
+|  | TablerIcons.Outline.Solar-panel |  | TablerIcons.Outline.Solar-panel-2 |  | TablerIcons.Outline.Sort-0-9 |
+|  | TablerIcons.Outline.Sort-9-0 |  | TablerIcons.Outline.Sort-a-z |  | TablerIcons.Outline.Sort-ascending |
+|  | TablerIcons.Outline.Sort-ascending-2 |  | TablerIcons.Outline.Sort-ascending-letters |  | TablerIcons.Outline.Sort-ascending-numbers |
+|  | TablerIcons.Outline.Sort-ascending-shapes |  | TablerIcons.Outline.Sort-ascending-small-big |  | TablerIcons.Outline.Sort-descending |
+|  | TablerIcons.Outline.Sort-descending-2 |  | TablerIcons.Outline.Sort-descending-letters |  | TablerIcons.Outline.Sort-descending-numbers |
+|  | TablerIcons.Outline.Sort-descending-shapes |  | TablerIcons.Outline.Sort-descending-small-big |  | TablerIcons.Outline.Sort-z-a |
+|  | TablerIcons.Outline.Sos |  | TablerIcons.Outline.Soup |  | TablerIcons.Outline.Soup-off |
+|  | TablerIcons.Outline.Source-code |  | TablerIcons.Outline.Space |  | TablerIcons.Outline.Space-off |
+|  | TablerIcons.Outline.Spaces |  | TablerIcons.Outline.Spacing-horizontal |  | TablerIcons.Outline.Spacing-vertical |
+|  | TablerIcons.Outline.Spade |  | TablerIcons.Outline.Sparkles |  | TablerIcons.Outline.Sparkles-2 |
+|  | TablerIcons.Outline.Speakerphone |  | TablerIcons.Outline.Speedboat |  | TablerIcons.Outline.Sphere |
+|  | TablerIcons.Outline.Sphere-off |  | TablerIcons.Outline.Sphere-plus |  | TablerIcons.Outline.Spider |
+|  | TablerIcons.Outline.Spiral |  | TablerIcons.Outline.Spiral-off |  | TablerIcons.Outline.Sport-billard |
+|  | TablerIcons.Outline.Spray |  | TablerIcons.Outline.Spy |  | TablerIcons.Outline.Spy-off |
+|  | TablerIcons.Outline.Sql |  | TablerIcons.Outline.Square |  | TablerIcons.Outline.Square-arrow-down |
+|  | TablerIcons.Outline.Square-arrow-left |  | TablerIcons.Outline.Square-arrow-right |  | TablerIcons.Outline.Square-arrow-up |
+|  | TablerIcons.Outline.Square-asterisk |  | TablerIcons.Outline.Square-check |  | TablerIcons.Outline.Square-chevron-down |
+|  | TablerIcons.Outline.Square-chevron-left |  | TablerIcons.Outline.Square-chevron-right |  | TablerIcons.Outline.Square-chevron-up |
+|  | TablerIcons.Outline.Square-chevrons-down |  | TablerIcons.Outline.Square-chevrons-left |  | TablerIcons.Outline.Square-chevrons-right |
+|  | TablerIcons.Outline.Square-chevrons-up |  | TablerIcons.Outline.Square-dashed |  | TablerIcons.Outline.Square-dot |
+|  | TablerIcons.Outline.Square-f0 |  | TablerIcons.Outline.Square-f1 |  | TablerIcons.Outline.Square-f2 |
+|  | TablerIcons.Outline.Square-f3 |  | TablerIcons.Outline.Square-f4 |  | TablerIcons.Outline.Square-f5 |
+|  | TablerIcons.Outline.Square-f6 |  | TablerIcons.Outline.Square-f7 |  | TablerIcons.Outline.Square-f8 |
+|  | TablerIcons.Outline.Square-f9 |  | TablerIcons.Outline.Square-forbid |  | TablerIcons.Outline.Square-forbid-2 |
+|  | TablerIcons.Outline.Square-half |  | TablerIcons.Outline.Square-key |  | TablerIcons.Outline.Square-letter-a |
+|  | TablerIcons.Outline.Square-letter-b |  | TablerIcons.Outline.Square-letter-c |  | TablerIcons.Outline.Square-letter-d |
+|  | TablerIcons.Outline.Square-letter-e |  | TablerIcons.Outline.Square-letter-f |  | TablerIcons.Outline.Square-letter-g |
+|  | TablerIcons.Outline.Square-letter-h |  | TablerIcons.Outline.Square-letter-i |  | TablerIcons.Outline.Square-letter-j |
+|  | TablerIcons.Outline.Square-letter-k |  | TablerIcons.Outline.Square-letter-l |  | TablerIcons.Outline.Square-letter-m |
+|  | TablerIcons.Outline.Square-letter-n |  | TablerIcons.Outline.Square-letter-o |  | TablerIcons.Outline.Square-letter-p |
+|  | TablerIcons.Outline.Square-letter-q |  | TablerIcons.Outline.Square-letter-r |  | TablerIcons.Outline.Square-letter-s |
+|  | TablerIcons.Outline.Square-letter-t |  | TablerIcons.Outline.Square-letter-u |  | TablerIcons.Outline.Square-letter-v |
+|  | TablerIcons.Outline.Square-letter-w |  | TablerIcons.Outline.Square-letter-x |  | TablerIcons.Outline.Square-letter-y |
+|  | TablerIcons.Outline.Square-letter-z |  | TablerIcons.Outline.Square-minus |  | TablerIcons.Outline.Square-minus-2 |
+|  | TablerIcons.Outline.Square-number-0 |  | TablerIcons.Outline.Square-number-1 |  | TablerIcons.Outline.Square-number-2 |
+|  | TablerIcons.Outline.Square-number-3 |  | TablerIcons.Outline.Square-number-4 |  | TablerIcons.Outline.Square-number-5 |
+|  | TablerIcons.Outline.Square-number-6 |  | TablerIcons.Outline.Square-number-7 |  | TablerIcons.Outline.Square-number-8 |
+|  | TablerIcons.Outline.Square-number-9 |  | TablerIcons.Outline.Square-off |  | TablerIcons.Outline.Square-percentage |
+|  | TablerIcons.Outline.Square-plus |  | TablerIcons.Outline.Square-plus-2 |  | TablerIcons.Outline.Square-root |
+|  | TablerIcons.Outline.Square-root-2 |  | TablerIcons.Outline.Square-rotated |  | TablerIcons.Outline.Square-rotated-asterisk |
+|  | TablerIcons.Outline.Square-rotated-forbid |  | TablerIcons.Outline.Square-rotated-forbid-2 |  | TablerIcons.Outline.Square-rotated-off |
+|  | TablerIcons.Outline.Square-rounded |  | TablerIcons.Outline.Square-rounded-arrow-down |  | TablerIcons.Outline.Square-rounded-arrow-left |
+|  | TablerIcons.Outline.Square-rounded-arrow-right |  | TablerIcons.Outline.Square-rounded-arrow-up |  | TablerIcons.Outline.Square-rounded-check |
+|  | TablerIcons.Outline.Square-rounded-chevron-down |  | TablerIcons.Outline.Square-rounded-chevron-left |  | TablerIcons.Outline.Square-rounded-chevron-right |
+|  | TablerIcons.Outline.Square-rounded-chevron-up |  | TablerIcons.Outline.Square-rounded-chevrons-down |  | TablerIcons.Outline.Square-rounded-chevrons-left |
+|  | TablerIcons.Outline.Square-rounded-chevrons-right |  | TablerIcons.Outline.Square-rounded-chevrons-up |  | TablerIcons.Outline.Square-rounded-letter-a |
+|  | TablerIcons.Outline.Square-rounded-letter-b |  | TablerIcons.Outline.Square-rounded-letter-c |  | TablerIcons.Outline.Square-rounded-letter-d |
+|  | TablerIcons.Outline.Square-rounded-letter-e |  | TablerIcons.Outline.Square-rounded-letter-f |  | TablerIcons.Outline.Square-rounded-letter-g |
+|  | TablerIcons.Outline.Square-rounded-letter-h |  | TablerIcons.Outline.Square-rounded-letter-i |  | TablerIcons.Outline.Square-rounded-letter-j |
+|  | TablerIcons.Outline.Square-rounded-letter-k |  | TablerIcons.Outline.Square-rounded-letter-l |  | TablerIcons.Outline.Square-rounded-letter-m |
+|  | TablerIcons.Outline.Square-rounded-letter-n |  | TablerIcons.Outline.Square-rounded-letter-o |  | TablerIcons.Outline.Square-rounded-letter-p |
+|  | TablerIcons.Outline.Square-rounded-letter-q |  | TablerIcons.Outline.Square-rounded-letter-r |  | TablerIcons.Outline.Square-rounded-letter-s |
+|  | TablerIcons.Outline.Square-rounded-letter-t |  | TablerIcons.Outline.Square-rounded-letter-u |  | TablerIcons.Outline.Square-rounded-letter-v |
+|  | TablerIcons.Outline.Square-rounded-letter-w |  | TablerIcons.Outline.Square-rounded-letter-x |  | TablerIcons.Outline.Square-rounded-letter-y |
+|  | TablerIcons.Outline.Square-rounded-letter-z |  | TablerIcons.Outline.Square-rounded-minus |  | TablerIcons.Outline.Square-rounded-minus-2 |
+|  | TablerIcons.Outline.Square-rounded-number-0 |  | TablerIcons.Outline.Square-rounded-number-1 |  | TablerIcons.Outline.Square-rounded-number-2 |
+|  | TablerIcons.Outline.Square-rounded-number-3 |  | TablerIcons.Outline.Square-rounded-number-4 |  | TablerIcons.Outline.Square-rounded-number-5 |
+|  | TablerIcons.Outline.Square-rounded-number-6 |  | TablerIcons.Outline.Square-rounded-number-7 |  | TablerIcons.Outline.Square-rounded-number-8 |
+|  | TablerIcons.Outline.Square-rounded-number-9 |  | TablerIcons.Outline.Square-rounded-percentage |  | TablerIcons.Outline.Square-rounded-plus |
+|  | TablerIcons.Outline.Square-rounded-plus-2 |  | TablerIcons.Outline.Square-rounded-x |  | TablerIcons.Outline.Square-toggle |
+|  | TablerIcons.Outline.Square-toggle-horizontal |  | TablerIcons.Outline.Square-x |  | TablerIcons.Outline.Squares |
+|  | TablerIcons.Outline.Squares-diagonal |  | TablerIcons.Outline.Squares-selected |  | TablerIcons.Outline.Stack |
+|  | TablerIcons.Outline.Stack-2 |  | TablerIcons.Outline.Stack-3 |  | TablerIcons.Outline.Stack-back |
+|  | TablerIcons.Outline.Stack-backward |  | TablerIcons.Outline.Stack-forward |  | TablerIcons.Outline.Stack-front |
+|  | TablerIcons.Outline.Stack-middle |  | TablerIcons.Outline.Stack-pop |  | TablerIcons.Outline.Stack-push |
+|  | TablerIcons.Outline.Stairs |  | TablerIcons.Outline.Stairs-down |  | TablerIcons.Outline.Stairs-up |
+|  | TablerIcons.Outline.Star |  | TablerIcons.Outline.Star-half |  | TablerIcons.Outline.Star-off |
+|  | TablerIcons.Outline.Stars |  | TablerIcons.Outline.Stars-off |  | TablerIcons.Outline.Status-change |
+|  | TablerIcons.Outline.Steam |  | TablerIcons.Outline.Steering-wheel |  | TablerIcons.Outline.Steering-wheel-off |
+|  | TablerIcons.Outline.Step-into |  | TablerIcons.Outline.Step-out |  | TablerIcons.Outline.Stereo-glasses |
+|  | TablerIcons.Outline.Stethoscope |  | TablerIcons.Outline.Stethoscope-off |  | TablerIcons.Outline.Sticker |
+|  | TablerIcons.Outline.Sticker-2 |  | TablerIcons.Outline.Stopwatch |  | TablerIcons.Outline.Storm |
+|  | TablerIcons.Outline.Storm-off |  | TablerIcons.Outline.Stretching |  | TablerIcons.Outline.Stretching-2 |
+|  | TablerIcons.Outline.Strikethrough |  | TablerIcons.Outline.Submarine |  | TablerIcons.Outline.Subscript |
+|  | TablerIcons.Outline.Subtask |  | TablerIcons.Outline.Subtitles |  | TablerIcons.Outline.Subtitles-ai |
+|  | TablerIcons.Outline.Subtitles-edit |  | TablerIcons.Outline.Subtitles-off |  | TablerIcons.Outline.Sum |
+|  | TablerIcons.Outline.Sum-off |  | TablerIcons.Outline.Sun |  | TablerIcons.Outline.Sun-electricity |
+|  | TablerIcons.Outline.Sun-high |  | TablerIcons.Outline.Sun-low |  | TablerIcons.Outline.Sun-moon |
+|  | TablerIcons.Outline.Sun-off |  | TablerIcons.Outline.Sun-wind |  | TablerIcons.Outline.Sunglasses |
+|  | TablerIcons.Outline.Sunrise |  | TablerIcons.Outline.Sunset |  | TablerIcons.Outline.Sunset-2 |
+|  | TablerIcons.Outline.Superscript |  | TablerIcons.Outline.Svg |  | TablerIcons.Outline.Swimming |
+|  | TablerIcons.Outline.Swipe |  | TablerIcons.Outline.Swipe-down |  | TablerIcons.Outline.Swipe-left |
+|  | TablerIcons.Outline.Swipe-right |  | TablerIcons.Outline.Swipe-up |  | TablerIcons.Outline.Switch |
+|  | TablerIcons.Outline.Switch-2 |  | TablerIcons.Outline.Switch-3 |  | TablerIcons.Outline.Switch-horizontal |
+|  | TablerIcons.Outline.Switch-vertical |  | TablerIcons.Outline.Sword |  | TablerIcons.Outline.Sword-off |
+|  | TablerIcons.Outline.Swords |  | TablerIcons.Outline.Table |  | TablerIcons.Outline.Table-alias |
+|  | TablerIcons.Outline.Table-column |  | TablerIcons.Outline.Table-dashed |  | TablerIcons.Outline.Table-down |
+|  | TablerIcons.Outline.Table-export |  | TablerIcons.Outline.Table-heart |  | TablerIcons.Outline.Table-import |
+|  | TablerIcons.Outline.Table-minus |  | TablerIcons.Outline.Table-off |  | TablerIcons.Outline.Table-options |
+|  | TablerIcons.Outline.Table-plus |  | TablerIcons.Outline.Table-row |  | TablerIcons.Outline.Table-share |
+|  | TablerIcons.Outline.Table-shortcut |  | TablerIcons.Outline.Table-spark |  | TablerIcons.Outline.Tag |
+|  | TablerIcons.Outline.Tag-minus |  | TablerIcons.Outline.Tag-off |  | TablerIcons.Outline.Tag-plus |
+|  | TablerIcons.Outline.Tag-starred |  | TablerIcons.Outline.Tags |  | TablerIcons.Outline.Tags-off |
+|  | TablerIcons.Outline.Tallymark-1 |  | TablerIcons.Outline.Tallymark-2 |  | TablerIcons.Outline.Tallymark-3 |
+|  | TablerIcons.Outline.Tallymark-4 |  | TablerIcons.Outline.Tallymarks |  | TablerIcons.Outline.Tank |
+|  | TablerIcons.Outline.Target |  | TablerIcons.Outline.Target-arrow |  | TablerIcons.Outline.Target-off |
+|  | TablerIcons.Outline.Tax |  | TablerIcons.Outline.Tax-euro |  | TablerIcons.Outline.Tax-pound |
+|  | TablerIcons.Outline.Teapot |  | TablerIcons.Outline.Telescope |  | TablerIcons.Outline.Telescope-off |
+|  | TablerIcons.Outline.Temperature |  | TablerIcons.Outline.Temperature-celsius |  | TablerIcons.Outline.Temperature-fahrenheit |
+|  | TablerIcons.Outline.Temperature-minus |  | TablerIcons.Outline.Temperature-off |  | TablerIcons.Outline.Temperature-plus |
+|  | TablerIcons.Outline.Temperature-snow |  | TablerIcons.Outline.Temperature-sun |  | TablerIcons.Outline.Template |
+|  | TablerIcons.Outline.Template-off |  | TablerIcons.Outline.Tent |  | TablerIcons.Outline.Tent-off |
+|  | TablerIcons.Outline.Terminal |  | TablerIcons.Outline.Terminal-2 |  | TablerIcons.Outline.Test-pipe |
+|  | TablerIcons.Outline.Test-pipe-2 |  | TablerIcons.Outline.Test-pipe-off |  | TablerIcons.Outline.Tex |
+|  | TablerIcons.Outline.Text-caption |  | TablerIcons.Outline.Text-color |  | TablerIcons.Outline.Text-decrease |
+|  | TablerIcons.Outline.Text-direction-ltr |  | TablerIcons.Outline.Text-direction-rtl |  | TablerIcons.Outline.Text-grammar |
+|  | TablerIcons.Outline.Text-increase |  | TablerIcons.Outline.Text-orientation |  | TablerIcons.Outline.Text-plus |
+|  | TablerIcons.Outline.Text-recognition |  | TablerIcons.Outline.Text-resize |  | TablerIcons.Outline.Text-scan-2 |
+|  | TablerIcons.Outline.Text-size |  | TablerIcons.Outline.Text-spellcheck |  | TablerIcons.Outline.Text-wrap |
+|  | TablerIcons.Outline.Text-wrap-column |  | TablerIcons.Outline.Text-wrap-disabled |  | TablerIcons.Outline.Texture |
+|  | TablerIcons.Outline.Theater |  | TablerIcons.Outline.Thermometer |  | TablerIcons.Outline.Thumb-down |
+|  | TablerIcons.Outline.Thumb-down-off |  | TablerIcons.Outline.Thumb-up |  | TablerIcons.Outline.Thumb-up-off |
+|  | TablerIcons.Outline.Tic-tac |  | TablerIcons.Outline.Ticket |  | TablerIcons.Outline.Ticket-off |
+|  | TablerIcons.Outline.Tie |  | TablerIcons.Outline.Tilde |  | TablerIcons.Outline.Tilt-shift |
+|  | TablerIcons.Outline.Tilt-shift-off |  | TablerIcons.Outline.Time-duration-0 |  | TablerIcons.Outline.Time-duration-10 |
+|  | TablerIcons.Outline.Time-duration-15 |  | TablerIcons.Outline.Time-duration-30 |  | TablerIcons.Outline.Time-duration-45 |
+|  | TablerIcons.Outline.Time-duration-5 |  | TablerIcons.Outline.Time-duration-60 |  | TablerIcons.Outline.Time-duration-90 |
+|  | TablerIcons.Outline.Time-duration-off |  | TablerIcons.Outline.Timeline |  | TablerIcons.Outline.Timeline-event |
+|  | TablerIcons.Outline.Timeline-event-exclamation |  | TablerIcons.Outline.Timeline-event-minus |  | TablerIcons.Outline.Timeline-event-plus |
+|  | TablerIcons.Outline.Timeline-event-text |  | TablerIcons.Outline.Timeline-event-x |  | TablerIcons.Outline.Timezone |
+|  | TablerIcons.Outline.Tip-jar |  | TablerIcons.Outline.Tip-jar-euro |  | TablerIcons.Outline.Tip-jar-pound |
+|  | TablerIcons.Outline.Tir |  | TablerIcons.Outline.Toggle-left |  | TablerIcons.Outline.Toggle-right |
+|  | TablerIcons.Outline.Toilet-paper |  | TablerIcons.Outline.Toilet-paper-off |  | TablerIcons.Outline.Toml |
+|  | TablerIcons.Outline.Tool |  | TablerIcons.Outline.Tools |  | TablerIcons.Outline.Tools-kitchen |
+|  | TablerIcons.Outline.Tools-kitchen-2 |  | TablerIcons.Outline.Tools-kitchen-2-off |  | TablerIcons.Outline.Tools-kitchen-3 |
+|  | TablerIcons.Outline.Tools-kitchen-off |  | TablerIcons.Outline.Tools-off |  | TablerIcons.Outline.Tooltip |
+|  | TablerIcons.Outline.Topology-bus |  | TablerIcons.Outline.Topology-complex |  | TablerIcons.Outline.Topology-full |
+|  | TablerIcons.Outline.Topology-full-hierarchy |  | TablerIcons.Outline.Topology-ring |  | TablerIcons.Outline.Topology-ring-2 |
+|  | TablerIcons.Outline.Topology-ring-3 |  | TablerIcons.Outline.Topology-star |  | TablerIcons.Outline.Topology-star-2 |
+|  | TablerIcons.Outline.Topology-star-3 |  | TablerIcons.Outline.Topology-star-ring |  | TablerIcons.Outline.Topology-star-ring-2 |
+|  | TablerIcons.Outline.Topology-star-ring-3 |  | TablerIcons.Outline.Torii |  | TablerIcons.Outline.Tornado |
+|  | TablerIcons.Outline.Tournament |  | TablerIcons.Outline.Tower |  | TablerIcons.Outline.Tower-off |
+|  | TablerIcons.Outline.Track |  | TablerIcons.Outline.Tractor |  | TablerIcons.Outline.Trademark |
+|  | TablerIcons.Outline.Traffic-cone |  | TablerIcons.Outline.Traffic-cone-off |  | TablerIcons.Outline.Traffic-lights |
+|  | TablerIcons.Outline.Traffic-lights-off |  | TablerIcons.Outline.Train |  | TablerIcons.Outline.Transaction-bitcoin |
+|  | TablerIcons.Outline.Transaction-dollar |  | TablerIcons.Outline.Transaction-euro |  | TablerIcons.Outline.Transaction-pound |
+|  | TablerIcons.Outline.Transaction-rupee |  | TablerIcons.Outline.Transaction-yen |  | TablerIcons.Outline.Transaction-yuan |
+|  | TablerIcons.Outline.Transfer |  | TablerIcons.Outline.Transfer-in |  | TablerIcons.Outline.Transfer-out |
+|  | TablerIcons.Outline.Transfer-vertical |  | TablerIcons.Outline.Transform |  | TablerIcons.Outline.Transform-point |
+|  | TablerIcons.Outline.Transform-point-bottom-left |  | TablerIcons.Outline.Transform-point-bottom-right |  | TablerIcons.Outline.Transform-point-top-left |
+|  | TablerIcons.Outline.Transform-point-top-right |  | TablerIcons.Outline.Transition-bottom |  | TablerIcons.Outline.Transition-left |
+|  | TablerIcons.Outline.Transition-right |  | TablerIcons.Outline.Transition-top |  | TablerIcons.Outline.Trash |
+|  | TablerIcons.Outline.Trash-off |  | TablerIcons.Outline.Trash-x |  | TablerIcons.Outline.Treadmill |
+|  | TablerIcons.Outline.Tree |  | TablerIcons.Outline.Trees |  | TablerIcons.Outline.Trekking |
+|  | TablerIcons.Outline.Trending-down |  | TablerIcons.Outline.Trending-down-2 |  | TablerIcons.Outline.Trending-down-3 |
+|  | TablerIcons.Outline.Trending-up |  | TablerIcons.Outline.Trending-up-2 |  | TablerIcons.Outline.Trending-up-3 |
+|  | TablerIcons.Outline.Triangle |  | TablerIcons.Outline.Triangle-inverted |  | TablerIcons.Outline.Triangle-minus |
+|  | TablerIcons.Outline.Triangle-minus-2 |  | TablerIcons.Outline.Triangle-off |  | TablerIcons.Outline.Triangle-plus |
+|  | TablerIcons.Outline.Triangle-plus-2 |  | TablerIcons.Outline.Triangle-square-circle |  | TablerIcons.Outline.Triangles |
+|  | TablerIcons.Outline.Trident |  | TablerIcons.Outline.Trolley |  | TablerIcons.Outline.Trophy |
+|  | TablerIcons.Outline.Trophy-off |  | TablerIcons.Outline.Trowel |  | TablerIcons.Outline.Truck |
+|  | TablerIcons.Outline.Truck-delivery |  | TablerIcons.Outline.Truck-loading |  | TablerIcons.Outline.Truck-off |
+|  | TablerIcons.Outline.Truck-return |  | TablerIcons.Outline.Txt |  | TablerIcons.Outline.Typeface |
+|  | TablerIcons.Outline.Typography |  | TablerIcons.Outline.Typography-off |  | TablerIcons.Outline.U-turn-left |
+|  | TablerIcons.Outline.U-turn-right |  | TablerIcons.Outline.Ufo |  | TablerIcons.Outline.Ufo-off |
+|  | TablerIcons.Outline.Uhd |  | TablerIcons.Outline.Umbrella |  | TablerIcons.Outline.Umbrella-2 |
+|  | TablerIcons.Outline.Umbrella-closed |  | TablerIcons.Outline.Umbrella-closed-2 |  | TablerIcons.Outline.Umbrella-off |
+|  | TablerIcons.Outline.Underline |  | TablerIcons.Outline.Universe |  | TablerIcons.Outline.Unlink |
+|  | TablerIcons.Outline.Upload |  | TablerIcons.Outline.Urgent |  | TablerIcons.Outline.Usb |
+|  | TablerIcons.Outline.User |  | TablerIcons.Outline.User-bitcoin |  | TablerIcons.Outline.User-bolt |
+|  | TablerIcons.Outline.User-cancel |  | TablerIcons.Outline.User-check |  | TablerIcons.Outline.User-circle |
+|  | TablerIcons.Outline.User-code |  | TablerIcons.Outline.User-cog |  | TablerIcons.Outline.User-dollar |
+|  | TablerIcons.Outline.User-down |  | TablerIcons.Outline.User-edit |  | TablerIcons.Outline.User-exclamation |
+|  | TablerIcons.Outline.User-heart |  | TablerIcons.Outline.User-hexagon |  | TablerIcons.Outline.User-minus |
+|  | TablerIcons.Outline.User-off |  | TablerIcons.Outline.User-pause |  | TablerIcons.Outline.User-pentagon |
+|  | TablerIcons.Outline.User-pin |  | TablerIcons.Outline.User-plus |  | TablerIcons.Outline.User-question |
+|  | TablerIcons.Outline.User-scan |  | TablerIcons.Outline.User-screen |  | TablerIcons.Outline.User-search |
+|  | TablerIcons.Outline.User-share |  | TablerIcons.Outline.User-shield |  | TablerIcons.Outline.User-square |
+|  | TablerIcons.Outline.User-square-rounded |  | TablerIcons.Outline.User-star |  | TablerIcons.Outline.User-up |
+|  | TablerIcons.Outline.User-x |  | TablerIcons.Outline.Users |  | TablerIcons.Outline.Users-group |
+|  | TablerIcons.Outline.Users-minus |  | TablerIcons.Outline.Users-plus |  | TablerIcons.Outline.Uv-index |
+|  | TablerIcons.Outline.Ux-circle |  | TablerIcons.Outline.Vaccine |  | TablerIcons.Outline.Vaccine-bottle |
+|  | TablerIcons.Outline.Vaccine-bottle-off |  | TablerIcons.Outline.Vaccine-off |  | TablerIcons.Outline.Vacuum-cleaner |
+|  | TablerIcons.Outline.Variable |  | TablerIcons.Outline.Variable-minus |  | TablerIcons.Outline.Variable-off |
+|  | TablerIcons.Outline.Variable-plus |  | TablerIcons.Outline.Vector |  | TablerIcons.Outline.Vector-bezier |
+|  | TablerIcons.Outline.Vector-bezier-2 |  | TablerIcons.Outline.Vector-bezier-arc |  | TablerIcons.Outline.Vector-bezier-circle |
+|  | TablerIcons.Outline.Vector-off |  | TablerIcons.Outline.Vector-spline |  | TablerIcons.Outline.Vector-triangle |
+|  | TablerIcons.Outline.Vector-triangle-off |  | TablerIcons.Outline.Venus |  | TablerIcons.Outline.Versions |
+|  | TablerIcons.Outline.Versions-off |  | TablerIcons.Outline.Video |  | TablerIcons.Outline.Video-minus |
+|  | TablerIcons.Outline.Video-off |  | TablerIcons.Outline.Video-plus |  | TablerIcons.Outline.View-360 |
+|  | TablerIcons.Outline.View-360-arrow |  | TablerIcons.Outline.View-360-number |  | TablerIcons.Outline.View-360-off |
+|  | TablerIcons.Outline.Viewfinder |  | TablerIcons.Outline.Viewfinder-off |  | TablerIcons.Outline.Viewport-narrow |
+|  | TablerIcons.Outline.Viewport-short |  | TablerIcons.Outline.Viewport-tall |  | TablerIcons.Outline.Viewport-wide |
+|  | TablerIcons.Outline.Vinyl |  | TablerIcons.Outline.Vip |  | TablerIcons.Outline.Vip-off |
+|  | TablerIcons.Outline.Virus |  | TablerIcons.Outline.Virus-off |  | TablerIcons.Outline.Virus-search |
+|  | TablerIcons.Outline.Vocabulary |  | TablerIcons.Outline.Vocabulary-off |  | TablerIcons.Outline.Volcano |
+|  | TablerIcons.Outline.Volume |  | TablerIcons.Outline.Volume-2 |  | TablerIcons.Outline.Volume-3 |
+|  | TablerIcons.Outline.Volume-4 |  | TablerIcons.Outline.Volume-off |  | TablerIcons.Outline.Vs |
+|  | TablerIcons.Outline.Walk |  | TablerIcons.Outline.Wall |  | TablerIcons.Outline.Wall-off |
+|  | TablerIcons.Outline.Wallet |  | TablerIcons.Outline.Wallet-off |  | TablerIcons.Outline.Wallpaper |
+|  | TablerIcons.Outline.Wallpaper-off |  | TablerIcons.Outline.Wand |  | TablerIcons.Outline.Wand-off |
+|  | TablerIcons.Outline.Wash |  | TablerIcons.Outline.Wash-dry |  | TablerIcons.Outline.Wash-dry-1 |
+|  | TablerIcons.Outline.Wash-dry-2 |  | TablerIcons.Outline.Wash-dry-3 |  | TablerIcons.Outline.Wash-dry-a |
+|  | TablerIcons.Outline.Wash-dry-dip |  | TablerIcons.Outline.Wash-dry-f |  | TablerIcons.Outline.Wash-dry-flat |
+|  | TablerIcons.Outline.Wash-dry-hang |  | TablerIcons.Outline.Wash-dry-off |  | TablerIcons.Outline.Wash-dry-p |
+|  | TablerIcons.Outline.Wash-dry-shade |  | TablerIcons.Outline.Wash-dry-w |  | TablerIcons.Outline.Wash-dryclean |
+|  | TablerIcons.Outline.Wash-dryclean-off |  | TablerIcons.Outline.Wash-eco |  | TablerIcons.Outline.Wash-gentle |
+|  | TablerIcons.Outline.Wash-hand |  | TablerIcons.Outline.Wash-machine |  | TablerIcons.Outline.Wash-off |
+|  | TablerIcons.Outline.Wash-press |  | TablerIcons.Outline.Wash-temperature-1 |  | TablerIcons.Outline.Wash-temperature-2 |
+|  | TablerIcons.Outline.Wash-temperature-3 |  | TablerIcons.Outline.Wash-temperature-4 |  | TablerIcons.Outline.Wash-temperature-5 |
+|  | TablerIcons.Outline.Wash-temperature-6 |  | TablerIcons.Outline.Wash-tumble-dry |  | TablerIcons.Outline.Wash-tumble-off |
+|  | TablerIcons.Outline.Waterpolo |  | TablerIcons.Outline.Wave-saw-tool |  | TablerIcons.Outline.Wave-sine |
+|  | TablerIcons.Outline.Wave-square |  | TablerIcons.Outline.Waves-electricity |  | TablerIcons.Outline.Webhook |
+|  | TablerIcons.Outline.Webhook-off |  | TablerIcons.Outline.Weight |  | TablerIcons.Outline.Wheat |
+|  | TablerIcons.Outline.Wheat-off |  | TablerIcons.Outline.Wheel |  | TablerIcons.Outline.Wheelchair |
+|  | TablerIcons.Outline.Wheelchair-off |  | TablerIcons.Outline.Whirl |  | TablerIcons.Outline.Whisk |
+|  | TablerIcons.Outline.Wifi |  | TablerIcons.Outline.Wifi-0 |  | TablerIcons.Outline.Wifi-1 |
+|  | TablerIcons.Outline.Wifi-2 |  | TablerIcons.Outline.Wifi-off |  | TablerIcons.Outline.Wind |
+|  | TablerIcons.Outline.Wind-electricity |  | TablerIcons.Outline.Wind-off |  | TablerIcons.Outline.Windmill |
+|  | TablerIcons.Outline.Windmill-off |  | TablerIcons.Outline.Window |  | TablerIcons.Outline.Window-maximize |
+|  | TablerIcons.Outline.Window-minimize |  | TablerIcons.Outline.Window-off |  | TablerIcons.Outline.Windsock |
+|  | TablerIcons.Outline.Wiper |  | TablerIcons.Outline.Wiper-wash |  | TablerIcons.Outline.Woman |
+|  | TablerIcons.Outline.Wood |  | TablerIcons.Outline.World |  | TablerIcons.Outline.World-bolt |
+|  | TablerIcons.Outline.World-cancel |  | TablerIcons.Outline.World-check |  | TablerIcons.Outline.World-code |
+|  | TablerIcons.Outline.World-cog |  | TablerIcons.Outline.World-dollar |  | TablerIcons.Outline.World-down |
+|  | TablerIcons.Outline.World-download |  | TablerIcons.Outline.World-exclamation |  | TablerIcons.Outline.World-heart |
+|  | TablerIcons.Outline.World-latitude |  | TablerIcons.Outline.World-longitude |  | TablerIcons.Outline.World-minus |
+|  | TablerIcons.Outline.World-off |  | TablerIcons.Outline.World-pause |  | TablerIcons.Outline.World-pin |
+|  | TablerIcons.Outline.World-plus |  | TablerIcons.Outline.World-question |  | TablerIcons.Outline.World-search |
+|  | TablerIcons.Outline.World-share |  | TablerIcons.Outline.World-star |  | TablerIcons.Outline.World-up |
+|  | TablerIcons.Outline.World-upload |  | TablerIcons.Outline.World-www |  | TablerIcons.Outline.World-x |
+|  | TablerIcons.Outline.Wrecking-ball |  | TablerIcons.Outline.Writing |  | TablerIcons.Outline.Writing-off |
+|  | TablerIcons.Outline.Writing-sign |  | TablerIcons.Outline.Writing-sign-off |  | TablerIcons.Outline.X |
+|  | TablerIcons.Outline.X-power-y |  | TablerIcons.Outline.Xbox-a |  | TablerIcons.Outline.Xbox-b |
+|  | TablerIcons.Outline.Xbox-x |  | TablerIcons.Outline.Xbox-y |  | TablerIcons.Outline.Xd |
+|  | TablerIcons.Outline.Xxx |  | TablerIcons.Outline.Yin-yang |  | TablerIcons.Outline.Yoga |
+|  | TablerIcons.Outline.Zeppelin |  | TablerIcons.Outline.Zeppelin-off |  | TablerIcons.Outline.Zip |
+|  | TablerIcons.Outline.Zodiac-aquarius |  | TablerIcons.Outline.Zodiac-aries |  | TablerIcons.Outline.Zodiac-cancer |
+|  | TablerIcons.Outline.Zodiac-capricorn |  | TablerIcons.Outline.Zodiac-gemini |  | TablerIcons.Outline.Zodiac-leo |
+|  | TablerIcons.Outline.Zodiac-libra |  | TablerIcons.Outline.Zodiac-pisces |  | TablerIcons.Outline.Zodiac-sagittarius |
+|  | TablerIcons.Outline.Zodiac-scorpio |  | TablerIcons.Outline.Zodiac-taurus |  | TablerIcons.Outline.Zodiac-virgo |
+|  | TablerIcons.Outline.Zoom |  | TablerIcons.Outline.Zoom-cancel |  | TablerIcons.Outline.Zoom-check |
+|  | TablerIcons.Outline.Zoom-code |  | TablerIcons.Outline.Zoom-exclamation |  | TablerIcons.Outline.Zoom-in |
+|  | TablerIcons.Outline.Zoom-in-area |  | TablerIcons.Outline.Zoom-money |  | TablerIcons.Outline.Zoom-out |
+|  | TablerIcons.Outline.Zoom-out-area |  | TablerIcons.Outline.Zoom-pan |  | TablerIcons.Outline.Zoom-question |
+|  | TablerIcons.Outline.Zoom-replace |  | TablerIcons.Outline.Zoom-reset |  | TablerIcons.Outline.Zoom-scan |
+|  | TablerIcons.Outline.Zzz |  | TablerIcons.Outline.Zzz-off |
