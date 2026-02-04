@@ -1,5 +1,5 @@
+import generator.Icon
 import generator.MapIconsToSvgComposeFolderResult
-import generator.SimpleIcons
 import generator.SvgToComposeConfig
 import generator.putRelocatedRelativeTo
 import generator.registerGeneratorTask
@@ -30,16 +30,16 @@ registerGeneratorTask(
             "Elsevier"
         )
 
-        val iconsJsonFile = File(repoCloneDir, "_data/simple-icons.json")
+        val iconsJsonFile = File(repoCloneDir, "data/simple-icons.json")
 
-        val icons = Gson().fromJson<SimpleIcons>(iconsJsonFile.readText(), SimpleIcons::class.java).icons
+        val icons = Gson().fromJson<List<Icon>>(iconsJsonFile.readText(), object : com.google.gson.reflect.TypeToken<List<Icon>>() {}.type)
 
         fun String.normalize(form: Normalizer.Form): String {
             return Normalizer.normalize(this, form)
         }
 
         fun iconTitleToSlug(title: String): String {
-            return title.toLowerCase()
+            return title.lowercase()
                 .replace("\\+".toRegex(), "plus")
                 .replace("^\\.".toRegex(), "dot-")
                 .replace("\\.$".toRegex(), "-dot")
@@ -60,31 +60,30 @@ registerGeneratorTask(
                 .replace("[^a-z0-9\\-]".toRegex(), "")
         }
 
-        val iconsNamesFixed = icons.map { if(it.slug != null) it.slug!! else iconTitleToSlug(it.title) }
+        val iconsNamesFixed = icons.map { icon -> if(icon.slug != null) icon.slug!! else iconTitleToSlug(icon.title) }
 
         val iconsDir = File(repoCloneDir, "icons")
 
-        iconsNamesFixed
-            .associate {
-                val sourceName = it.replace(" ", "_").replace("-", "_") + ".svg"
-                val fileName = it.replace(" ", "") + ".svg"
+        val iconMap = iconsNamesFixed.associate { iconName ->
+            val sourceName = iconName.replace(" ", "_").replace("-", "_") + ".svg"
+            val fileName = iconName.replace(" ", "") + ".svg"
 
-                val icon = File(iconsDir, fileName)
-                val renamed = File(iconsDir, sourceName)
-                icon.renameTo(renamed)
+            val icon = File(iconsDir, fileName)
+            val renamed = File(iconsDir, sourceName)
+            icon.renameTo(renamed)
 
-                relocatedNames.putRelocatedRelativeTo(repoCloneDir, renamed, icon)
+            relocatedNames.putRelocatedRelativeTo(repoCloneDir, renamed, icon)
 
-                sourceName to fileName
+            sourceName to fileName
+        }
+
+        // Remove ignored icons
+        iconMap.forEach { (sourceName, fileName) ->
+            if (ignoredIcons.any { ignored -> fileName.contains(ignored, ignoreCase = true) }) {
+                File(iconsDir, fileName).delete()
+                println("Removed ignored icon: $sourceName")
             }
-            .apply {
-                forEach {
-                    if (ignoredIcons.any { ignored -> it.value.contains(ignored, ignoreCase = true) }) {
-                        File(iconsDir, it.value).delete()
-                        println("Removed ignored icon: ${it.key}")
-                    }
-                }
-            }
+        }
 
         MapIconsToSvgComposeFolderResult(
             iconsFolder = iconsDir,
