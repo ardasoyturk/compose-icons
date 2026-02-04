@@ -6,12 +6,10 @@ import compose.icons.CssGgIcons
 import compose.icons.EvaIcons
 import compose.icons.FeatherIcons
 import compose.icons.FontAwesomeIcons
-import compose.icons.LineAwesomeIcons
 import compose.icons.LineaIcons
 import compose.icons.Octicons
 import compose.icons.SimpleIcons
 import compose.icons.TablerIcons
-import compose.icons.WeatherIcons
 import compose.icons.LucideIcons
 
 // TODO: generate this file
@@ -20,10 +18,6 @@ val iconPacks = listOf(
     IconPackModel(
         packName = "css.gg",
         allIcons = CssGgIcons.AllIconsNamed,
-    ),
-    IconPackModel(
-        packName = "Weather Icons by Erik Flowers",
-        allIcons = WeatherIcons.AllIconsNamed,
     ),
     IconPackModel(
         packName = "Eva Icons",
@@ -36,10 +30,6 @@ val iconPacks = listOf(
     IconPackModel(
         packName = "Font Awesome",
         allIcons = FontAwesomeIcons.AllIconsNamed,
-    ),
-    IconPackModel(
-        packName = "Line Awesome",
-        allIcons = LineAwesomeIcons.AllIconsNamed,
     ),
     IconPackModel(
         packName = "Linea",

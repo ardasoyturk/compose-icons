@@ -7,7 +7,7 @@ coroutines = "1.10.1"
 appCompat = "1.7.0"
 composeActivity = "1.10.0"
 
-kotlin = "2.0.21"
+kotlin = "2.0.0"
 
 [libraries]
 plugin-android = { module = "com.android.tools.build:gradle", version.ref = "plugin-android" }

@@ -58,11 +58,9 @@ kotlin {
         val commonMain by getting {
             dependencies {
                 implementation(projects.cssGg)
-                implementation(projects.erikflowersWeatherIcons)
                 implementation(projects.evaIcons)
                 implementation(projects.feather)
                 implementation(projects.fontAwesome)
-                implementation(projects.lineAwesome)
                 implementation(projects.linea)
                 implementation(projects.lucide)
                 implementation(projects.octicons)

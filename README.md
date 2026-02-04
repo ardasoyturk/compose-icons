@@ -63,8 +63,6 @@ Icon(
 | [Font Awesome](https://fontawesome.com/) | 6.7.2 | `font-awesome` | [docs](docs/icon-packs/font-awesome.md) |
 | [Octicons](https://primer.style/octicons/) | 19.21.2 | `octicons` | [docs](docs/icon-packs/octicons.md) |
 | [Linea](http://www.linea.io/) | 1.0 | `linea` | [docs](docs/icon-packs/linea.md) |
-| [Line Awesome](https://icons8.com/line-awesome) | 1.2.1 | `line-awesome` | [docs](docs/icon-packs/line-awesome.md) |
-| [Weather Icons](https://github.com/erikflowers/weather-icons) | 2.0.10 | `erikflowers-weather-icons` | [docs](docs/icon-packs/erikflowers-weather-icons.md) |
 | [css.gg](https://css.gg/) | 2.1.1 | `css-gg` | [docs](docs/icon-packs/css-gg.md) |
 | [Lucide](https://lucide.dev/) | 0.563.1 | `lucide` | [docs](docs/icon-packs/lucide.md) |
 
@@ -76,11 +74,9 @@ composeIcons = "2.0.0"
 
 [libraries]
 composeIcons-cssGg = { module = "com.github.ardasoyturk.compose-icons:css-gg", version.ref = "composeIcons" }
-composeIcons-weatherIcons = { module = "com.github.ardasoyturk.compose-icons:erikflowers-weather-icons", version.ref = "composeIcons" }
 composeIcons-evaIcons = { module = "com.github.ardasoyturk.compose-icons:eva-icons", version.ref = "composeIcons" }
 composeIcons-feather = { module = "com.github.ardasoyturk.compose-icons:feather", version.ref = "composeIcons" }
 composeIcons-fontAwesome = { module = "com.github.ardasoyturk.compose-icons:font-awesome", version.ref = "composeIcons" }
-composeIcons-lineAwesome = { module = "com.github.ardasoyturk.compose-icons:line-awesome", version.ref = "composeIcons" }
 composeIcons-linea = { module = "com.github.ardasoyturk.compose-icons:linea", version.ref = "composeIcons" }
 composeIcons-octicons = { module = "com.github.ardasoyturk.compose-icons:octicons", version.ref = "composeIcons" }
 composeIcons-simpleIcons = { module = "com.github.ardasoyturk.compose-icons:simple-icons", version.ref = "composeIcons" }

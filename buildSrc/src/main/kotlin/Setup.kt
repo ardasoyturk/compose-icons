@@ -32,7 +32,7 @@ private fun BaseExtension.setupAndroid() {
 }
 
 fun Project.setupModuleForComposeMultiplatform(
-    withKotlinExplicitMode: Boolean = true,
+    withKotlinExplicitMode: Boolean = false,
     iosPrefixName: String = "ios", // only used in ios sample
     wasm: Boolean = true,
 ) {
@@ -74,9 +74,9 @@ fun Project.setupModuleForComposeMultiplatform(
                  */
                 val commonMain by getting {
                     dependencies {
-                        implementation(compose.runtime)
-                        implementation(compose.foundation)
-                        implementation(compose.ui)
+                        compileOnly(compose.runtime)
+                        compileOnly(compose.foundation)
+                        compileOnly(compose.ui)
                     }
                 }
                 val commonTest by getting

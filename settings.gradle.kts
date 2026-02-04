@@ -17,8 +17,6 @@ include(
     ":tabler-icons",
     ":eva-icons",
     ":font-awesome",
-    ":erikflowers-weather-icons",
-    ":line-awesome",
     ":linea",
     ":octicons",
     ":css-gg",

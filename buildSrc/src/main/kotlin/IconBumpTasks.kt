@@ -1,6 +1,5 @@
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.register
-import java.io.File
 
 // Data class to hold icon pack information
 data class IconPack(
@@ -18,9 +17,7 @@ val iconPacks = listOf(
     IconPack("eva-icons", "akveo/eva-icons", "v1.1.3"),
     IconPack("font-awesome", "FortAwesome/Font-Awesome", "6.7.2"),
     IconPack("octicons", "primer/octicons", "v19.21.2"),
-    IconPack("line-awesome", "icons8/line-awesome", "v1.2.1", "refs/tags/v1.2.1"),
     IconPack("linea", "linea-io/Linea-Iconset", "1.0"),
-    IconPack("erikflowers-weather-icons", "erikflowers/weather-icons", "2.0.10"),
     IconPack("css-gg", "astrit/css.gg", "2.1.1"),
     IconPack("lucide", "lucide-icons/lucide", "0.563.1")
 )
@@ -31,9 +28,9 @@ fun Project.registerBumpAllIconsTask() {
         description = "Bumps all icon packs to their latest versions by regenerating icons"
         
         doFirst {
-            println("=".repeat(60))
+            println("=".repeat(70))
             println("Bumping All Icon Packs")
-            println("=".repeat(60))
+            println("=".repeat(70))
             println()
             
             var successCount = 0
@@ -59,11 +56,15 @@ fun Project.registerBumpAllIconsTask() {
                 println()
             }
             
-            println("=".repeat(60))
+            println("=".repeat(70))
             println("Summary:")
-            println("  Success: $successCount")
-            println("  Failed: $failureCount")
-            println("=".repeat(60))
+            println("  ✓ Success: $successCount")
+            println("  ✗ Failed: $failureCount")
+            println("=".repeat(70))
+            
+            if (failureCount > 0) {
+                throw RuntimeException("$failureCount icon pack(s) failed to generate. Check the output above for details.")
+            }
         }
     }
 }
