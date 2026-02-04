@@ -16,3 +16,8 @@ plugins {
     id("org.jetbrains.kotlinx.binary-compatibility-validator") version "0.13.0"
 }
 
+// Register icon bump tasks
+registerBumpAllIconsTask()
+registerBumpIconTask()
+registerListIconVersionsTask()
+
