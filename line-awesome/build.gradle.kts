@@ -7,6 +7,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.library")
     id("org.jetbrains.compose")
+    id("org.jetbrains.kotlin.plugin.compose")
     id("com.vanniktech.maven.publish")
 }
 
@@ -18,8 +19,8 @@ android {
 
 registerGeneratorTask(
     githubId = "icons8/line-awesome",
-    version = "a60f11367584e7df157277b5ab9d1654ec91ae24",
-    gitCheckoutName = "a60f11367584e7df157277b5ab9d1654ec91ae24",
+    version = "v1.2.1",
+    gitCheckoutName = "refs/tags/v1.2.1",
     mapSourceCodeIconsToSvgComposeFolder = { repoCloneDir ->
         val relocatedNames = mutableMapOf<String, String>()
 

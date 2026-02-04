@@ -7,6 +7,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.library")
     id("org.jetbrains.compose")
+    id("org.jetbrains.kotlin.plugin.compose")
     id("com.vanniktech.maven.publish")
 }
 
@@ -18,7 +19,7 @@ android {
 
 registerGeneratorTask(
     githubId = "feathericons/feather",
-    version = "v4.28.0",
+    version = "v4.29.2",
     mapSourceCodeIconsToSvgComposeFolder = { repoCloneDir ->
         val iconsDir = File(repoCloneDir, "icons")
 

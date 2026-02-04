@@ -12,6 +12,7 @@ import compose.icons.Octicons
 import compose.icons.SimpleIcons
 import compose.icons.TablerIcons
 import compose.icons.WeatherIcons
+import compose.icons.LucideIcons
 
 // TODO: generate this file
 
@@ -55,5 +56,9 @@ val iconPacks = listOf(
     IconPackModel(
         packName = "Tabler Icons",
         allIcons = TablerIcons.AllIconsNamed,
+    ),
+    IconPackModel(
+        packName = "Lucide",
+        allIcons = LucideIcons.AllIconsNamed,
     ),
 )

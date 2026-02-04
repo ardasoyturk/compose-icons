@@ -7,6 +7,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.library")
     id("org.jetbrains.compose")
+    id("org.jetbrains.kotlin.plugin.compose")
     id("com.vanniktech.maven.publish")
 }
 
@@ -18,7 +19,7 @@ android {
 
 registerGeneratorTask(
     githubId = "astrit/css.gg",
-    version = "2.0.0",
+    version = "2.1.1",
     mapSourceCodeIconsToSvgComposeFolder = { repoCloneDir ->
         val iconsDir = File(repoCloneDir, "icons/svg")
 

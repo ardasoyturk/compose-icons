@@ -8,6 +8,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.application")
     id("org.jetbrains.compose")
+    id("org.jetbrains.kotlin.plugin.compose")
 }
 
 setupModuleForComposeMultiplatform(
@@ -18,7 +19,7 @@ setupModuleForComposeMultiplatform(
 )
 
 android {
-    namespace = "br.devsrsouza.compose.icons.sample"
+    namespace = "io.github.ardasoyturk.compose.icons.sample"
 }
 
 kotlin {
@@ -63,6 +64,7 @@ kotlin {
                 implementation(projects.fontAwesome)
                 implementation(projects.lineAwesome)
                 implementation(projects.linea)
+                implementation(projects.lucide)
                 implementation(projects.octicons)
                 implementation(projects.simpleIcons)
                 implementation(projects.tablerIcons)
@@ -101,11 +103,11 @@ kotlin {
     }
 }
 
-android {
-    defaultConfig {
-        applicationId = "br.devsrsouza.compose.icons.sample"
+    android {
+        defaultConfig {
+            applicationId = "io.github.ardasoyturk.compose.icons.sample"
+        }
     }
-}
 
 compose.desktop {
     application {

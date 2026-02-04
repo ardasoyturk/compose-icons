@@ -21,7 +21,8 @@ include(
     ":line-awesome",
     ":linea",
     ":octicons",
-    ":css-gg"
+    ":css-gg",
+    ":lucide"
 )
 
 include(":sample")

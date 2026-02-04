@@ -16,14 +16,15 @@ import org.gradle.kotlin.dsl.withType
 import org.gradle.kotlin.dsl.getByType
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions
 import org.jetbrains.kotlin.gradle.dsl.KotlinMultiplatformExtension
+import org.jetbrains.kotlin.gradle.plugin.KotlinBasePluginWrapper
 import org.jetbrains.kotlin.gradle.targets.js.dsl.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 private fun BaseExtension.setupAndroid() {
-    compileSdkVersion(34)
+    compileSdkVersion(35)
     defaultConfig {
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 35
 
         versionCode = 1
         versionName = "1.0"
@@ -35,7 +36,7 @@ fun Project.setupModuleForComposeMultiplatform(
     iosPrefixName: String = "ios", // only used in ios sample
     wasm: Boolean = true,
 ) {
-    plugins.withType<org.jetbrains.kotlin.gradle.plugin.KotlinBasePluginWrapper> {
+    plugins.withType<KotlinBasePluginWrapper> {
         extensions.configure<KotlinMultiplatformExtension> {
             val compose = (this as org.gradle.api.plugins.ExtensionAware).extensions.getByName("compose") as org.jetbrains.compose.ComposePlugin.Dependencies
 
@@ -43,7 +44,7 @@ fun Project.setupModuleForComposeMultiplatform(
                 explicitApi()
             }
 
-            android {
+            androidTarget {
                 if(project.plugins.hasPlugin("com.vanniktech.maven.publish")) {
                     publishLibraryVariants("release")
                 }
@@ -73,9 +74,9 @@ fun Project.setupModuleForComposeMultiplatform(
                  */
                 val commonMain by getting {
                     dependencies {
-                        compileOnly(compose.runtime)
-                        compileOnly(compose.foundation)
-                        compileOnly(compose.ui)
+                        implementation(compose.runtime)
+                        implementation(compose.foundation)
+                        implementation(compose.ui)
                     }
                 }
                 val commonTest by getting
