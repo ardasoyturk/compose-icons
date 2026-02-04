@@ -11,10 +11,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose-icons"
 
+// Only include smaller icon packs for JitPack builds
+// Large packs (simple-icons: 3389 icons, tabler-icons: 5989 icons) are excluded
+// because they generate methods too large for the JVM (64KB limit)
 include(
-    ":simple-icons",
     ":feather",
-    ":tabler-icons",
     ":eva-icons",
     ":font-awesome",
     ":linea",
@@ -23,4 +24,9 @@ include(
     ":lucide"
 )
 
-include(":sample")
+// Conditionally include sample only for local builds
+if (!System.getenv("JITPACK").toBoolean()) {
+    include(":sample")
+    include(":simple-icons")
+    include(":tabler-icons")
+}

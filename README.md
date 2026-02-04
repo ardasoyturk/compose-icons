@@ -54,17 +54,30 @@ Icon(
 
 ## Available Icon Packs
 
-| Icon Pack | Version | Gradle Dependency | Documentation |
-|-----------|---------|-------------------|---------------|
-| [Simple Icons](https://simpleicons.org/) | 16.7.0 | `simple-icons` | [docs](docs/icon-packs/simple-icons.md) |
-| [Feather](https://feathericons.com/) | 4.29.2 | `feather` | [docs](docs/icon-packs/feather.md) |
-| [Tabler Icons](https://tabler-icons.io/) | 3.36.1 | `tabler-icons` | [docs](docs/icon-packs/tabler-icons.md) |
-| [Eva Icons](https://akveo.github.io/eva-icons/#/) | 1.1.3 | `eva-icons` | [docs](docs/icon-packs/eva-icons.md) |
-| [Font Awesome](https://fontawesome.com/) | 6.7.2 | `font-awesome` | [docs](docs/icon-packs/font-awesome.md) |
-| [Octicons](https://primer.style/octicons/) | 19.21.2 | `octicons` | [docs](docs/icon-packs/octicons.md) |
-| [Linea](http://www.linea.io/) | 1.0 | `linea` | [docs](docs/icon-packs/linea.md) |
-| [css.gg](https://css.gg/) | 2.1.1 | `css-gg` | [docs](docs/icon-packs/css-gg.md) |
-| [Lucide](https://lucide.dev/) | 0.563.1 | `lucide` | [docs](docs/icon-packs/lucide.md) |
+### JitPack Available (Small Packs)
+
+These icon packs are available via JitPack and have reasonable method sizes:
+
+| Icon Pack | Version | Gradle Dependency | Icons | Documentation |
+|-----------|---------|-------------------|-------|---------------|
+| [Feather](https://feathericons.com/) | 4.29.2 | `feather` | 288 | [docs](docs/icon-packs/feather.md) |
+| [Eva Icons](https://akveo.github.io/eva-icons/#/) | 1.1.3 | `eva-icons` | 493 | [docs](docs/icon-packs/eva-icons.md) |
+| [Font Awesome](https://fontawesome.com/) | 6.7.2 | `font-awesome` | 2,064 | [docs](docs/icon-packs/font-awesome.md) |
+| [Octicons](https://primer.style/octicons/) | 19.21.2 | `octicons` | 721 | [docs](docs/icon-packs/octicons.md) |
+| [Linea](http://www.linea.io/) | 1.0 | `linea` | 723 | [docs](docs/icon-packs/linea.md) |
+| [css.gg](https://css.gg/) | 2.1.1 | `css-gg` | 705 | [docs](docs/icon-packs/css-gg.md) |
+| [Lucide](https://lucide.dev/) | 0.563.1 | `lucide` | 1,669 | [docs](docs/icon-packs/lucide.md) |
+
+### Local Builds Only (Large Packs)
+
+These icon packs have too many icons and exceed the JVM method size limit (64KB). They are available for local builds only:
+
+| Icon Pack | Version | Gradle Dependency | Icons | Documentation |
+|-----------|---------|-------------------|-------|---------------|
+| [Simple Icons](https://simpleicons.org/) | 16.7.0 | `simple-icons` | 3,389 | [docs](docs/icon-packs/simple-icons.md) |
+| [Tabler Icons](https://tabler-icons.io/) | 3.36.1 | `tabler-icons` | 5,989 | [docs](docs/icon-packs/tabler-icons.md) |
+
+**Note:** To use large packs, clone the repository and publish to local Maven with `./gradlew publishToMavenLocal`
 
 ## Version Catalog (TOML)
 
@@ -73,15 +86,18 @@ Icon(
 composeIcons = "2.0.0"
 
 [libraries]
+# JitPack available (small packs)
 composeIcons-cssGg = { module = "com.github.ardasoyturk.compose-icons:css-gg", version.ref = "composeIcons" }
 composeIcons-evaIcons = { module = "com.github.ardasoyturk.compose-icons:eva-icons", version.ref = "composeIcons" }
 composeIcons-feather = { module = "com.github.ardasoyturk.compose-icons:feather", version.ref = "composeIcons" }
 composeIcons-fontAwesome = { module = "com.github.ardasoyturk.compose-icons:font-awesome", version.ref = "composeIcons" }
 composeIcons-linea = { module = "com.github.ardasoyturk.compose-icons:linea", version.ref = "composeIcons" }
 composeIcons-octicons = { module = "com.github.ardasoyturk.compose-icons:octicons", version.ref = "composeIcons" }
-composeIcons-simpleIcons = { module = "com.github.ardasoyturk.compose-icons:simple-icons", version.ref = "composeIcons" }
-composeIcons-tablerIcons = { module = "com.github.ardasoyturk.compose-icons:tabler-icons", version.ref = "composeIcons" }
 composeIcons-lucide = { module = "com.github.ardasoyturk.compose-icons:lucide", version.ref = "composeIcons" }
+
+# Local builds only (large packs - exceed JVM method size limit)
+# composeIcons-simpleIcons = { module = "com.github.ardasoyturk.compose-icons:simple-icons", version.ref = "composeIcons" }
+# composeIcons-tablerIcons = { module = "com.github.ardasoyturk.compose-icons:tabler-icons", version.ref = "composeIcons" }
 ```
 
 ## Documentation

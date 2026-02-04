@@ -9,17 +9,24 @@ data class IconPack(
     val gitCheckoutName: String? = null
 )
 
-// List of all icon packs with their current versions
+// List of icon packs available for JitPack (smaller packs only)
+// Large packs excluded due to JVM method size limit (64KB):
+// - simple-icons: 3389 icons (generates methods too large)
+// - tabler-icons: 5989 icons (generates methods too large)
 val iconPacks = listOf(
-    IconPack("simple-icons", "simple-icons/simple-icons", "16.7.0"),
     IconPack("feather", "feathericons/feather", "v4.29.2"),
-    IconPack("tabler-icons", "tabler/tabler-icons", "v3.36.1"),
     IconPack("eva-icons", "akveo/eva-icons", "v1.1.3"),
     IconPack("font-awesome", "FortAwesome/Font-Awesome", "6.7.2"),
     IconPack("octicons", "primer/octicons", "v19.21.2"),
     IconPack("linea", "linea-io/Linea-Iconset", "1.0"),
     IconPack("css-gg", "astrit/css.gg", "2.1.1"),
     IconPack("lucide", "lucide-icons/lucide", "0.563.1")
+)
+
+// Large icon packs only available for local builds
+val largeIconPacks = listOf(
+    IconPack("simple-icons", "simple-icons/simple-icons", "16.7.0"),
+    IconPack("tabler-icons", "tabler/tabler-icons", "v3.36.1")
 )
 
 fun Project.registerBumpAllIconsTask() {
@@ -95,6 +102,7 @@ fun Project.registerListIconVersionsTask() {
             println("Icon Pack Versions")
             println("=".repeat(80))
             println()
+            println("Available on JitPack (small packs):")
             println(String.format("%-30s %-20s %s", "Name", "Version", "GitHub Repository"))
             println("-".repeat(80))
             
@@ -103,12 +111,23 @@ fun Project.registerListIconVersionsTask() {
             }
             
             println()
-            println("Total: ${iconPacks.size} icon packs")
+            println("Large packs (local builds only - exceed JVM method size limit):")
+            println(String.format("%-30s %-20s %s", "Name", "Version", "GitHub Repository"))
+            println("-".repeat(80))
+            
+            largeIconPacks.forEach { pack ->
+                println(String.format("%-30s %-20s %s", pack.name, pack.version, pack.githubId))
+            }
+            
+            println()
+            println("Total: ${iconPacks.size + largeIconPacks.size} icon packs")
+            println("  JitPack available: ${iconPacks.size}")
+            println("  Local builds only: ${largeIconPacks.size}")
             println("=".repeat(80))
             println()
             println("To bump all icons: ./gradlew bumpAllIcons")
             println("To bump specific icon: ./gradlew bump{IconName}")
-            println("Example: ./gradlew bumpSimple-icons")
+            println("Example: ./gradlew bumpLucide")
         }
     }
 }
