@@ -11,7 +11,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose-icons"
 
-// Only include smaller icon packs for JitPack builds
+// Include smaller icon packs for Maven Central publishing
 // Large packs (simple-icons: 3389 icons, tabler-icons: 5989 icons) are excluded
 // because they generate methods too large for the JVM (64KB limit)
 include(
@@ -24,8 +24,11 @@ include(
     ":lucide"
 )
 
-// Conditionally include sample only for local builds
-if (!System.getenv("JITPACK").toBoolean()) {
+// Conditionally include sample and large packs for local builds
+if (System.getenv("CI").toBoolean()) {
+    // CI environment - only build publishable modules
+} else {
+    // Local builds - include sample and large icon packs
     include(":sample")
     include(":simple-icons")
     include(":tabler-icons")

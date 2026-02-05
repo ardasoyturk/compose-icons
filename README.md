@@ -5,32 +5,20 @@ A comprehensive collection of icon packs for Compose Multiplatform. This library
 > [!NOTE]  
 > This project is based on [compose-icons by DevSrSouza](https://github.com/devsrsouza/compose-icons). We updated all icon packs to their latest versions, added new icon packs, and modernized the codebase. Thank you to Gabriel Souza (DevSrSouza) for the original work.
 
-## Installation (JitPack)
+## Installation (Maven Central)
 
-Add JitPack repository to your `settings.gradle.kts`:
-
-```kotlin
-dependencyResolutionManagement {
-    repositories {
-        google()
-        mavenCentral()
-        maven { url = uri("https://jitpack.io") }
-    }
-}
-```
-
-Add the dependency to your `build.gradle.kts`:
+The artifacts are published to Maven Central. Add the dependency to your `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.ardasoyturk.compose-icons:{ICON_PACK}:2.0.0")
+    implementation("io.github.ardasoyturk.compose.icons:{ICON_PACK}:2.0.0")
 }
 ```
 
 Replace `{ICON_PACK}` with your desired icon pack name:
 
 ```kotlin
-implementation("com.github.ardasoyturk.compose-icons:simple-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0")
 ```
 
 ## Compose Multiplatform Support
@@ -55,9 +43,9 @@ Icon(
 
 ## Available Icon Packs
 
-### JitPack Available (Small Packs)
+### Available on Maven Central (Small Packs)
 
-These icon packs are available via JitPack and have reasonable method sizes:
+These icon packs are available on Maven Central and have reasonable method sizes:
 
 | Icon Pack | Version | Gradle Dependency | Icons | Documentation |
 |-----------|---------|-------------------|-------|---------------|
@@ -87,18 +75,18 @@ These icon packs have too many icons and exceed the JVM method size limit (64KB)
 composeIcons = "2.0.0"
 
 [libraries]
-# JitPack available (small packs)
-composeIcons-cssGg = { module = "com.github.ardasoyturk.compose-icons:css-gg", version.ref = "composeIcons" }
-composeIcons-evaIcons = { module = "com.github.ardasoyturk.compose-icons:eva-icons", version.ref = "composeIcons" }
-composeIcons-feather = { module = "com.github.ardasoyturk.compose-icons:feather", version.ref = "composeIcons" }
-composeIcons-fontAwesome = { module = "com.github.ardasoyturk.compose-icons:font-awesome", version.ref = "composeIcons" }
-composeIcons-linea = { module = "com.github.ardasoyturk.compose-icons:linea", version.ref = "composeIcons" }
-composeIcons-octicons = { module = "com.github.ardasoyturk.compose-icons:octicons", version.ref = "composeIcons" }
-composeIcons-lucide = { module = "com.github.ardasoyturk.compose-icons:lucide", version.ref = "composeIcons" }
+# Maven Central available (small packs)
+composeIcons-cssGg = { module = "io.github.ardasoyturk.compose.icons:css-gg", version.ref = "composeIcons" }
+composeIcons-evaIcons = { module = "io.github.ardasoyturk.compose.icons:eva-icons", version.ref = "composeIcons" }
+composeIcons-feather = { module = "io.github.ardasoyturk.compose.icons:feather", version.ref = "composeIcons" }
+composeIcons-fontAwesome = { module = "io.github.ardasoyturk.compose.icons:font-awesome", version.ref = "composeIcons" }
+composeIcons-linea = { module = "io.github.ardasoyturk.compose.icons:linea", version.ref = "composeIcons" }
+composeIcons-octicons = { module = "io.github.ardasoyturk.compose.icons:octicons", version.ref = "composeIcons" }
+composeIcons-lucide = { module = "io.github.ardasoyturk.compose.icons:lucide", version.ref = "composeIcons" }
 
 # Local builds only (large packs - exceed JVM method size limit)
-# composeIcons-simpleIcons = { module = "com.github.ardasoyturk.compose-icons:simple-icons", version.ref = "composeIcons" }
-# composeIcons-tablerIcons = { module = "com.github.ardasoyturk.compose-icons:tabler-icons", version.ref = "composeIcons" }
+# composeIcons-simpleIcons = { module = "io.github.ardasoyturk.compose.icons:simple-icons", version.ref = "composeIcons" }
+# composeIcons-tablerIcons = { module = "io.github.ardasoyturk.compose.icons:tabler-icons", version.ref = "composeIcons" }
 ```
 
 ## Documentation
