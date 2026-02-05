@@ -2,7 +2,8 @@
 
 A comprehensive collection of icon packs for Compose Multiplatform. This library provides well-known icon packs with an API inspired by Compose Material Icons.
 
-> **Note:** This project is based on [compose-icons by DevSrSouza](https://github.com/devsrsouza/compose-icons). We updated all icon packs to their latest versions, added new icon packs, and modernized the codebase. Thank you to Gabriel Souza (DevSrSouza) for the original work.
+> [!NOTE]  
+> This project is based on [compose-icons by DevSrSouza](https://github.com/devsrsouza/compose-icons). We updated all icon packs to their latest versions, added new icon packs, and modernized the codebase. Thank you to Gabriel Souza (DevSrSouza) for the original work.
 
 ## Installation (JitPack)
 
