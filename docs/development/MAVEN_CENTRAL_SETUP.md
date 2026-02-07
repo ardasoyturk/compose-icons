@@ -15,7 +15,7 @@ Add these secrets to your GitHub repository (Settings → Secrets and variables 
 |-------------|-------------|
 | `MAVEN_CENTRAL_USERNAME` | Your Sonatype/Maven Central username |
 | `MAVEN_CENTRAL_PASSWORD` | Your Sonatype/Maven Central password/token |
-| `SIGNING_KEY` | The base64-encoded GPG private key |
+| `SIGNING_KEY` | Your GPG private key (ASCII-armored or base64-encoded armored key) |
 | `SIGNING_KEY_PASSWORD` | The password for your GPG key |
 
 ### Setting up GPG Key
@@ -27,10 +27,10 @@ Add these secrets to your GitHub repository (Settings → Secrets and variables 
 
 2. Export your private key:
    ```bash
-   gpg --export-secret-keys --armor YOUR_KEY_ID | base64
+   gpg --export-secret-keys --armor YOUR_KEY_ID
    ```
 
-3. Copy the base64 output and add it as the `SIGNING_KEY` secret
+3. Add the output as the `SIGNING_KEY` secret (you can also base64-encode it if preferred)
 
 ### Sonatype Token (Recommended)
 
