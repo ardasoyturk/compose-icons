@@ -1,6 +1,6 @@
 # Maven Central Publishing Setup
 
-This project is configured to publish to Maven Central using the `com.vanniktech.maven.publish` plugin.
+This project is configured to publish to Maven Central (Central Portal) using the `com.vanniktech.maven.publish` plugin.
 
 ## Prerequisites
 
@@ -42,6 +42,10 @@ Instead of using your password, generate a token:
 
 ## Publishing
 
+Publishing uses:
+- `SONATYPE_HOST=CENTRAL_PORTAL` in `/Users/arda/Projects/compose-icons/gradle.properties`
+- Gradle task `publishAndReleaseToMavenCentral`
+
 ### Manual Publish (via GitHub Actions)
 
 1. Go to Actions → Publish to Maven Central
@@ -74,6 +78,7 @@ After publishing:
 - Verify your Maven Central credentials are correct
 - If using tokens, ensure they haven't expired
 
-### Close/Release fails
-- Check the staging repository on [central.sonatype.com](https://central.sonatype.com)
-- Look for validation errors in the staging repository activity
+### Publish/Release fails
+- Confirm `SONATYPE_HOST=CENTRAL_PORTAL` is set in `/Users/arda/Projects/compose-icons/gradle.properties`
+- Confirm your token is from [central.sonatype.com](https://central.sonatype.com) Access Tokens
+- Check the publishing run logs for the first failed module (`:feather`, `:lucide`, etc.)

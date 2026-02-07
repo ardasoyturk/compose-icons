@@ -1,10 +1,10 @@
 # Using Compose Icons in Your Project
 
-## Installation (JitPack - Recommended)
+## Installation (Maven Central - Recommended)
 
-This library is distributed via [JitPack](https://jitpack.io/). Make sure to add JitPack to your repositories.
+This library is published to Maven Central. Use `mavenCentral()` in your repositories.
 
-### Step 1: Add JitPack Repository
+### Step 1: Add Maven Central Repository
 
 In your `settings.gradle.kts`:
 
@@ -13,7 +13,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url = uri("https://jitpack.io") }
     }
 }
 ```
@@ -24,7 +23,7 @@ In your app's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.ardasoyturk.compose-icons:{ICON_PACK}:2.0.0")
+    implementation("io.github.ardasoyturk.compose.icons:{ICON_PACK}:2.0.0")
 }
 ```
 
@@ -43,7 +42,7 @@ Replace `{ICON_PACK}` with your desired icon pack name:
 
 Example:
 ```kotlin
-implementation("com.github.ardasoyturk.compose-icons:simple-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0")
 ```
 
 ### Step 3: Use in Code
@@ -66,7 +65,7 @@ fun MyScreen() {
 
 ## Alternative: Local Development (Testing)
 
-Best for testing changes before using JitPack.
+Best for testing local changes before releasing to Maven Central.
 
 ### Step 1: Publish to Local Maven
 
@@ -96,7 +95,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.ardasoyturk.compose-icons:simple-icons:2.0.0-SNAPSHOT")
+    implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0-SNAPSHOT")
 }
 ```
 
@@ -118,17 +117,17 @@ Then sync your app project.
 
 ```kotlin
 // Add to dependencies:
-implementation("com.github.ardasoyturk.compose-icons:simple-icons:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:feather:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:tabler-icons:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:eva-icons:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:font-awesome:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:octicons:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:linea:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:line-awesome:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:erikflowers-weather-icons:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:css-gg:2.0.0")
-implementation("com.github.ardasoyturk.compose-icons:lucide:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:feather:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:tabler-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:eva-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:font-awesome:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:octicons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:linea:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:line-awesome:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:erikflowers-weather-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:css-gg:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:lucide:2.0.0")
 ```
 
 ### Version Catalog (TOML)
@@ -138,9 +137,9 @@ implementation("com.github.ardasoyturk.compose-icons:lucide:2.0.0")
 composeIcons = "2.0.0"
 
 [libraries]
-composeIcons-simple = { module = "com.github.ardasoyturk.compose-icons:simple-icons", version.ref = "composeIcons" }
-composeIcons-feather = { module = "com.github.ardasoyturk.compose-icons:feather", version.ref = "composeIcons" }
-composeIcons-lucide = { module = "com.github.ardasoyturk.compose-icons:lucide", version.ref = "composeIcons" }
+composeIcons-simple = { module = "io.github.ardasoyturk.compose.icons:simple-icons", version.ref = "composeIcons" }
+composeIcons-feather = { module = "io.github.ardasoyturk.compose.icons:feather", version.ref = "composeIcons" }
+composeIcons-lucide = { module = "io.github.ardasoyturk.compose.icons:lucide", version.ref = "composeIcons" }
 # ... add others as needed
 ```
 

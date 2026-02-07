@@ -123,7 +123,7 @@ repositories {
 
 // In build.gradle.kts
 dependencies {
-    implementation("com.github.ardasoyturk.compose-icons:lucide:2.0.0")
+    implementation("io.github.ardasoyturk.compose.icons:lucide:2.0.0")
 }
 ```
 

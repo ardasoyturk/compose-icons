@@ -21,17 +21,17 @@ In your app's `build.gradle.kts`:
 ```kotlin
 dependencies {
     // Choose the icon packs you want to use
-    implementation("com.github.ardasoyturk.compose.icons:feather:2.0.0-SNAPSHOT")
-    implementation("com.github.ardasoyturk.compose.icons:lucide:2.0.0-SNAPSHOT")
+    implementation("io.github.ardasoyturk.compose.icons:feather:2.0.0-SNAPSHOT")
+    implementation("io.github.ardasoyturk.compose.icons:lucide:2.0.0-SNAPSHOT")
     
     // Available packs (all published to local Maven):
-    // implementation("com.github.ardasoyturk.compose.icons:simple-icons:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:font-awesome:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:octicons:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:tabler-icons:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:eva-icons:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:linea:2.0.0-SNAPSHOT")
-    // implementation("com.github.ardasoyturk.compose.icons:css-gg:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:font-awesome:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:octicons:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:tabler-icons:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:eva-icons:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:linea:2.0.0-SNAPSHOT")
+    // implementation("io.github.ardasoyturk.compose.icons:css-gg:2.0.0-SNAPSHOT")
 }
 ```
 
@@ -138,4 +138,4 @@ If you get "Could not find" errors, make sure:
 
 1. Start with Feather and Lucide for development
 2. Add more packs as needed
-3. For production, consider using JitPack instead of local Maven
+3. For production, use Maven Central artifacts
