@@ -36,6 +36,9 @@ fun Project.setupModuleForComposeMultiplatform(
     iosPrefixName: String = "ios", // only used in ios sample
     wasm: Boolean = true,
 ) {
+    val androidOnly = (findProperty("androidOnly")?.toString()?.toBooleanStrictOrNull() == true)
+        || (System.getenv("ANDROID_ONLY")?.toBoolean() == true)
+
     plugins.withType<KotlinBasePluginWrapper> {
         extensions.configure<KotlinMultiplatformExtension> {
             val compose = (this as org.gradle.api.plugins.ExtensionAware).extensions.getByName("compose") as org.jetbrains.compose.ComposePlugin.Dependencies
@@ -49,20 +52,21 @@ fun Project.setupModuleForComposeMultiplatform(
                     publishLibraryVariants("release")
                 }
             }
-            jvm("desktop")
+            if (!androidOnly) {
+                jvm("desktop")
 
+                js(IR) {
+                    browser()
+                }
+                macosX64()
+                macosArm64()
+                ios(iosPrefixName)
+                iosSimulatorArm64("${iosPrefixName}SimulatorArm64")
 
-            js(IR) {
-                browser()
-            }
-            macosX64()
-            macosArm64()
-            ios(iosPrefixName)
-            iosSimulatorArm64("${iosPrefixName}SimulatorArm64")
-
-            if (wasm) {
-                @OptIn(ExperimentalWasmDsl::class)
-                wasmJs { browser() }
+                if (wasm) {
+                    @OptIn(ExperimentalWasmDsl::class)
+                    wasmJs { browser() }
+                }
             }
 
             sourceSets {
@@ -79,42 +83,48 @@ fun Project.setupModuleForComposeMultiplatform(
                         compileOnly(compose.ui)
                     }
                 }
-                val commonTest by getting
-                val jvmMain by creating {
-                    dependsOn(commonMain)
-                }
-                val jvmTest by creating {
-                    dependsOn(commonTest)
-                }
+                if (androidOnly) {
+                    val androidMain by getting {
+                        dependsOn(commonMain)
+                    }
+                } else {
+                    val commonTest by getting
+                    val jvmMain by creating {
+                        dependsOn(commonMain)
+                    }
+                    val jvmTest by creating {
+                        dependsOn(commonTest)
+                    }
 
-                val desktopMain by getting {
-                    dependsOn(jvmMain)
-                }
-                val androidMain by getting {
-                    dependsOn(jvmMain)
-                }
-                val desktopTest by getting {
-                    dependsOn(jvmTest)
-                }
+                    val desktopMain by getting {
+                        dependsOn(jvmMain)
+                    }
+                    val androidMain by getting {
+                        dependsOn(jvmMain)
+                    }
+                    val desktopTest by getting {
+                        dependsOn(jvmTest)
+                    }
 
-                val nativeMain by creating {
-                    dependsOn(commonMain)
-                }
+                    val nativeMain by creating {
+                        dependsOn(commonMain)
+                    }
 
-                val macosMain by creating {
-                    dependsOn(nativeMain)
-                }
-                val macosX64Main by getting {
-                    dependsOn(macosMain)
-                }
-                val macosArm64Main by getting {
-                    dependsOn(macosMain)
-                }
-                val iosMain = getByName(iosPrefixName + "Main").apply {
-                    dependsOn(nativeMain)
-                }
-                val iosSimulatorArm64Main = getByName(iosPrefixName + "SimulatorArm64Main").apply {
-                    dependsOn(iosMain)
+                    val macosMain by creating {
+                        dependsOn(nativeMain)
+                    }
+                    val macosX64Main by getting {
+                        dependsOn(macosMain)
+                    }
+                    val macosArm64Main by getting {
+                        dependsOn(macosMain)
+                    }
+                    val iosMain = getByName(iosPrefixName + "Main").apply {
+                        dependsOn(nativeMain)
+                    }
+                    val iosSimulatorArm64Main = getByName(iosPrefixName + "SimulatorArm64Main").apply {
+                        dependsOn(iosMain)
+                    }
                 }
             }
         }

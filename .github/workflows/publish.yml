@@ -7,6 +7,11 @@ on:
         description: 'Version to publish (e.g., 2.0.0)'
         required: true
         type: string
+      module:
+        description: 'Single module to publish (e.g., lucide). Leave empty to publish all modules.'
+        required: false
+        default: 'lucide'
+        type: string
 
   push:
     tags:
@@ -15,7 +20,7 @@ on:
 jobs:
   publish:
     name: Publish to Maven Central
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: read
 
@@ -46,6 +51,14 @@ jobs:
           VERSION=${GITHUB_REF#refs/tags/}
           echo "VERSION_NAME=$VERSION" >> $GITHUB_ENV
 
+      - name: Select publish task
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.module }}" ]; then
+            echo "PUBLISH_TASK=:${{ github.event.inputs.module }}:publishAndReleaseToMavenCentral" >> $GITHUB_ENV
+          else
+            echo "PUBLISH_TASK=publishAndReleaseToMavenCentral" >> $GITHUB_ENV
+          fi
+
       - name: Prepare signing key
         env:
           SIGNING_KEY_RAW: ${{ secrets.SIGNING_KEY }}
@@ -64,8 +77,9 @@ jobs:
           } >> $GITHUB_ENV
 
       - name: Publish and Release to Maven Central
-        run: ./gradlew publishAndReleaseToMavenCentral --no-daemon --no-parallel --no-configuration-cache
+        run: ./gradlew $PUBLISH_TASK --no-daemon --no-parallel --no-configuration-cache
         env:
+          ANDROID_ONLY: "true"
           ORG_GRADLE_PROJECT_mavenCentralUsername: ${{ secrets.MAVEN_CENTRAL_USERNAME }}
           ORG_GRADLE_PROJECT_mavenCentralPassword: ${{ secrets.MAVEN_CENTRAL_PASSWORD }}
           ORG_GRADLE_PROJECT_signingInMemoryKey: ${{ env.SIGNING_IN_MEMORY_KEY }}
