@@ -11,14 +11,15 @@ The artifacts are published to Maven Central. Add the dependency to your `build.
 
 ```kotlin
 dependencies {
-    implementation("io.github.ardasoyturk.compose.icons:{ICON_PACK}:2.0.0")
+    implementation("io.github.ardasoyturk.compose.icons:{ICON_PACK}:{VERSION}")
 }
 ```
 
 Replace `{ICON_PACK}` with your desired icon pack name:
+- Start from version `2.0.6` (or newer)
 
 ```kotlin
-implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.0")
+implementation("io.github.ardasoyturk.compose.icons:simple-icons:2.0.6")
 ```
 
 ## Compose Multiplatform Support
@@ -72,7 +73,7 @@ These icon packs have too many icons and exceed the JVM method size limit (64KB)
 
 ```toml
 [versions]
-composeIcons = "2.0.0"
+composeIcons = "2.0.6" # choose the version you want to use
 
 [libraries]
 # Maven Central available (small packs)
