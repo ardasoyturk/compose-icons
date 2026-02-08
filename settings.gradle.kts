@@ -11,9 +11,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose-icons"
 
-// Include smaller icon packs for Maven Central publishing
-// Large packs (simple-icons: 3389 icons, tabler-icons: 5989 icons) are excluded
-// because they generate methods too large for the JVM (64KB limit)
+// Include all publishable icon packs for Maven Central publishing
 include(
     ":feather",
     ":eva-icons",
@@ -21,15 +19,12 @@ include(
     ":linea",
     ":octicons",
     ":css-gg",
-    ":lucide"
+    ":lucide",
+    ":simple-icons",
+    ":tabler-icons"
 )
 
-// Conditionally include sample and large packs for local builds
-if (System.getenv("CI").toBoolean()) {
-    // CI environment - only build publishable modules
-} else {
-    // Local builds - include sample and large icon packs
+// Conditionally include sample app for local builds only
+if (!System.getenv("CI").toBoolean()) {
     include(":sample")
-    include(":simple-icons")
-    include(":tabler-icons")
 }

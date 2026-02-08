@@ -58,16 +58,16 @@ These icon packs are available on Maven Central and have reasonable method sizes
 | [css.gg](https://css.gg/) | 2.1.1 | `css-gg` | 705 | [docs](docs/icon-packs/css-gg.md) |
 | [Lucide](https://lucide.dev/) | 0.563.1 | `lucide` | 1,669 | [docs](docs/icon-packs/lucide.md) |
 
-### Local Builds Only (Large Packs)
+### Large Packs
 
-These icon packs have too many icons and exceed the JVM method size limit (64KB). They are available for local builds only:
+These icon packs are large and may increase build time:
 
 | Icon Pack | Version | Gradle Dependency | Icons | Documentation |
 |-----------|---------|-------------------|-------|---------------|
 | [Simple Icons](https://simpleicons.org/) | 16.7.0 | `simple-icons` | 3,389 | [docs](docs/icon-packs/simple-icons.md) |
 | [Tabler Icons](https://tabler-icons.io/) | 3.36.1 | `tabler-icons` | 5,989 | [docs](docs/icon-packs/tabler-icons.md) |
 
-**Note:** To use large packs, clone the repository and publish to local Maven with `./gradlew publishToMavenLocal`
+**Note:** Prefer adding only the packs you need to keep app compile time lower.
 
 ## Version Catalog (TOML)
 

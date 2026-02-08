@@ -93,6 +93,7 @@ registerGeneratorTask(
     },
     svgToComposeConfig = SvgToComposeConfig(
         accessorName = "SimpleIcons",
+        stripAllIconsAccessors = true,
     ),
     licensePathAtRepo = { "LICENSE.md" },
     documentationHeader = "[Simple Icons](https://simpleicons.org/)"

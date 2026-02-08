@@ -16,6 +16,7 @@ data class SvgToComposeConfig(
     val accessorName: String,
     val type: VectorType = VectorType.SVG,
     val iconNameTransformer: (iconName: String, group: String) -> String = { it, _ -> it },
+    val stripAllIconsAccessors: Boolean = false,
 )
 
 data class MapIconsToSvgComposeFolderResult(
@@ -122,6 +123,10 @@ private fun Project.generate(
         generatePreview = false,
         generateStringAccessor = true,
     )
+
+    if (svgToComposeConfig.stripAllIconsAccessors) {
+        stripAllIconsAccessorsInGeneratedSources(targetCodeGeneratorDir)
+    }
 
     // License copy
     val licensePath = licensePathAtRepo()
@@ -236,3 +241,32 @@ data class Icon(
     val hex: String,
     val source: String
 )
+
+private fun stripAllIconsAccessorsInGeneratedSources(rootDir: File) {
+    rootDir.walkTopDown()
+        .filter { it.isFile && it.extension == "kt" }
+        .forEach { file ->
+            var content = file.readText()
+            content = removeAccessorBlock(content, "__AllIcons")
+            content = removeAccessorBlock(content, "__AllIconsNamed")
+            file.writeText(content)
+        }
+}
+
+private fun removeAccessorBlock(content: String, backingName: String): String {
+    val start = content.indexOf("private var $backingName:")
+    if (start == -1) return content
+
+    val returnMarker = "return $backingName!!"
+    val returnIndex = content.indexOf(returnMarker, start)
+    if (returnIndex == -1) return content
+
+    val closeIndex = content.indexOf("\n  }", returnIndex)
+    if (closeIndex == -1) return content
+
+    var end = closeIndex + "\n  }".length
+    if (end < content.length && content[end] == '\n') end += 1
+    if (end < content.length && content[end] == '\n') end += 1
+
+    return content.removeRange(start, end)
+}

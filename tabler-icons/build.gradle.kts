@@ -44,6 +44,7 @@ registerGeneratorTask(
     },
     svgToComposeConfig = SvgToComposeConfig(
         accessorName = "TablerIcons",
+        stripAllIconsAccessors = true,
     ),
     licensePathAtRepo = { "LICENSE" },
     documentationHeader = "[Tabler Icons](https://tabler-icons.io/)"
